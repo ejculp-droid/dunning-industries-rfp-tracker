@@ -193,4 +193,51 @@
                             <div><span class="meta-label">Agency:</span>${opp.fullParentPathName || 'N/A'}</div>
                             <div><span class="meta-label">Posted:</span>${new Date(opp.postedDate).toLocaleDateString()}</div>
                             <div><span class="meta-label">Deadline:</span>${opp.responseDeadLine ? new Date(opp.responseDeadLine).toLocaleDateString() : 'N/A'}</div>
-                            ${opp.estimatedValue > 0 ? `<div><span class="meta
+                            ${opp.estimatedValue > 0 ? `<div><span class="meta-label">Est. Value:</span><span class="value-badge">$${opp.estimatedValue.toLocaleString()}</span></div>` : ''}
+                        </div>
+                    </div>
+                `;
+            });
+            results.innerHTML = html;
+        }
+        
+        function updateStats() {
+            document.getElementById('totalRFPs').textContent = allResults.length;
+            const totalValue = allResults.reduce((sum, opp) => sum + opp.estimatedValue, 0);
+            document.getElementById('totalValue').textContent = '$' + totalValue.toLocaleString();
+            const highValue = allResults.filter(opp => opp.estimatedValue >= 100000).length;
+            document.getElementById('highValue').textContent = highValue;
+        }
+        
+        function exportToCSV() {
+            if (allResults.length === 0) {
+                alert('No results to export. Please search first.');
+                return;
+            }
+            
+            let csv = 'Division,Title,RFP Number,Agency,Posted Date,Deadline,Estimated Value\n';
+            allResults.forEach(opp => {
+                const divName = opp.division === 'multi' ? 'Multiple' : divisions[opp.division]?.name || 'General';
+                const row = [
+                    divName,
+                    `"${opp.title.replace(/"/g, '""')}"`,
+                    opp.solicitationNumber || opp.noticeId,
+                    `"${(opp.fullParentPathName || 'N/A').replace(/"/g, '""')}"`,
+                    new Date(opp.postedDate).toLocaleDateString(),
+                    opp.responseDeadLine ? new Date(opp.responseDeadLine).toLocaleDateString() : 'N/A',
+                    opp.estimatedValue > 0 ? '$' + opp.estimatedValue.toLocaleString() : 'N/A'
+                ];
+                csv += row.join(',') + '\n';
+            });
+            
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `dunning-rfp-opportunities-${new Date().toISOString().split('T')[0]}.csv`;
+            a.click();
+            window.URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>
