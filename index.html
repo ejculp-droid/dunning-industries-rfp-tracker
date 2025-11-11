@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Dunning Industries RFP Tracker</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; padding: 20px; }
+        .container { max-width: 1400px; margin: 0 auto; background: white; border-radius: 20px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); overflow: hidden; }
+        header { background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 30px; text-align: center; }
+        header h1 { font-size: 2.5em; margin-bottom: 10px; }
+        header p { opacity: 0.9; font-size: 1.1em; }
+        .divisions { display: flex; justify-content: center; gap: 15px; padding: 20px; background: #f8f9fa; flex-wrap: wrap; }
+        .division-btn { padding: 12px 24px; border: 2px solid #ddd; background: white; border-radius: 8px; cursor: pointer; font-size: 16px; font-weight: 600; transition: all 0.3s; }
+        .division-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+        .division-btn.active { color: white; border-color: transparent; }
+        .division-btn.all.active { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .division-btn.tree.active { background: linear-gradient(135deg, #56ab2f 0%, #a8e063 100%); }
+        .division-btn.stone.active { background: linear-gradient(135deg, #4b6cb7 0%, #182848 100%); }
+        .division-btn.gravel.active { background: linear-gradient(135deg, #f2994a 0%, #f2c94c 100%); }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 30px; background: #f8f9fa; }
+        .stat-card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .stat-number { font-size: 2.5em; font-weight: 700; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .stat-label { color: #6c757d; font-size: 0.9em; margin-top: 5px; }
+        .controls { padding: 30px; background: white; border-bottom: 2px solid #e9ecef; }
+        .search-box { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+        input, select { flex: 1; min-width: 200px; padding: 12px; border: 2px solid #ddd; border-radius: 8px; font-size: 16px; }
+        button { padding: 12px 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; font-weight: 600; transition: all 0.3s; }
+        button:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4); }
+        button:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+        .export-btn { background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); margin-left: 10px; }
+        .results { padding: 30px; min-height: 400px; }
+        .loading { text-align: center; padding: 60px; color: #667eea; font-size: 1.2em; }
+        .rfp-card { background: white; border: 2px solid #e9ecef; border-radius: 12px; padding: 20px; margin-bottom: 15px; transition: all 0.3s; }
+        .rfp-card:hover { border-color: #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.1); transform: translateX(5px); }
+        .rfp-title { font-size: 1.3em; font-weight: 700; color: #2c3e50; margin-bottom: 8px; }
+        .division-badge { display: inline-block; padding: 6px 12px; border-radius: 6px; font-size: 0.85em; font-weight: 600; color: white; margin-right: 10px; }
+        .badge-tree { background: linear-gradient(135deg, #56ab2f 0%, #a8e063 100%); }
+        .badge-stone { background: linear-gradient(135deg, #4b6cb7 0%, #182848 100%); }
+        .badge-gravel { background: linear-gradient(135deg, #f2994a 0%, #f2c94c 100%); }
+        .badge-multi { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .rfp-meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 15px; font-size: 0.95em; color: #6c757d; }
+        .meta-label { font-weight: 600; color: #495057; margin-right: 5px; }
+        .value-badge { display: inline-block; padding: 4px 12px; background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white; border-radius: 6px; font-weight: 600; font-size: 1.1em; }
+        .no-results { text-align: center; padding: 60px; color: #6c757d; font-size: 1.2em; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏗️ Dunning Industries RFP Tracker</h1>
+            <p>Multi-Division Government Contract Opportunities</p>
+        </header>
+        
+        <div class="divisions">
+            <button class="division-btn all active" onclick="setDivision('all')">All Divisions</button>
+            <button class="division-btn tree" onclick="setDivision('tree')">🌳 Tree & Landscape</button>
+            <button class="division-btn stone" onclick="setDivision('stone')">🪨 Stone & Supply</button>
+            <button class="division-btn gravel" onclick="setDivision('gravel')">⛏️ Sand & Gravel</button>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-card"><div class="stat-number" id="totalRFPs">0</div><div class="stat-label">Total Opportunities</div></div>
+            <div class="stat-card"><div class="stat-number" id="totalValue">$0</div><div class="stat-label">Total Contract Value</div></div>
+            <div class="stat-card"><div class="stat-number" id="highValue">0</div><div class="stat-label">High-Value ($100K+)</div></div>
+        </div>
+        
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="keyword" placeholder="Search keywords (optional)">
+                <select id="state">
+                    <option value="">All States</option>
+                    <option value="CT">Connecticut</option>
+                    <option value="NY">New York</option>
+                    <option value="MA">Massachusetts</option>
+                    <option value="RI">Rhode Island</option>
+                </select>
+                <input type="number" id="minValue" placeholder="Min Value ($)" min="0">
+                <button onclick="searchRFPs()" id="searchBtn">🔍 Search Opportunities</button>
+                <button class="export-btn" onclick="exportToCSV()" id="exportBtn">📊 Export CSV</button>
+            </div>
+        </div>
+        
+        <div class="results" id="results">
+            <div class="no-results">Click "Search Opportunities" to find RFPs for your selected division</div>
+        </div>
+    </div>
+
+    <script>
+        const API_KEY = 'SAM-07e40872-6088-43c2-9e30-4768dbc60b0a';
+        let currentDivision = 'all';
+        let allResults = [];
+        
+        const divisions = {
+            tree: { name: 'Tree & Landscape', naics: ['561730', '111421', '238910'], keywords: ['tree', 'landscape', 'nursery', 'landscaping', 'grounds', 'arborist', 'lawn', 'park'] },
+            stone: { name: 'Stone & Supply', naics: ['423320', '444190', '327390'], keywords: ['stone', 'masonry', 'hardscape', 'paving', 'brick', 'concrete', 'building materials', 'retaining'] },
+            gravel: { name: 'Sand & Gravel', naics: ['212321', '212319', '327320'], keywords: ['sand', 'gravel', 'aggregate', 'crushed stone', 'construction materials', 'excavation', 'fill'] }
+        };
+        
+        function setDivision(div) {
+            currentDivision = div;
+            document.querySelectorAll('.division-btn').forEach(btn => btn.classList.remove('active'));
+            const el = document.querySelector(`.division-btn.${div}`);
+            if (el) el.classList.add('active');
+        }
+        
+        function detectDivision(title) {
+            const text = (title || '').toLowerCase();
+            let matches = [];
+            Object.keys(divisions).forEach(key => {
+                if (divisions[key].keywords.some(kw => text.includes(kw.toLowerCase()))) matches.push(key);
+            });
+            return matches.length > 1 ? 'multi' : matches.length === 1 ? matches[0] : 'tree';
+        }
+        
+        async function searchRFPs() {
+            const btn = document.getElementById('searchBtn');
+            const results = document.getElementById('results');
+            btn.disabled = true;
+            results.innerHTML = '<div class="loading">⏳ Searching SAM.gov database...</div>';
+            
+            try {
+                const today = new Date();
+                const oneYearAgo = new Date(today);
+                oneYearAgo.setFullYear(today.getFullYear() - 1);
+                const formatDate = (d) => `${String(d.getMonth() + 1).padStart(2, '0')}/${String(d.getDate()).padStart(2, '0')}/${d.getFullYear()}`;
+                
+                let searchTerms = currentDivision === 'all' ? ['landscape', 'stone', 'gravel'] : divisions[currentDivision].keywords.slice(0, 3);
+                const keyword = document.getElementById('keyword').value.trim();
+                if (keyword) searchTerms = [keyword];
+                const state = document.getElementById('state').value;
+                const minValue = document.getElementById('minValue').value;
+                
+                allResults = [];
+                for (const term of searchTerms) {
+                    let url = `https://api.sam.gov/opportunities/v2/search?api_key=${API_KEY}&postedFrom=${formatDate(oneYearAgo)}&postedTo=${formatDate(today)}&limit=100`;
+                    if (term) url += `&title=${encodeURIComponent(term)}`;
+                    if (state) url += `&state=${encodeURIComponent(state)}`;
+                    
+                    const response = await fetch(url);
+                    if (!response.ok) continue;
+                    const data = await response.json();
+                    const items = data.opportunitiesData || data.opportunities || data;
+                    if (items && Array.isArray(items)) {
+                        items.forEach(opp => {
+                            const id = opp.noticeId || opp.solicitationNumber || (opp.id || '') || JSON.stringify(opp).slice(0,20);
+                            if (!allResults.find(r => r.noticeId === id || r.solicitationNumber === id)) {
+                                const title = opp.title || opp.noticeTitle || opp.description || '';
+                                const div = detectDivision(title);
+                                const value = extractValue(title + ' ' + (opp.description || ''));
+                                if (!minValue || value >= parseInt(minValue, 10)) {
+                                    allResults.push({...opp, division: div, estimatedValue: value, noticeId: id});
+                                }
+                            }
+                        });
+                    }
+                }
+                
+                displayResults();
+                updateStats();
+            } catch (error) {
+                document.getElementById('results').innerHTML = '<div class="no-results">❌ Error searching. Please try again.</div>';
+                console.error(error);
+            } finally {
+                btn.disabled = false;
+            }
+        }
+        
+        function extractValue(text) {
+            if (!text) return 0;
+            const moneyMatches = text.match(/\$[\d,]+(\.\d{2})?/g);
+            if (moneyMatches && moneyMatches.length) {
+                const nums = moneyMatches.map(m => parseFloat(m.replace(/[$,]/g, '')));
+                return Math.max(...nums);
+            }
+            const kMatches = text.match(/([\d,.]+)\s*k\b/gi);
+            if (kMatches) {
+                const nums = kMatches.map(m => parseFloat(m.replace(/[,kK]/g, '')) * 1000);
+                return Math.max(...nums);
+            }
+            const plainNumbers = (text.match(/[\d,]{4,}/g) || []).map(n => parseInt(n.replace(/,/g,''),10));
+            return plainNumbers.length ? Math.max(...plainNumbers) : 0;
+        }
+        
+        function formatMoney(v) {
+            return v ? ('$' + v.toLocaleString()) : '$0';
+        }
+        
+        function displayResults() {
+            const results = document.getElementById('results');
+            if (!allResults || allResults.length === 0) {
+                results.innerHTML = '<div class="no-results">No opportunities found. Try different search criteria.</div>';
+                return;
+            }
+            
+            let html = '';
+            allResults.forEach(opp => {
+                const divKey = opp.division || 'multi';
+                const badgeClass = `badge-${divKey}`;
+                const divName = divKey === 'multi' ? 'Multiple Divisions' : divisions[divKey]?.name || 'General';
+                const title = opp.title || opp.noticeTitle || 'Untitled Opportunity';
+                const posted = opp.postedDate ? new Date(opp.postedDate).toLocaleDateString() : (opp.posted ? new Date(opp.posted).toLocaleDateString() : 'N/A');
+                const deadline = opp.responseDeadLine ? new Date(opp.responseDeadLine).toLocaleDateString() : (opp.noticeCloseDate ? new Date(opp.noticeCloseDate).toLocaleDateString() : 'N/A');
+                const id = opp.solicitationNumber || opp.noticeId || 'N/A';
+                const agency = opp.fullParentPathName || opp.principalPlaceOfPerformance || opp.agency || 'N/A';
+                const valueHtml = opp.estimatedValue > 0 ? `<div><span class="meta-label">Est. Value:</span><span class="value-badge">${formatMoney(opp.estimatedValue)}</span></div>` : '';
+                
+                html += `
+                    <div class="rfp-card">
+                        <div class="rfp-title">
+                            <span class="division-badge ${badgeClass}">${divName}</span>
+                            ${escapeHtml(title)}
+                        </div>
+                        <div class="rfp-meta">
+                            <div><span class="meta-label">RFP #:</span>${escapeHtml(id)}</div>
+                            <div><span class="meta-label">Agency:</span>${escapeHtml(agency)}</div>
+                            <div><span class="meta-label">Posted:</span>${escapeHtml(posted)}</div>
+                            <div><span class="meta-label">Deadline:</span>${escapeHtml(deadline)}</div>
+                            ${valueHtml}
+                        </div>
+                    </div>
+                `;
+            });
+            results.innerHTML = html;
+        }
+        
+        function updateStats() {
+            const total = allResults.length;
+            const totalValue = allResults.reduce((s, r) => s + (r.estimatedValue || 0), 0);
+            const highValue = allResults.filter(r => (r.estimatedValue || 0) >= 100000).length;
+            document.getElementById('totalRFPs').textContent = total;
+            document.getElementById('totalValue').textContent = formatMoney(totalValue);
+            document.getElementById('highValue').textContent = highValue;
+        }
+        
+        function exportToCSV() {
+            if (!allResults || allResults.length === 0) {
+                alert('No data to export.');
+                return;
+            }
+            const header = ['RFP #','Title','Division','Agency','Posted','Deadline','EstimatedValue','URL'];
+            const rows = allResults.map(r => {
+                const title = r.title || r.noticeTitle || '';
+                const id = r.solicitationNumber || r.noticeId || '';
+                const division = r.division || '';
+                const agency = r.fullParentPathName || r.agency || '';
+                const posted = r.postedDate || r.posted || '';
+                const deadline = r.responseDeadLine || r.noticeCloseDate || '';
+                const value = r.estimatedValue || 0;
+                const url = r.noticeURL || (r.links && r.links.length ? r.links[0] : '') || '';
+                return [id, title, division, agency, posted, deadline, value, url].map(f => `"${String(f || '').replace(/"/g,'""')}"`).join(',');
+            });
+            const csv = [header.join(','), ...rows].join('\r\n');
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `rfp-results-${new Date().toISOString().slice(0,10)}.csv`;
+            document.body.appendChild(a);
+            a.click();
+            a.remove();
+            URL.revokeObjectURL(url);
+        }
+        
+        function escapeHtml(str) {
+            return String(str || '').replace(/[&<>"'`=\/]/g, function(s) {
+                return ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;','/':'&#x2F;','`':'&#x60;','=':'&#x3D;' })[s];
+            });
+        }
+        
+        document.getElementById('keyword').addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') searchRFPs();
+        });
+    </script>
+</body>
+</html>
