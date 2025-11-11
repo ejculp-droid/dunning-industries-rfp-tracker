@@ -1,0 +1,5564 @@
+{
+  "landscape": [
+    {
+      "noticeId": "LAND-2024-001",
+      "title": "Grounds Maintenance Services - Department of Veterans Affairs",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-100",
+      "postedDate": "2024-05-08",
+      "responseDeadLine": "2023-01-18",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hartford"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive grounds maintenance services including maintenance, care, and related services.",
+      "estimatedValue": 70351,
+      "active": "No",
+      "award": {
+        "date": "2024-01-15",
+        "awardee": {
+          "name": "Green Services LLC",
+          "location": {
+            "city": {
+              "name": "Bridgeport"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-002",
+      "title": "Landscape Installation and Maintenance - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-101",
+      "postedDate": "2024-06-13",
+      "responseDeadLine": "2025-12-21",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Haven"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive landscape installation and maintenance including maintenance, care, and related services.",
+      "estimatedValue": 130700,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-003",
+      "title": "Tree Removal and Pruning Services - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-102",
+      "postedDate": "2024-02-17",
+      "responseDeadLine": "2025-12-22",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stamford"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive tree removal and pruning services including maintenance, care, and related services.",
+      "estimatedValue": 459723,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-004",
+      "title": "Arborist Services - Department of Transportation",
+      "type": "Award Notice",
+      "solicitationNumber": "DOT-2023-103",
+      "postedDate": "2024-09-17",
+      "responseDeadLine": "2024-02-14",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bridgeport"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive arborist services including maintenance, care, and related services.",
+      "estimatedValue": 316445,
+      "active": "No",
+      "award": {
+        "date": "2024-08-17",
+        "awardee": {
+          "name": "Professional Services LLC",
+          "location": {
+            "city": {
+              "name": "Danbury"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-005",
+      "title": "Lawn Care and Mowing - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-104",
+      "postedDate": "2024-05-02",
+      "responseDeadLine": "2025-11-27",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Waterbury"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive lawn care and mowing including maintenance, care, and related services.",
+      "estimatedValue": 477892,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-006",
+      "title": "Athletic Field Maintenance - Department of Interior",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-105",
+      "postedDate": "2024-03-12",
+      "responseDeadLine": "2023-12-03",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwalk"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive athletic field maintenance including maintenance, care, and related services.",
+      "estimatedValue": 410405,
+      "active": "No",
+      "award": {
+        "date": "2023-07-09",
+        "awardee": {
+          "name": "Green Solutions LLC",
+          "location": {
+            "city": {
+              "name": "West Hartford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-007",
+      "title": "Park Grounds Maintenance - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-106",
+      "postedDate": "2024-07-17",
+      "responseDeadLine": "2025-11-28",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Danbury"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive park grounds maintenance including maintenance, care, and related services.",
+      "estimatedValue": 738035,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-008",
+      "title": "Cemetery Grounds Keeping - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-107",
+      "postedDate": "2024-03-13",
+      "responseDeadLine": "2026-01-20",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Britain"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive cemetery grounds keeping including maintenance, care, and related services.",
+      "estimatedValue": 395105,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-009",
+      "title": "Campus Landscape Services - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "DOT-2023-108",
+      "postedDate": "2024-08-19",
+      "responseDeadLine": "2023-04-08",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Hartford"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive campus landscape services including maintenance, care, and related services.",
+      "estimatedValue": 682945,
+      "active": "No",
+      "award": {
+        "date": "2023-12-09",
+        "awardee": {
+          "name": "Professional Solutions LLC",
+          "location": {
+            "city": {
+              "name": "Meriden"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-010",
+      "title": "Turf Management - US Forest Service",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-109",
+      "postedDate": "2024-09-01",
+      "responseDeadLine": "2023-01-12",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Greenwich"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive turf management including maintenance, care, and related services.",
+      "estimatedValue": 650973,
+      "active": "No",
+      "award": {
+        "date": "2024-01-09",
+        "awardee": {
+          "name": "Elite Solutions LLC",
+          "location": {
+            "city": {
+              "name": "Bristol"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-011",
+      "title": "Irrigation System Installation - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-110",
+      "postedDate": "2024-09-22",
+      "responseDeadLine": "2025-12-07",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hamden"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive irrigation system installation including maintenance, care, and related services.",
+      "estimatedValue": 741416,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-012",
+      "title": "Snow Removal and Ice Management - Federal Aviation Administration",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-111",
+      "postedDate": "2024-04-05",
+      "responseDeadLine": "2024-01-12",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Meriden"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive snow removal and ice management including maintenance, care, and related services.",
+      "estimatedValue": 313515,
+      "active": "No",
+      "award": {
+        "date": "2024-04-24",
+        "awardee": {
+          "name": "Landscape Contractors LLC",
+          "location": {
+            "city": {
+              "name": "West Haven"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-013",
+      "title": "Vegetation Management - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-112",
+      "postedDate": "2024-03-09",
+      "responseDeadLine": "2026-01-08",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bristol"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive vegetation management including maintenance, care, and related services.",
+      "estimatedValue": 647688,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-014",
+      "title": "Erosion Control Services - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-113",
+      "postedDate": "2024-01-04",
+      "responseDeadLine": "2026-01-07",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Manchester"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive erosion control services including maintenance, care, and related services.",
+      "estimatedValue": 293694,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-015",
+      "title": "Native Planting Services - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-114",
+      "postedDate": "2024-06-27",
+      "responseDeadLine": "2025-12-22",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Haven"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive native planting services including maintenance, care, and related services.",
+      "estimatedValue": 245711,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-016",
+      "title": "Grounds Maintenance Services - Department of Transportation",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-115",
+      "postedDate": "2024-10-25",
+      "responseDeadLine": "2023-11-20",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Milford"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive grounds maintenance services including maintenance, care, and related services.",
+      "estimatedValue": 427972,
+      "active": "No",
+      "award": {
+        "date": "2023-10-12",
+        "awardee": {
+          "name": "Green Group LLC",
+          "location": {
+            "city": {
+              "name": "Middletown"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-017",
+      "title": "Landscape Installation and Maintenance - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-116",
+      "postedDate": "2024-10-07",
+      "responseDeadLine": "2025-12-30",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stratford"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive landscape installation and maintenance including maintenance, care, and related services.",
+      "estimatedValue": 359790,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-018",
+      "title": "Tree Removal and Pruning Services - Department of Interior",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-117",
+      "postedDate": "2024-05-09",
+      "responseDeadLine": "2023-06-14",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "East Hartford"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive tree removal and pruning services including maintenance, care, and related services.",
+      "estimatedValue": 581606,
+      "active": "No",
+      "award": {
+        "date": "2023-09-28",
+        "awardee": {
+          "name": "Premier Group LLC",
+          "location": {
+            "city": {
+              "name": "Norwich"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-019",
+      "title": "Arborist Services - Department of Agriculture",
+      "type": "Award Notice",
+      "solicitationNumber": "DOT-2023-118",
+      "postedDate": "2024-04-30",
+      "responseDeadLine": "2023-12-11",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Middletown"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive arborist services including maintenance, care, and related services.",
+      "estimatedValue": 514388,
+      "active": "No",
+      "award": {
+        "date": "2024-07-11",
+        "awardee": {
+          "name": "Professional Group LLC",
+          "location": {
+            "city": {
+              "name": "Shelton"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-020",
+      "title": "Lawn Care and Mowing - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-119",
+      "postedDate": "2024-02-11",
+      "responseDeadLine": "2026-01-19",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Wallingford"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive lawn care and mowing including maintenance, care, and related services.",
+      "estimatedValue": 97821,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-021",
+      "title": "Athletic Field Maintenance - Bureau of Land Management",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-120",
+      "postedDate": "2024-04-23",
+      "responseDeadLine": "2026-01-20",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwich"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive athletic field maintenance including maintenance, care, and related services.",
+      "estimatedValue": 561598,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-022",
+      "title": "Park Grounds Maintenance - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-121",
+      "postedDate": "2024-05-24",
+      "responseDeadLine": "2026-01-09",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Shelton"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive park grounds maintenance including maintenance, care, and related services.",
+      "estimatedValue": 432047,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-023",
+      "title": "Cemetery Grounds Keeping - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-122",
+      "postedDate": "2024-05-14",
+      "responseDeadLine": "2025-12-19",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Torrington"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive cemetery grounds keeping including maintenance, care, and related services.",
+      "estimatedValue": 261613,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-024",
+      "title": "Campus Landscape Services - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-123",
+      "postedDate": "2024-01-29",
+      "responseDeadLine": "2025-12-31",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Trumbull"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive campus landscape services including maintenance, care, and related services.",
+      "estimatedValue": 719865,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-025",
+      "title": "Turf Management - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-124",
+      "postedDate": "2024-04-19",
+      "responseDeadLine": "2025-12-05",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Ansonia"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive turf management including maintenance, care, and related services.",
+      "estimatedValue": 611483,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-026",
+      "title": "Irrigation System Installation - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-125",
+      "postedDate": "2024-05-10",
+      "responseDeadLine": "2026-01-02",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Derby"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive irrigation system installation including maintenance, care, and related services.",
+      "estimatedValue": 294692,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-027",
+      "title": "Snow Removal and Ice Management - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-126",
+      "postedDate": "2024-04-05",
+      "responseDeadLine": "2026-01-23",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Groton"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive snow removal and ice management including maintenance, care, and related services.",
+      "estimatedValue": 488320,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-028",
+      "title": "Vegetation Management - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-127",
+      "postedDate": "2024-07-02",
+      "responseDeadLine": "2025-11-29",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New London"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive vegetation management including maintenance, care, and related services.",
+      "estimatedValue": 156194,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-029",
+      "title": "Erosion Control Services - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-128",
+      "postedDate": "2024-02-04",
+      "responseDeadLine": "2025-12-29",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Windsor"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive erosion control services including maintenance, care, and related services.",
+      "estimatedValue": 61662,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-030",
+      "title": "Native Planting Services - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-129",
+      "postedDate": "2024-10-07",
+      "responseDeadLine": "2025-12-07",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Enfield"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive native planting services including maintenance, care, and related services.",
+      "estimatedValue": 419284,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-031",
+      "title": "Grounds Maintenance Services - Department of Agriculture",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-130",
+      "postedDate": "2024-11-01",
+      "responseDeadLine": "2023-12-03",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hartford"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive grounds maintenance services including maintenance, care, and related services.",
+      "estimatedValue": 50168,
+      "active": "No",
+      "award": {
+        "date": "2024-01-16",
+        "awardee": {
+          "name": "Green Solutions LLC",
+          "location": {
+            "city": {
+              "name": "Bridgeport"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-032",
+      "title": "Landscape Installation and Maintenance - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-131",
+      "postedDate": "2024-05-29",
+      "responseDeadLine": "2025-12-09",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Haven"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive landscape installation and maintenance including maintenance, care, and related services.",
+      "estimatedValue": 495041,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-033",
+      "title": "Tree Removal and Pruning Services - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-132",
+      "postedDate": "2024-02-16",
+      "responseDeadLine": "2024-03-09",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stamford"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive tree removal and pruning services including maintenance, care, and related services.",
+      "estimatedValue": 553843,
+      "active": "No",
+      "award": {
+        "date": "2024-08-25",
+        "awardee": {
+          "name": "Premier Solutions LLC",
+          "location": {
+            "city": {
+              "name": "Norwalk"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-034",
+      "title": "Arborist Services - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-133",
+      "postedDate": "2024-09-30",
+      "responseDeadLine": "2026-01-01",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bridgeport"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive arborist services including maintenance, care, and related services.",
+      "estimatedValue": 176539,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-035",
+      "title": "Lawn Care and Mowing - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-134",
+      "postedDate": "2024-02-03",
+      "responseDeadLine": "2025-11-26",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Waterbury"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive lawn care and mowing including maintenance, care, and related services.",
+      "estimatedValue": 113265,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-036",
+      "title": "Athletic Field Maintenance - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-135",
+      "postedDate": "2024-08-22",
+      "responseDeadLine": "2025-12-29",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwalk"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive athletic field maintenance including maintenance, care, and related services.",
+      "estimatedValue": 547273,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-037",
+      "title": "Park Grounds Maintenance - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-136",
+      "postedDate": "2024-08-11",
+      "responseDeadLine": "2025-12-05",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Danbury"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive park grounds maintenance including maintenance, care, and related services.",
+      "estimatedValue": 136423,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-038",
+      "title": "Cemetery Grounds Keeping - Department of Defense",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-137",
+      "postedDate": "2024-02-18",
+      "responseDeadLine": "2024-01-16",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Britain"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive cemetery grounds keeping including maintenance, care, and related services.",
+      "estimatedValue": 623239,
+      "active": "No",
+      "award": {
+        "date": "2023-07-30",
+        "awardee": {
+          "name": "Premier Contractors LLC",
+          "location": {
+            "city": {
+              "name": "Hamden"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-039",
+      "title": "Campus Landscape Services - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-138",
+      "postedDate": "2024-05-18",
+      "responseDeadLine": "2025-12-31",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Hartford"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive campus landscape services including maintenance, care, and related services.",
+      "estimatedValue": 602513,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-040",
+      "title": "Turf Management - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-139",
+      "postedDate": "2024-03-29",
+      "responseDeadLine": "2026-01-20",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Greenwich"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive turf management including maintenance, care, and related services.",
+      "estimatedValue": 684859,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-041",
+      "title": "Irrigation System Installation - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-140",
+      "postedDate": "2024-09-14",
+      "responseDeadLine": "2025-12-08",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hamden"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive irrigation system installation including maintenance, care, and related services.",
+      "estimatedValue": 212899,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-042",
+      "title": "Snow Removal and Ice Management - Department of Interior",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-141",
+      "postedDate": "2024-07-27",
+      "responseDeadLine": "2023-11-26",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Meriden"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive snow removal and ice management including maintenance, care, and related services.",
+      "estimatedValue": 166506,
+      "active": "No",
+      "award": {
+        "date": "2023-09-05",
+        "awardee": {
+          "name": "Landscape Group LLC",
+          "location": {
+            "city": {
+              "name": "West Haven"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-043",
+      "title": "Vegetation Management - Department of Agriculture",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-142",
+      "postedDate": "2024-06-05",
+      "responseDeadLine": "2023-03-24",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bristol"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive vegetation management including maintenance, care, and related services.",
+      "estimatedValue": 104989,
+      "active": "No",
+      "award": {
+        "date": "2024-03-11",
+        "awardee": {
+          "name": "Premier Group LLC",
+          "location": {
+            "city": {
+              "name": "Milford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-044",
+      "title": "Erosion Control Services - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-143",
+      "postedDate": "2024-10-16",
+      "responseDeadLine": "2026-01-11",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Manchester"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive erosion control services including maintenance, care, and related services.",
+      "estimatedValue": 219084,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-045",
+      "title": "Native Planting Services - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-144",
+      "postedDate": "2024-08-09",
+      "responseDeadLine": "2023-12-15",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Haven"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive native planting services including maintenance, care, and related services.",
+      "estimatedValue": 453057,
+      "active": "No",
+      "award": {
+        "date": "2023-10-21",
+        "awardee": {
+          "name": "Elite Group LLC",
+          "location": {
+            "city": {
+              "name": "East Hartford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-046",
+      "title": "Grounds Maintenance Services - US Forest Service",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-145",
+      "postedDate": "2024-05-14",
+      "responseDeadLine": "2023-09-22",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Milford"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive grounds maintenance services including maintenance, care, and related services.",
+      "estimatedValue": 599437,
+      "active": "No",
+      "award": {
+        "date": "2023-09-06",
+        "awardee": {
+          "name": "Green Corp LLC",
+          "location": {
+            "city": {
+              "name": "Middletown"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-047",
+      "title": "Landscape Installation and Maintenance - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-146",
+      "postedDate": "2024-06-14",
+      "responseDeadLine": "2025-12-28",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stratford"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive landscape installation and maintenance including maintenance, care, and related services.",
+      "estimatedValue": 443543,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-048",
+      "title": "Tree Removal and Pruning Services - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-147",
+      "postedDate": "2024-09-24",
+      "responseDeadLine": "2026-01-23",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "East Hartford"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive tree removal and pruning services including maintenance, care, and related services.",
+      "estimatedValue": 778350,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-049",
+      "title": "Arborist Services - Department of Veterans Affairs",
+      "type": "Award Notice",
+      "solicitationNumber": "DOT-2023-148",
+      "postedDate": "2024-07-27",
+      "responseDeadLine": "2024-02-17",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Middletown"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive arborist services including maintenance, care, and related services.",
+      "estimatedValue": 756758,
+      "active": "No",
+      "award": {
+        "date": "2024-03-06",
+        "awardee": {
+          "name": "Professional Corp LLC",
+          "location": {
+            "city": {
+              "name": "Shelton"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-050",
+      "title": "Lawn Care and Mowing - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-149",
+      "postedDate": "2024-03-24",
+      "responseDeadLine": "2026-01-13",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Wallingford"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive lawn care and mowing including maintenance, care, and related services.",
+      "estimatedValue": 408834,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-051",
+      "title": "Athletic Field Maintenance - General Services Administration",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-150",
+      "postedDate": "2024-05-04",
+      "responseDeadLine": "2023-01-05",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwich"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive athletic field maintenance including maintenance, care, and related services.",
+      "estimatedValue": 734171,
+      "active": "No",
+      "award": {
+        "date": "2023-09-10",
+        "awardee": {
+          "name": "Green Services LLC",
+          "location": {
+            "city": {
+              "name": "Trumbull"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-052",
+      "title": "Park Grounds Maintenance - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-151",
+      "postedDate": "2024-05-24",
+      "responseDeadLine": "2025-12-12",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Shelton"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive park grounds maintenance including maintenance, care, and related services.",
+      "estimatedValue": 142426,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-053",
+      "title": "Cemetery Grounds Keeping - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-152",
+      "postedDate": "2024-05-30",
+      "responseDeadLine": "2026-01-22",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Torrington"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive cemetery grounds keeping including maintenance, care, and related services.",
+      "estimatedValue": 388861,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-054",
+      "title": "Campus Landscape Services - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-153",
+      "postedDate": "2024-02-25",
+      "responseDeadLine": "2025-11-26",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Trumbull"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive campus landscape services including maintenance, care, and related services.",
+      "estimatedValue": 668950,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-055",
+      "title": "Turf Management - Department of Agriculture",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-154",
+      "postedDate": "2024-09-09",
+      "responseDeadLine": "2023-01-03",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Ansonia"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive turf management including maintenance, care, and related services.",
+      "estimatedValue": 650135,
+      "active": "No",
+      "award": {
+        "date": "2024-01-20",
+        "awardee": {
+          "name": "Elite Services LLC",
+          "location": {
+            "city": {
+              "name": "New London"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-056",
+      "title": "Irrigation System Installation - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-155",
+      "postedDate": "2024-09-17",
+      "responseDeadLine": "2025-12-17",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Derby"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive irrigation system installation including maintenance, care, and related services.",
+      "estimatedValue": 412841,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-057",
+      "title": "Snow Removal and Ice Management - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-156",
+      "postedDate": "2024-02-27",
+      "responseDeadLine": "2023-05-16",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Groton"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive snow removal and ice management including maintenance, care, and related services.",
+      "estimatedValue": 642027,
+      "active": "No",
+      "award": {
+        "date": "2023-07-03",
+        "awardee": {
+          "name": "Landscape Solutions LLC",
+          "location": {
+            "city": {
+              "name": "Enfield"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-058",
+      "title": "Vegetation Management - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-157",
+      "postedDate": "2024-10-13",
+      "responseDeadLine": "2026-01-17",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New London"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive vegetation management including maintenance, care, and related services.",
+      "estimatedValue": 658776,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-059",
+      "title": "Erosion Control Services - Department of Homeland Security",
+      "type": "Award Notice",
+      "solicitationNumber": "DOT-2023-158",
+      "postedDate": "2024-08-17",
+      "responseDeadLine": "2024-04-19",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Windsor"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive erosion control services including maintenance, care, and related services.",
+      "estimatedValue": 512064,
+      "active": "No",
+      "award": {
+        "date": "2024-06-27",
+        "awardee": {
+          "name": "Professional Solutions LLC",
+          "location": {
+            "city": {
+              "name": "New Haven"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-060",
+      "title": "Native Planting Services - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-159",
+      "postedDate": "2024-07-08",
+      "responseDeadLine": "2025-12-08",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Enfield"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive native planting services including maintenance, care, and related services.",
+      "estimatedValue": 707234,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-061",
+      "title": "Grounds Maintenance Services - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-160",
+      "postedDate": "2024-01-10",
+      "responseDeadLine": "2025-12-17",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hartford"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive grounds maintenance services including maintenance, care, and related services.",
+      "estimatedValue": 662122,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-062",
+      "title": "Landscape Installation and Maintenance - Department of Defense",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-161",
+      "postedDate": "2024-08-12",
+      "responseDeadLine": "2024-04-22",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Haven"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Awarded contract for comprehensive landscape installation and maintenance including maintenance, care, and related services.",
+      "estimatedValue": 271314,
+      "active": "No",
+      "award": {
+        "date": "2024-02-07",
+        "awardee": {
+          "name": "Landscape Contractors LLC",
+          "location": {
+            "city": {
+              "name": "Waterbury"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "LAND-2024-063",
+      "title": "Tree Removal and Pruning Services - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-162",
+      "postedDate": "2024-04-14",
+      "responseDeadLine": "2026-01-06",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stamford"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive tree removal and pruning services including maintenance, care, and related services.",
+      "estimatedValue": 105821,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-064",
+      "title": "Arborist Services - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-163",
+      "postedDate": "2024-06-30",
+      "responseDeadLine": "2025-12-31",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bridgeport"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive arborist services including maintenance, care, and related services.",
+      "estimatedValue": 184974,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-065",
+      "title": "Lawn Care and Mowing - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-164",
+      "postedDate": "2024-07-06",
+      "responseDeadLine": "2026-01-02",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Waterbury"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive lawn care and mowing including maintenance, care, and related services.",
+      "estimatedValue": 550107,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-066",
+      "title": "Athletic Field Maintenance - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-165",
+      "postedDate": "2024-06-05",
+      "responseDeadLine": "2026-01-13",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwalk"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive athletic field maintenance including maintenance, care, and related services.",
+      "estimatedValue": 312904,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-067",
+      "title": "Park Grounds Maintenance - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-166",
+      "postedDate": "2024-08-02",
+      "responseDeadLine": "2025-12-10",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Danbury"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive park grounds maintenance including maintenance, care, and related services.",
+      "estimatedValue": 565212,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-068",
+      "title": "Cemetery Grounds Keeping - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-167",
+      "postedDate": "2024-01-08",
+      "responseDeadLine": "2025-12-27",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Britain"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive cemetery grounds keeping including maintenance, care, and related services.",
+      "estimatedValue": 777108,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-069",
+      "title": "Campus Landscape Services - Bureau of Land Management",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-168",
+      "postedDate": "2024-01-12",
+      "responseDeadLine": "2026-01-15",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Hartford"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive campus landscape services including maintenance, care, and related services.",
+      "estimatedValue": 552342,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "LAND-2024-070",
+      "title": "Turf Management - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-169",
+      "postedDate": "2024-05-25",
+      "responseDeadLine": "2026-01-04",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Greenwich"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "561730",
+      "description": "Seeking contractor for comprehensive turf management including maintenance, care, and related services.",
+      "estimatedValue": 106758,
+      "active": "Yes",
+      "award": null
+    }
+  ],
+  "stone": [
+    {
+      "noticeId": "STONE-2024-001",
+      "title": "Hardscape Installation - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-200",
+      "postedDate": "2024-05-15",
+      "responseDeadLine": "2025-12-15",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwalk"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional hardscape installation services including materials and installation.",
+      "estimatedValue": 953267,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-002",
+      "title": "Stone Paver Installation - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-201",
+      "postedDate": "2024-09-24",
+      "responseDeadLine": "2025-12-08",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Danbury"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional stone paver installation services including materials and installation.",
+      "estimatedValue": 814525,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-003",
+      "title": "Retaining Wall Construction - Army Corps of Engineers",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-202",
+      "postedDate": "2024-07-22",
+      "responseDeadLine": "2023-11-14",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Britain"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional retaining wall construction services including materials and installation.",
+      "estimatedValue": 259867,
+      "active": "No",
+      "award": {
+        "date": "2024-03-23",
+        "awardee": {
+          "name": "Master Stone Inc",
+          "location": {
+            "city": {
+              "name": "Greenwich"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-004",
+      "title": "Masonry Restoration - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "DOI-2024-203",
+      "postedDate": "2024-03-30",
+      "responseDeadLine": "2026-01-09",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Hartford"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional masonry restoration services including materials and installation.",
+      "estimatedValue": 792656,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-005",
+      "title": "Stone Veneer Installation - Department of Agriculture",
+      "type": "Award Notice",
+      "solicitationNumber": "USDA-2023-204",
+      "postedDate": "2024-06-01",
+      "responseDeadLine": "2024-04-18",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Greenwich"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional stone veneer installation services including materials and installation.",
+      "estimatedValue": 661280,
+      "active": "No",
+      "award": {
+        "date": "2023-08-22",
+        "awardee": {
+          "name": "Superior Stone Inc",
+          "location": {
+            "city": {
+              "name": "Meriden"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-006",
+      "title": "Concrete Paving - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-205",
+      "postedDate": "2024-02-19",
+      "responseDeadLine": "2025-12-28",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hamden"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional concrete paving services including materials and installation.",
+      "estimatedValue": 740303,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-007",
+      "title": "Decorative Stone Work - Bureau of Land Management",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-206",
+      "postedDate": "2024-06-29",
+      "responseDeadLine": "2025-12-15",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Meriden"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional decorative stone work services including materials and installation.",
+      "estimatedValue": 246696,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-008",
+      "title": "Plaza Reconstruction - US Forest Service",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-207",
+      "postedDate": "2024-01-10",
+      "responseDeadLine": "2023-11-09",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bristol"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional plaza reconstruction services including materials and installation.",
+      "estimatedValue": 382508,
+      "active": "No",
+      "award": {
+        "date": "2024-07-10",
+        "awardee": {
+          "name": "Master Masonry Inc",
+          "location": {
+            "city": {
+              "name": "West Haven"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-009",
+      "title": "Walkway Installation - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "DOI-2024-208",
+      "postedDate": "2024-06-19",
+      "responseDeadLine": "2025-11-27",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Manchester"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional walkway installation services including materials and installation.",
+      "estimatedValue": 753487,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-010",
+      "title": "Parking Lot Construction - Federal Aviation Administration",
+      "type": "Award Notice",
+      "solicitationNumber": "USDA-2023-209",
+      "postedDate": "2024-10-19",
+      "responseDeadLine": "2023-11-05",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Haven"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional parking lot construction services including materials and installation.",
+      "estimatedValue": 167728,
+      "active": "No",
+      "award": {
+        "date": "2023-12-25",
+        "awardee": {
+          "name": "Superior Masonry Inc",
+          "location": {
+            "city": {
+              "name": "Stratford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-011",
+      "title": "Building Facade Restoration - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-210",
+      "postedDate": "2024-03-11",
+      "responseDeadLine": "2026-01-14",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Milford"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional building facade restoration services including materials and installation.",
+      "estimatedValue": 764739,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-012",
+      "title": "Monument Installation - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-211",
+      "postedDate": "2024-03-30",
+      "responseDeadLine": "2026-01-07",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stratford"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional monument installation services including materials and installation.",
+      "estimatedValue": 247630,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-013",
+      "title": "Outdoor Kitchen Construction - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-212",
+      "postedDate": "2024-10-03",
+      "responseDeadLine": "2025-12-27",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "East Hartford"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional outdoor kitchen construction services including materials and installation.",
+      "estimatedValue": 955914,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-014",
+      "title": "Fire Pit Installation - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "DOI-2024-213",
+      "postedDate": "2024-07-25",
+      "responseDeadLine": "2026-01-21",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Middletown"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional fire pit installation services including materials and installation.",
+      "estimatedValue": 951043,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-015",
+      "title": "Stone Stairway Construction - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-214",
+      "postedDate": "2024-05-27",
+      "responseDeadLine": "2025-12-17",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Wallingford"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional stone stairway construction services including materials and installation.",
+      "estimatedValue": 708831,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-016",
+      "title": "Hardscape Installation - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-215",
+      "postedDate": "2024-04-09",
+      "responseDeadLine": "2025-12-12",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwich"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional hardscape installation services including materials and installation.",
+      "estimatedValue": 769660,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-017",
+      "title": "Stone Paver Installation - Department of Agriculture",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-216",
+      "postedDate": "2024-10-27",
+      "responseDeadLine": "2023-08-14",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Shelton"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional stone paver installation services including materials and installation.",
+      "estimatedValue": 285838,
+      "active": "No",
+      "award": {
+        "date": "2023-07-03",
+        "awardee": {
+          "name": "Precision Construction Inc",
+          "location": {
+            "city": {
+              "name": "Trumbull"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-018",
+      "title": "Retaining Wall Construction - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-217",
+      "postedDate": "2024-09-30",
+      "responseDeadLine": "2025-12-15",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Torrington"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional retaining wall construction services including materials and installation.",
+      "estimatedValue": 289971,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-019",
+      "title": "Masonry Restoration - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "DOI-2023-218",
+      "postedDate": "2024-06-01",
+      "responseDeadLine": "2023-11-09",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Trumbull"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional masonry restoration services including materials and installation.",
+      "estimatedValue": 186232,
+      "active": "No",
+      "award": {
+        "date": "2024-04-07",
+        "awardee": {
+          "name": "Quality Construction Inc",
+          "location": {
+            "city": {
+              "name": "Derby"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-020",
+      "title": "Stone Veneer Installation - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-219",
+      "postedDate": "2024-05-31",
+      "responseDeadLine": "2026-01-23",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Ansonia"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional stone veneer installation services including materials and installation.",
+      "estimatedValue": 130105,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-021",
+      "title": "Concrete Paving - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-220",
+      "postedDate": "2024-02-16",
+      "responseDeadLine": "2025-12-22",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Derby"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional concrete paving services including materials and installation.",
+      "estimatedValue": 532511,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-022",
+      "title": "Decorative Stone Work - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-221",
+      "postedDate": "2024-07-09",
+      "responseDeadLine": "2025-11-26",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Groton"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional decorative stone work services including materials and installation.",
+      "estimatedValue": 145504,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-023",
+      "title": "Plaza Reconstruction - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-222",
+      "postedDate": "2024-09-11",
+      "responseDeadLine": "2025-11-29",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New London"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional plaza reconstruction services including materials and installation.",
+      "estimatedValue": 819723,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-024",
+      "title": "Walkway Installation - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "DOI-2024-223",
+      "postedDate": "2024-02-02",
+      "responseDeadLine": "2026-01-22",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Windsor"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional walkway installation services including materials and installation.",
+      "estimatedValue": 1106768,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-025",
+      "title": "Parking Lot Construction - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-224",
+      "postedDate": "2024-10-20",
+      "responseDeadLine": "2025-12-13",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Enfield"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional parking lot construction services including materials and installation.",
+      "estimatedValue": 424587,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-026",
+      "title": "Building Facade Restoration - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-225",
+      "postedDate": "2024-05-31",
+      "responseDeadLine": "2025-12-09",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hartford"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional building facade restoration services including materials and installation.",
+      "estimatedValue": 205595,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-027",
+      "title": "Monument Installation - Army Corps of Engineers",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-226",
+      "postedDate": "2024-03-28",
+      "responseDeadLine": "2023-05-22",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Haven"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional monument installation services including materials and installation.",
+      "estimatedValue": 1153964,
+      "active": "No",
+      "award": {
+        "date": "2024-01-23",
+        "awardee": {
+          "name": "Precision Stone Inc",
+          "location": {
+            "city": {
+              "name": "Bridgeport"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-028",
+      "title": "Outdoor Kitchen Construction - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-227",
+      "postedDate": "2024-07-01",
+      "responseDeadLine": "2025-12-19",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stamford"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional outdoor kitchen construction services including materials and installation.",
+      "estimatedValue": 709781,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-029",
+      "title": "Fire Pit Installation - Department of Agriculture",
+      "type": "Award Notice",
+      "solicitationNumber": "DOI-2023-228",
+      "postedDate": "2024-01-17",
+      "responseDeadLine": "2023-03-25",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bridgeport"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional fire pit installation services including materials and installation.",
+      "estimatedValue": 718033,
+      "active": "No",
+      "award": {
+        "date": "2024-03-23",
+        "awardee": {
+          "name": "Quality Stone Inc",
+          "location": {
+            "city": {
+              "name": "Norwalk"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-030",
+      "title": "Stone Stairway Construction - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-229",
+      "postedDate": "2024-05-17",
+      "responseDeadLine": "2026-01-08",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Waterbury"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional stone stairway construction services including materials and installation.",
+      "estimatedValue": 131072,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-031",
+      "title": "Hardscape Installation - Bureau of Land Management",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-230",
+      "postedDate": "2024-08-25",
+      "responseDeadLine": "2025-12-14",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwalk"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional hardscape installation services including materials and installation.",
+      "estimatedValue": 923236,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-032",
+      "title": "Stone Paver Installation - US Forest Service",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-231",
+      "postedDate": "2024-09-05",
+      "responseDeadLine": "2023-12-04",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Danbury"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional stone paver installation services including materials and installation.",
+      "estimatedValue": 112101,
+      "active": "No",
+      "award": {
+        "date": "2024-02-02",
+        "awardee": {
+          "name": "Precision Masonry Inc",
+          "location": {
+            "city": {
+              "name": "West Hartford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-033",
+      "title": "Retaining Wall Construction - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-232",
+      "postedDate": "2024-06-16",
+      "responseDeadLine": "2026-01-13",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Britain"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional retaining wall construction services including materials and installation.",
+      "estimatedValue": 145274,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-034",
+      "title": "Masonry Restoration - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOI-2024-233",
+      "postedDate": "2024-07-19",
+      "responseDeadLine": "2025-12-16",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Hartford"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional masonry restoration services including materials and installation.",
+      "estimatedValue": 306331,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-035",
+      "title": "Stone Veneer Installation - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-234",
+      "postedDate": "2024-08-26",
+      "responseDeadLine": "2025-12-24",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Greenwich"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional stone veneer installation services including materials and installation.",
+      "estimatedValue": 727869,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-036",
+      "title": "Concrete Paving - Department of Defense",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-235",
+      "postedDate": "2024-11-04",
+      "responseDeadLine": "2023-08-05",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hamden"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional concrete paving services including materials and installation.",
+      "estimatedValue": 387162,
+      "active": "No",
+      "award": {
+        "date": "2024-05-09",
+        "awardee": {
+          "name": "Heritage Hardscape Inc",
+          "location": {
+            "city": {
+              "name": "Bristol"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-037",
+      "title": "Decorative Stone Work - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-236",
+      "postedDate": "2024-04-24",
+      "responseDeadLine": "2025-12-03",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Meriden"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional decorative stone work services including materials and installation.",
+      "estimatedValue": 467995,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-038",
+      "title": "Plaza Reconstruction - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-237",
+      "postedDate": "2024-09-12",
+      "responseDeadLine": "2025-12-18",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bristol"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional plaza reconstruction services including materials and installation.",
+      "estimatedValue": 593558,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-039",
+      "title": "Walkway Installation - Army Corps of Engineers",
+      "type": "Award Notice",
+      "solicitationNumber": "DOI-2023-238",
+      "postedDate": "2024-04-12",
+      "responseDeadLine": "2023-04-23",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Manchester"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional walkway installation services including materials and installation.",
+      "estimatedValue": 170860,
+      "active": "No",
+      "award": {
+        "date": "2024-06-28",
+        "awardee": {
+          "name": "Quality Hardscape Inc",
+          "location": {
+            "city": {
+              "name": "Milford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-040",
+      "title": "Parking Lot Construction - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-239",
+      "postedDate": "2024-03-12",
+      "responseDeadLine": "2026-01-09",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Haven"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional parking lot construction services including materials and installation.",
+      "estimatedValue": 436168,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-041",
+      "title": "Building Facade Restoration - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-240",
+      "postedDate": "2024-08-04",
+      "responseDeadLine": "2025-12-05",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Milford"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional building facade restoration services including materials and installation.",
+      "estimatedValue": 206124,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-042",
+      "title": "Monument Installation - National Park Service",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-241",
+      "postedDate": "2024-06-10",
+      "responseDeadLine": "2024-03-29",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stratford"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional monument installation services including materials and installation.",
+      "estimatedValue": 821700,
+      "active": "No",
+      "award": {
+        "date": "2024-07-15",
+        "awardee": {
+          "name": "Precision Construction Inc",
+          "location": {
+            "city": {
+              "name": "Middletown"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-043",
+      "title": "Outdoor Kitchen Construction - Bureau of Land Management",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-242",
+      "postedDate": "2024-03-12",
+      "responseDeadLine": "2026-01-09",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "East Hartford"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional outdoor kitchen construction services including materials and installation.",
+      "estimatedValue": 658760,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-044",
+      "title": "Fire Pit Installation - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOI-2024-243",
+      "postedDate": "2024-08-13",
+      "responseDeadLine": "2026-01-07",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Middletown"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional fire pit installation services including materials and installation.",
+      "estimatedValue": 761464,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-045",
+      "title": "Stone Stairway Construction - Department of Homeland Security",
+      "type": "Award Notice",
+      "solicitationNumber": "USDA-2023-244",
+      "postedDate": "2024-01-08",
+      "responseDeadLine": "2024-02-22",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Wallingford"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional stone stairway construction services including materials and installation.",
+      "estimatedValue": 828524,
+      "active": "No",
+      "award": {
+        "date": "2024-04-07",
+        "awardee": {
+          "name": "Superior Construction Inc",
+          "location": {
+            "city": {
+              "name": "Shelton"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-046",
+      "title": "Hardscape Installation - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-245",
+      "postedDate": "2024-05-16",
+      "responseDeadLine": "2025-12-08",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwich"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional hardscape installation services including materials and installation.",
+      "estimatedValue": 123928,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-047",
+      "title": "Stone Paver Installation - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-246",
+      "postedDate": "2024-08-29",
+      "responseDeadLine": "2025-12-24",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Shelton"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional stone paver installation services including materials and installation.",
+      "estimatedValue": 1080340,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-048",
+      "title": "Retaining Wall Construction - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-247",
+      "postedDate": "2024-05-11",
+      "responseDeadLine": "2025-12-28",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Torrington"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional retaining wall construction services including materials and installation.",
+      "estimatedValue": 223279,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-049",
+      "title": "Masonry Restoration - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOI-2024-248",
+      "postedDate": "2024-06-28",
+      "responseDeadLine": "2026-01-20",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Trumbull"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional masonry restoration services including materials and installation.",
+      "estimatedValue": 789816,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-050",
+      "title": "Stone Veneer Installation - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-249",
+      "postedDate": "2024-04-10",
+      "responseDeadLine": "2025-12-13",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Ansonia"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional stone veneer installation services including materials and installation.",
+      "estimatedValue": 213171,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-051",
+      "title": "Concrete Paving - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-250",
+      "postedDate": "2024-07-15",
+      "responseDeadLine": "2025-12-02",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Derby"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional concrete paving services including materials and installation.",
+      "estimatedValue": 214609,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-052",
+      "title": "Decorative Stone Work - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-251",
+      "postedDate": "2024-02-25",
+      "responseDeadLine": "2026-01-20",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Groton"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional decorative stone work services including materials and installation.",
+      "estimatedValue": 1090931,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-053",
+      "title": "Plaza Reconstruction - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-252",
+      "postedDate": "2024-08-21",
+      "responseDeadLine": "2025-12-26",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New London"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional plaza reconstruction services including materials and installation.",
+      "estimatedValue": 1144319,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-054",
+      "title": "Walkway Installation - National Park Service",
+      "type": "Award Notice",
+      "solicitationNumber": "DOI-2023-253",
+      "postedDate": "2024-05-10",
+      "responseDeadLine": "2023-04-14",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Windsor"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional walkway installation services including materials and installation.",
+      "estimatedValue": 680078,
+      "active": "No",
+      "award": {
+        "date": "2024-06-27",
+        "awardee": {
+          "name": "Quality Stone Inc",
+          "location": {
+            "city": {
+              "name": "Hartford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-055",
+      "title": "Parking Lot Construction - Bureau of Land Management",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-254",
+      "postedDate": "2024-09-19",
+      "responseDeadLine": "2025-12-26",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Enfield"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional parking lot construction services including materials and installation.",
+      "estimatedValue": 950662,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-056",
+      "title": "Building Facade Restoration - US Forest Service",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-255",
+      "postedDate": "2024-04-14",
+      "responseDeadLine": "2023-07-12",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hartford"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional building facade restoration services including materials and installation.",
+      "estimatedValue": 483430,
+      "active": "No",
+      "award": {
+        "date": "2024-04-29",
+        "awardee": {
+          "name": "Heritage Masonry Inc",
+          "location": {
+            "city": {
+              "name": "Stamford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-057",
+      "title": "Monument Installation - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-256",
+      "postedDate": "2024-07-27",
+      "responseDeadLine": "2026-01-04",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Haven"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional monument installation services including materials and installation.",
+      "estimatedValue": 1020841,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-058",
+      "title": "Outdoor Kitchen Construction - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "VA-2024-257",
+      "postedDate": "2024-03-13",
+      "responseDeadLine": "2026-01-22",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stamford"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional outdoor kitchen construction services including materials and installation.",
+      "estimatedValue": 766643,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-059",
+      "title": "Fire Pit Installation - Department of Veterans Affairs",
+      "type": "Award Notice",
+      "solicitationNumber": "DOI-2023-258",
+      "postedDate": "2024-04-10",
+      "responseDeadLine": "2023-03-30",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bridgeport"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional fire pit installation services including materials and installation.",
+      "estimatedValue": 601457,
+      "active": "No",
+      "award": {
+        "date": "2023-10-03",
+        "awardee": {
+          "name": "Quality Masonry Inc",
+          "location": {
+            "city": {
+              "name": "Norwalk"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-060",
+      "title": "Stone Stairway Construction - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-259",
+      "postedDate": "2024-10-24",
+      "responseDeadLine": "2026-01-09",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Waterbury"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional stone stairway construction services including materials and installation.",
+      "estimatedValue": 524086,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-061",
+      "title": "Hardscape Installation - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-260",
+      "postedDate": "2024-09-27",
+      "responseDeadLine": "2026-01-02",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwalk"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional hardscape installation services including materials and installation.",
+      "estimatedValue": 758079,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-062",
+      "title": "Stone Paver Installation - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-261",
+      "postedDate": "2024-06-21",
+      "responseDeadLine": "2025-12-17",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Danbury"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional stone paver installation services including materials and installation.",
+      "estimatedValue": 390796,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-063",
+      "title": "Retaining Wall Construction - Army Corps of Engineers",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-262",
+      "postedDate": "2024-04-04",
+      "responseDeadLine": "2023-10-02",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Britain"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional retaining wall construction services including materials and installation.",
+      "estimatedValue": 846428,
+      "active": "No",
+      "award": {
+        "date": "2024-08-17",
+        "awardee": {
+          "name": "Master Hardscape Inc",
+          "location": {
+            "city": {
+              "name": "Greenwich"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-064",
+      "title": "Masonry Restoration - Department of Interior",
+      "type": "Award Notice",
+      "solicitationNumber": "DOI-2023-263",
+      "postedDate": "2024-07-25",
+      "responseDeadLine": "2023-05-04",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Hartford"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional masonry restoration services including materials and installation.",
+      "estimatedValue": 716506,
+      "active": "No",
+      "award": {
+        "date": "2023-08-30",
+        "awardee": {
+          "name": "Quality Hardscape Inc",
+          "location": {
+            "city": {
+              "name": "Hamden"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-065",
+      "title": "Stone Veneer Installation - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-264",
+      "postedDate": "2024-04-19",
+      "responseDeadLine": "2026-01-15",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Greenwich"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional stone veneer installation services including materials and installation.",
+      "estimatedValue": 492980,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-066",
+      "title": "Concrete Paving - National Park Service",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-265",
+      "postedDate": "2024-06-16",
+      "responseDeadLine": "2024-04-14",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hamden"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional concrete paving services including materials and installation.",
+      "estimatedValue": 476357,
+      "active": "No",
+      "award": {
+        "date": "2023-07-13",
+        "awardee": {
+          "name": "Heritage Construction Inc",
+          "location": {
+            "city": {
+              "name": "Bristol"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-067",
+      "title": "Decorative Stone Work - Bureau of Land Management",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-266",
+      "postedDate": "2024-11-09",
+      "responseDeadLine": "2025-12-08",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Meriden"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Seeking contractor for professional decorative stone work services including materials and installation.",
+      "estimatedValue": 754905,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "STONE-2024-068",
+      "title": "Plaza Reconstruction - US Forest Service",
+      "type": "Award Notice",
+      "solicitationNumber": "VA-2023-267",
+      "postedDate": "2024-02-02",
+      "responseDeadLine": "2024-02-12",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bristol"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Awarded contract for professional plaza reconstruction services including materials and installation.",
+      "estimatedValue": 1119919,
+      "active": "No",
+      "award": {
+        "date": "2023-06-26",
+        "awardee": {
+          "name": "Master Construction Inc",
+          "location": {
+            "city": {
+              "name": "West Haven"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-069",
+      "title": "Walkway Installation - Department of Homeland Security",
+      "type": "Award Notice",
+      "solicitationNumber": "DOI-2023-268",
+      "postedDate": "2024-08-27",
+      "responseDeadLine": "2023-09-07",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Manchester"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "238910",
+      "description": "Awarded contract for professional walkway installation services including materials and installation.",
+      "estimatedValue": 274603,
+      "active": "No",
+      "award": {
+        "date": "2023-11-01",
+        "awardee": {
+          "name": "Quality Construction Inc",
+          "location": {
+            "city": {
+              "name": "Milford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "STONE-2024-070",
+      "title": "Parking Lot Construction - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "USDA-2024-269",
+      "postedDate": "2024-01-26",
+      "responseDeadLine": "2026-01-03",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Haven"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "238140",
+      "description": "Seeking contractor for professional parking lot construction services including materials and installation.",
+      "estimatedValue": 449716,
+      "active": "Yes",
+      "award": null
+    }
+  ],
+  "gravel": [
+    {
+      "noticeId": "GRAV-2024-001",
+      "title": "Aggregate Materials Supply - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-300",
+      "postedDate": "2024-02-06",
+      "responseDeadLine": "2026-01-01",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hamden"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for aggregate materials supply for construction and infrastructure projects.",
+      "estimatedValue": 945967,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-002",
+      "title": "Sand and Gravel Delivery - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-301",
+      "postedDate": "2024-08-06",
+      "responseDeadLine": "2026-01-16",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Meriden"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for sand and gravel delivery for construction and infrastructure projects.",
+      "estimatedValue": 584873,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-003",
+      "title": "Crushed Stone Supply - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-302",
+      "postedDate": "2024-07-19",
+      "responseDeadLine": "2025-12-16",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bristol"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for crushed stone supply for construction and infrastructure projects.",
+      "estimatedValue": 942338,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-004",
+      "title": "Construction Aggregate - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-303",
+      "postedDate": "2024-03-29",
+      "responseDeadLine": "2025-12-28",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Manchester"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for construction aggregate for construction and infrastructure projects.",
+      "estimatedValue": 1535890,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-005",
+      "title": "Base Course Materials - Bureau of Land Management",
+      "type": "Solicitation",
+      "solicitationNumber": "FAA-2024-304",
+      "postedDate": "2024-08-27",
+      "responseDeadLine": "2025-12-18",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Haven"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for base course materials for construction and infrastructure projects.",
+      "estimatedValue": 1295136,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-006",
+      "title": "Road Construction Materials - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-305",
+      "postedDate": "2024-07-15",
+      "responseDeadLine": "2025-12-09",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Milford"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for road construction materials for construction and infrastructure projects.",
+      "estimatedValue": 1527738,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-007",
+      "title": "Quarry Materials Supply - Department of Homeland Security",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-306",
+      "postedDate": "2024-04-11",
+      "responseDeadLine": "2023-10-25",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stratford"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Awarded contract for quarry materials supply for construction and infrastructure projects.",
+      "estimatedValue": 1826562,
+      "active": "No",
+      "award": {
+        "date": "2023-06-23",
+        "awardee": {
+          "name": "Northeast Materials Corp",
+          "location": {
+            "city": {
+              "name": "Middletown"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-008",
+      "title": "Fill Dirt and Topsoil - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-307",
+      "postedDate": "2024-02-11",
+      "responseDeadLine": "2025-12-30",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "East Hartford"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for fill dirt and topsoil for construction and infrastructure projects.",
+      "estimatedValue": 1341404,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-009",
+      "title": "Drainage Stone Supply - Department of Veterans Affairs",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-308",
+      "postedDate": "2024-09-05",
+      "responseDeadLine": "2023-01-25",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Middletown"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Awarded contract for drainage stone supply for construction and infrastructure projects.",
+      "estimatedValue": 1893926,
+      "active": "No",
+      "award": {
+        "date": "2023-11-16",
+        "awardee": {
+          "name": "Premier Materials Corp",
+          "location": {
+            "city": {
+              "name": "Norwich"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-010",
+      "title": "Concrete Aggregates - Department of Defense",
+      "type": "Award Notice",
+      "solicitationNumber": "FAA-2023-309",
+      "postedDate": "2024-09-13",
+      "responseDeadLine": "2023-10-16",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Wallingford"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Awarded contract for concrete aggregates for construction and infrastructure projects.",
+      "estimatedValue": 1772203,
+      "active": "No",
+      "award": {
+        "date": "2024-04-08",
+        "awardee": {
+          "name": "Atlantic Materials Corp",
+          "location": {
+            "city": {
+              "name": "Shelton"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-011",
+      "title": "Asphalt Aggregates - General Services Administration",
+      "type": "Award Notice",
+      "solicitationNumber": "DOT-2023-310",
+      "postedDate": "2024-10-27",
+      "responseDeadLine": "2023-11-20",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwich"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for asphalt aggregates for construction and infrastructure projects.",
+      "estimatedValue": 1139418,
+      "active": "No",
+      "award": {
+        "date": "2023-11-26",
+        "awardee": {
+          "name": "Connecticut Quarry Corp",
+          "location": {
+            "city": {
+              "name": "Torrington"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-012",
+      "title": "Railroad Ballast - Department of Transportation",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-311",
+      "postedDate": "2024-06-16",
+      "responseDeadLine": "2024-04-08",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Shelton"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Awarded contract for railroad ballast for construction and infrastructure projects.",
+      "estimatedValue": 1442395,
+      "active": "No",
+      "award": {
+        "date": "2024-04-01",
+        "awardee": {
+          "name": "Northeast Quarry Corp",
+          "location": {
+            "city": {
+              "name": "Trumbull"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-013",
+      "title": "Riprap and Erosion Stone - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-312",
+      "postedDate": "2024-10-21",
+      "responseDeadLine": "2026-01-21",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Torrington"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for riprap and erosion stone for construction and infrastructure projects.",
+      "estimatedValue": 1502175,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-014",
+      "title": "Decorative Rock Supply - Department of Interior",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-313",
+      "postedDate": "2024-07-28",
+      "responseDeadLine": "2024-04-25",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Trumbull"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for decorative rock supply for construction and infrastructure projects.",
+      "estimatedValue": 1744491,
+      "active": "No",
+      "award": {
+        "date": "2023-08-27",
+        "awardee": {
+          "name": "Premier Quarry Corp",
+          "location": {
+            "city": {
+              "name": "Derby"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-015",
+      "title": "Bulk Material Delivery - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "FAA-2024-314",
+      "postedDate": "2024-05-20",
+      "responseDeadLine": "2025-12-28",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Ansonia"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for bulk material delivery for construction and infrastructure projects.",
+      "estimatedValue": 893971,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-016",
+      "title": "Aggregate Materials Supply - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-315",
+      "postedDate": "2024-07-22",
+      "responseDeadLine": "2025-12-03",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Derby"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for aggregate materials supply for construction and infrastructure projects.",
+      "estimatedValue": 1297606,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-017",
+      "title": "Sand and Gravel Delivery - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-316",
+      "postedDate": "2024-05-01",
+      "responseDeadLine": "2023-01-01",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Groton"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for sand and gravel delivery for construction and infrastructure projects.",
+      "estimatedValue": 1322850,
+      "active": "No",
+      "award": {
+        "date": "2023-10-14",
+        "awardee": {
+          "name": "Northeast Supply Corp",
+          "location": {
+            "city": {
+              "name": "Windsor"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-018",
+      "title": "Crushed Stone Supply - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-317",
+      "postedDate": "2024-01-11",
+      "responseDeadLine": "2025-12-03",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New London"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for crushed stone supply for construction and infrastructure projects.",
+      "estimatedValue": 1353962,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-019",
+      "title": "Construction Aggregate - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-318",
+      "postedDate": "2024-07-08",
+      "responseDeadLine": "2025-12-24",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Windsor"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for construction aggregate for construction and infrastructure projects.",
+      "estimatedValue": 766724,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-020",
+      "title": "Base Course Materials - Federal Aviation Administration",
+      "type": "Award Notice",
+      "solicitationNumber": "FAA-2023-319",
+      "postedDate": "2024-05-04",
+      "responseDeadLine": "2023-06-03",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Enfield"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for base course materials for construction and infrastructure projects.",
+      "estimatedValue": 205148,
+      "active": "No",
+      "award": {
+        "date": "2024-02-17",
+        "awardee": {
+          "name": "Atlantic Supply Corp",
+          "location": {
+            "city": {
+              "name": "New Haven"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-021",
+      "title": "Road Construction Materials - Department of Veterans Affairs",
+      "type": "Award Notice",
+      "solicitationNumber": "DOT-2023-320",
+      "postedDate": "2024-07-12",
+      "responseDeadLine": "2023-09-11",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hartford"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Awarded contract for road construction materials for construction and infrastructure projects.",
+      "estimatedValue": 1286633,
+      "active": "No",
+      "award": {
+        "date": "2024-01-01",
+        "awardee": {
+          "name": "Connecticut Stone Corp",
+          "location": {
+            "city": {
+              "name": "Stamford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-022",
+      "title": "Quarry Materials Supply - Department of Defense",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-321",
+      "postedDate": "2024-02-12",
+      "responseDeadLine": "2023-02-09",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Haven"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Awarded contract for quarry materials supply for construction and infrastructure projects.",
+      "estimatedValue": 1857290,
+      "active": "No",
+      "award": {
+        "date": "2023-10-24",
+        "awardee": {
+          "name": "Northeast Stone Corp",
+          "location": {
+            "city": {
+              "name": "Bridgeport"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-023",
+      "title": "Fill Dirt and Topsoil - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-322",
+      "postedDate": "2024-08-14",
+      "responseDeadLine": "2026-01-01",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stamford"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for fill dirt and topsoil for construction and infrastructure projects.",
+      "estimatedValue": 1354713,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-024",
+      "title": "Drainage Stone Supply - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-323",
+      "postedDate": "2024-07-16",
+      "responseDeadLine": "2026-01-17",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bridgeport"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for drainage stone supply for construction and infrastructure projects.",
+      "estimatedValue": 1062169,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-025",
+      "title": "Concrete Aggregates - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "FAA-2024-324",
+      "postedDate": "2024-01-30",
+      "responseDeadLine": "2025-12-11",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Waterbury"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for concrete aggregates for construction and infrastructure projects.",
+      "estimatedValue": 605993,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-026",
+      "title": "Asphalt Aggregates - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-325",
+      "postedDate": "2024-08-12",
+      "responseDeadLine": "2026-01-08",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwalk"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for asphalt aggregates for construction and infrastructure projects.",
+      "estimatedValue": 392089,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-027",
+      "title": "Railroad Ballast - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-326",
+      "postedDate": "2024-09-02",
+      "responseDeadLine": "2026-01-12",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Danbury"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for railroad ballast for construction and infrastructure projects.",
+      "estimatedValue": 1963328,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-028",
+      "title": "Riprap and Erosion Stone - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-327",
+      "postedDate": "2024-06-06",
+      "responseDeadLine": "2025-12-06",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Britain"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for riprap and erosion stone for construction and infrastructure projects.",
+      "estimatedValue": 681754,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-029",
+      "title": "Decorative Rock Supply - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-328",
+      "postedDate": "2024-05-12",
+      "responseDeadLine": "2023-03-02",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Hartford"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for decorative rock supply for construction and infrastructure projects.",
+      "estimatedValue": 588282,
+      "active": "No",
+      "award": {
+        "date": "2023-07-15",
+        "awardee": {
+          "name": "Premier Aggregates Corp",
+          "location": {
+            "city": {
+              "name": "Hamden"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-030",
+      "title": "Bulk Material Delivery - US Forest Service",
+      "type": "Award Notice",
+      "solicitationNumber": "FAA-2023-329",
+      "postedDate": "2024-01-19",
+      "responseDeadLine": "2023-04-14",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Greenwich"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Awarded contract for bulk material delivery for construction and infrastructure projects.",
+      "estimatedValue": 346374,
+      "active": "No",
+      "award": {
+        "date": "2024-02-10",
+        "awardee": {
+          "name": "Atlantic Aggregates Corp",
+          "location": {
+            "city": {
+              "name": "Meriden"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-031",
+      "title": "Aggregate Materials Supply - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-330",
+      "postedDate": "2024-03-09",
+      "responseDeadLine": "2025-12-14",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hamden"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for aggregate materials supply for construction and infrastructure projects.",
+      "estimatedValue": 1977956,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-032",
+      "title": "Sand and Gravel Delivery - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-331",
+      "postedDate": "2024-09-05",
+      "responseDeadLine": "2025-12-22",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Meriden"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for sand and gravel delivery for construction and infrastructure projects.",
+      "estimatedValue": 177982,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-033",
+      "title": "Crushed Stone Supply - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-332",
+      "postedDate": "2024-09-16",
+      "responseDeadLine": "2025-12-28",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bristol"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for crushed stone supply for construction and infrastructure projects.",
+      "estimatedValue": 298772,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-034",
+      "title": "Construction Aggregate - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-333",
+      "postedDate": "2024-04-08",
+      "responseDeadLine": "2026-01-01",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Manchester"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for construction aggregate for construction and infrastructure projects.",
+      "estimatedValue": 1741101,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-035",
+      "title": "Base Course Materials - General Services Administration",
+      "type": "Award Notice",
+      "solicitationNumber": "FAA-2023-334",
+      "postedDate": "2024-05-25",
+      "responseDeadLine": "2023-09-26",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Haven"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for base course materials for construction and infrastructure projects.",
+      "estimatedValue": 1048241,
+      "active": "No",
+      "award": {
+        "date": "2024-07-23",
+        "awardee": {
+          "name": "Atlantic Materials Corp",
+          "location": {
+            "city": {
+              "name": "Stratford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-036",
+      "title": "Road Construction Materials - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-335",
+      "postedDate": "2024-03-07",
+      "responseDeadLine": "2025-12-10",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Milford"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for road construction materials for construction and infrastructure projects.",
+      "estimatedValue": 1862214,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-037",
+      "title": "Quarry Materials Supply - Army Corps of Engineers",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-336",
+      "postedDate": "2024-01-03",
+      "responseDeadLine": "2026-01-18",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stratford"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for quarry materials supply for construction and infrastructure projects.",
+      "estimatedValue": 1996018,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-038",
+      "title": "Fill Dirt and Topsoil - Department of Interior",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-337",
+      "postedDate": "2024-06-01",
+      "responseDeadLine": "2024-05-03",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "East Hartford"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for fill dirt and topsoil for construction and infrastructure projects.",
+      "estimatedValue": 403896,
+      "active": "No",
+      "award": {
+        "date": "2024-04-20",
+        "awardee": {
+          "name": "Regional Quarry Corp",
+          "location": {
+            "city": {
+              "name": "Wallingford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-039",
+      "title": "Drainage Stone Supply - Department of Agriculture",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-338",
+      "postedDate": "2024-10-29",
+      "responseDeadLine": "2024-03-02",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Middletown"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Awarded contract for drainage stone supply for construction and infrastructure projects.",
+      "estimatedValue": 855001,
+      "active": "No",
+      "award": {
+        "date": "2023-09-27",
+        "awardee": {
+          "name": "Premier Quarry Corp",
+          "location": {
+            "city": {
+              "name": "Norwich"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-040",
+      "title": "Concrete Aggregates - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "FAA-2024-339",
+      "postedDate": "2024-07-10",
+      "responseDeadLine": "2026-01-23",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Wallingford"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for concrete aggregates for construction and infrastructure projects.",
+      "estimatedValue": 162559,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-041",
+      "title": "Asphalt Aggregates - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "DOT-2023-340",
+      "postedDate": "2024-09-11",
+      "responseDeadLine": "2023-07-29",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwich"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for asphalt aggregates for construction and infrastructure projects.",
+      "estimatedValue": 1076206,
+      "active": "No",
+      "award": {
+        "date": "2023-11-05",
+        "awardee": {
+          "name": "Connecticut Supply Corp",
+          "location": {
+            "city": {
+              "name": "Torrington"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-042",
+      "title": "Railroad Ballast - US Forest Service",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-341",
+      "postedDate": "2024-10-29",
+      "responseDeadLine": "2023-04-15",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Shelton"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Awarded contract for railroad ballast for construction and infrastructure projects.",
+      "estimatedValue": 894686,
+      "active": "No",
+      "award": {
+        "date": "2024-03-23",
+        "awardee": {
+          "name": "Northeast Supply Corp",
+          "location": {
+            "city": {
+              "name": "Trumbull"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-043",
+      "title": "Riprap and Erosion Stone - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-342",
+      "postedDate": "2024-01-06",
+      "responseDeadLine": "2025-12-25",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Torrington"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for riprap and erosion stone for construction and infrastructure projects.",
+      "estimatedValue": 1223588,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-044",
+      "title": "Decorative Rock Supply - Federal Aviation Administration",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-343",
+      "postedDate": "2024-05-23",
+      "responseDeadLine": "2023-10-08",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Trumbull"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for decorative rock supply for construction and infrastructure projects.",
+      "estimatedValue": 1441549,
+      "active": "No",
+      "award": {
+        "date": "2023-09-28",
+        "awardee": {
+          "name": "Premier Supply Corp",
+          "location": {
+            "city": {
+              "name": "Derby"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-045",
+      "title": "Bulk Material Delivery - Department of Veterans Affairs",
+      "type": "Award Notice",
+      "solicitationNumber": "FAA-2023-344",
+      "postedDate": "2024-09-21",
+      "responseDeadLine": "2023-07-10",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Ansonia"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Awarded contract for bulk material delivery for construction and infrastructure projects.",
+      "estimatedValue": 1707152,
+      "active": "No",
+      "award": {
+        "date": "2023-08-22",
+        "awardee": {
+          "name": "Atlantic Supply Corp",
+          "location": {
+            "city": {
+              "name": "Groton"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-046",
+      "title": "Aggregate Materials Supply - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-345",
+      "postedDate": "2024-07-24",
+      "responseDeadLine": "2025-11-30",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Derby"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for aggregate materials supply for construction and infrastructure projects.",
+      "estimatedValue": 765646,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-047",
+      "title": "Sand and Gravel Delivery - General Services Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-346",
+      "postedDate": "2024-04-20",
+      "responseDeadLine": "2025-12-01",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Groton"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for sand and gravel delivery for construction and infrastructure projects.",
+      "estimatedValue": 1550212,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-048",
+      "title": "Crushed Stone Supply - Department of Transportation",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-347",
+      "postedDate": "2024-11-09",
+      "responseDeadLine": "2023-08-17",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New London"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Awarded contract for crushed stone supply for construction and infrastructure projects.",
+      "estimatedValue": 1030574,
+      "active": "No",
+      "award": {
+        "date": "2023-06-07",
+        "awardee": {
+          "name": "Regional Stone Corp",
+          "location": {
+            "city": {
+              "name": "Enfield"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-049",
+      "title": "Construction Aggregate - Army Corps of Engineers",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-348",
+      "postedDate": "2024-04-17",
+      "responseDeadLine": "2024-01-31",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Windsor"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Awarded contract for construction aggregate for construction and infrastructure projects.",
+      "estimatedValue": 998426,
+      "active": "No",
+      "award": {
+        "date": "2024-06-27",
+        "awardee": {
+          "name": "Premier Stone Corp",
+          "location": {
+            "city": {
+              "name": "Hartford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-050",
+      "title": "Base Course Materials - Department of Interior",
+      "type": "Solicitation",
+      "solicitationNumber": "FAA-2024-349",
+      "postedDate": "2024-04-22",
+      "responseDeadLine": "2026-01-23",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Enfield"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for base course materials for construction and infrastructure projects.",
+      "estimatedValue": 1323898,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-051",
+      "title": "Road Construction Materials - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-350",
+      "postedDate": "2024-01-19",
+      "responseDeadLine": "2026-01-05",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hartford"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for road construction materials for construction and infrastructure projects.",
+      "estimatedValue": 1666515,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-052",
+      "title": "Quarry Materials Supply - National Park Service",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-351",
+      "postedDate": "2024-06-07",
+      "responseDeadLine": "2023-07-22",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Haven"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Awarded contract for quarry materials supply for construction and infrastructure projects.",
+      "estimatedValue": 1055655,
+      "active": "No",
+      "award": {
+        "date": "2023-09-10",
+        "awardee": {
+          "name": "Northeast Aggregates Corp",
+          "location": {
+            "city": {
+              "name": "Bridgeport"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-053",
+      "title": "Fill Dirt and Topsoil - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "DOD-2023-352",
+      "postedDate": "2024-01-12",
+      "responseDeadLine": "2023-12-08",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stamford"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for fill dirt and topsoil for construction and infrastructure projects.",
+      "estimatedValue": 505955,
+      "active": "No",
+      "award": {
+        "date": "2024-06-10",
+        "awardee": {
+          "name": "Regional Aggregates Corp",
+          "location": {
+            "city": {
+              "name": "Waterbury"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-054",
+      "title": "Drainage Stone Supply - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-353",
+      "postedDate": "2024-01-10",
+      "responseDeadLine": "2025-12-23",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bridgeport"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for drainage stone supply for construction and infrastructure projects.",
+      "estimatedValue": 1816693,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-055",
+      "title": "Concrete Aggregates - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "FAA-2024-354",
+      "postedDate": "2024-07-13",
+      "responseDeadLine": "2025-12-15",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Waterbury"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for concrete aggregates for construction and infrastructure projects.",
+      "estimatedValue": 1301910,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-056",
+      "title": "Asphalt Aggregates - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-355",
+      "postedDate": "2024-03-30",
+      "responseDeadLine": "2025-11-27",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Norwalk"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for asphalt aggregates for construction and infrastructure projects.",
+      "estimatedValue": 602116,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-057",
+      "title": "Railroad Ballast - Department of Veterans Affairs",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-356",
+      "postedDate": "2024-10-29",
+      "responseDeadLine": "2025-12-10",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Danbury"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for railroad ballast for construction and infrastructure projects.",
+      "estimatedValue": 1125128,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-058",
+      "title": "Riprap and Erosion Stone - Department of Defense",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-357",
+      "postedDate": "2024-01-25",
+      "responseDeadLine": "2026-01-20",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "New Britain"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for riprap and erosion stone for construction and infrastructure projects.",
+      "estimatedValue": 1981449,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-059",
+      "title": "Decorative Rock Supply - General Services Administration",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-358",
+      "postedDate": "2024-05-03",
+      "responseDeadLine": "2023-12-01",
+      "fullParentPathName": "General Services Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Hartford"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for decorative rock supply for construction and infrastructure projects.",
+      "estimatedValue": 469828,
+      "active": "No",
+      "award": {
+        "date": "2024-05-24",
+        "awardee": {
+          "name": "Premier Materials Corp",
+          "location": {
+            "city": {
+              "name": "Hamden"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-060",
+      "title": "Bulk Material Delivery - Department of Transportation",
+      "type": "Solicitation",
+      "solicitationNumber": "FAA-2024-359",
+      "postedDate": "2024-04-26",
+      "responseDeadLine": "2026-01-14",
+      "fullParentPathName": "Department of Transportation",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Greenwich"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for bulk material delivery for construction and infrastructure projects.",
+      "estimatedValue": 572853,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-061",
+      "title": "Aggregate Materials Supply - Army Corps of Engineers",
+      "type": "Award Notice",
+      "solicitationNumber": "DOT-2023-360",
+      "postedDate": "2024-01-18",
+      "responseDeadLine": "2023-07-07",
+      "fullParentPathName": "Army Corps of Engineers",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Hamden"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Awarded contract for aggregate materials supply for construction and infrastructure projects.",
+      "estimatedValue": 490810,
+      "active": "No",
+      "award": {
+        "date": "2023-07-31",
+        "awardee": {
+          "name": "Connecticut Quarry Corp",
+          "location": {
+            "city": {
+              "name": "Bristol"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-062",
+      "title": "Sand and Gravel Delivery - Department of Interior",
+      "type": "Award Notice",
+      "solicitationNumber": "USACE-2023-361",
+      "postedDate": "2024-04-14",
+      "responseDeadLine": "2023-06-03",
+      "fullParentPathName": "Department of Interior",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Meriden"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for sand and gravel delivery for construction and infrastructure projects.",
+      "estimatedValue": 1636759,
+      "active": "No",
+      "award": {
+        "date": "2023-06-04",
+        "awardee": {
+          "name": "Northeast Quarry Corp",
+          "location": {
+            "city": {
+              "name": "Manchester"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-063",
+      "title": "Crushed Stone Supply - Department of Agriculture",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-362",
+      "postedDate": "2024-06-10",
+      "responseDeadLine": "2026-01-17",
+      "fullParentPathName": "Department of Agriculture",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Bristol"
+        },
+        "state": {
+          "code": "CT"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for crushed stone supply for construction and infrastructure projects.",
+      "estimatedValue": 862945,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-064",
+      "title": "Construction Aggregate - National Park Service",
+      "type": "Solicitation",
+      "solicitationNumber": "GSA-2024-363",
+      "postedDate": "2024-02-26",
+      "responseDeadLine": "2025-12-27",
+      "fullParentPathName": "National Park Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Manchester"
+        },
+        "state": {
+          "code": "MA"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for construction aggregate for construction and infrastructure projects.",
+      "estimatedValue": 682743,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-065",
+      "title": "Base Course Materials - Bureau of Land Management",
+      "type": "Award Notice",
+      "solicitationNumber": "FAA-2023-364",
+      "postedDate": "2024-05-23",
+      "responseDeadLine": "2023-09-19",
+      "fullParentPathName": "Bureau of Land Management",
+      "placeOfPerformance": {
+        "city": {
+          "name": "West Haven"
+        },
+        "state": {
+          "code": "NY"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Awarded contract for base course materials for construction and infrastructure projects.",
+      "estimatedValue": 1861900,
+      "active": "No",
+      "award": {
+        "date": "2024-04-04",
+        "awardee": {
+          "name": "Atlantic Quarry Corp",
+          "location": {
+            "city": {
+              "name": "Stratford"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-066",
+      "title": "Road Construction Materials - US Forest Service",
+      "type": "Solicitation",
+      "solicitationNumber": "DOT-2024-365",
+      "postedDate": "2024-07-29",
+      "responseDeadLine": "2026-01-04",
+      "fullParentPathName": "US Forest Service",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Milford"
+        },
+        "state": {
+          "code": "RI"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Seeking supplier for road construction materials for construction and infrastructure projects.",
+      "estimatedValue": 693896,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-067",
+      "title": "Quarry Materials Supply - Department of Homeland Security",
+      "type": "Solicitation",
+      "solicitationNumber": "USACE-2024-366",
+      "postedDate": "2024-10-28",
+      "responseDeadLine": "2025-12-30",
+      "fullParentPathName": "Department of Homeland Security",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Stratford"
+        },
+        "state": {
+          "code": "NJ"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Seeking supplier for quarry materials supply for construction and infrastructure projects.",
+      "estimatedValue": 310202,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-068",
+      "title": "Fill Dirt and Topsoil - Federal Aviation Administration",
+      "type": "Solicitation",
+      "solicitationNumber": "DOD-2024-367",
+      "postedDate": "2024-07-16",
+      "responseDeadLine": "2025-12-15",
+      "fullParentPathName": "Federal Aviation Administration",
+      "placeOfPerformance": {
+        "city": {
+          "name": "East Hartford"
+        },
+        "state": {
+          "code": "NH"
+        }
+      },
+      "naicsCode": "212319",
+      "description": "Seeking supplier for fill dirt and topsoil for construction and infrastructure projects.",
+      "estimatedValue": 1984000,
+      "active": "Yes",
+      "award": null
+    },
+    {
+      "noticeId": "GRAV-2024-069",
+      "title": "Drainage Stone Supply - Department of Veterans Affairs",
+      "type": "Award Notice",
+      "solicitationNumber": "GSA-2023-368",
+      "postedDate": "2024-05-11",
+      "responseDeadLine": "2024-03-16",
+      "fullParentPathName": "Department of Veterans Affairs",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Middletown"
+        },
+        "state": {
+          "code": "VT"
+        }
+      },
+      "naicsCode": "423320",
+      "description": "Awarded contract for drainage stone supply for construction and infrastructure projects.",
+      "estimatedValue": 1037085,
+      "active": "No",
+      "award": {
+        "date": "2023-09-18",
+        "awardee": {
+          "name": "Premier Supply Corp",
+          "location": {
+            "city": {
+              "name": "Norwich"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    },
+    {
+      "noticeId": "GRAV-2024-070",
+      "title": "Concrete Aggregates - Department of Defense",
+      "type": "Award Notice",
+      "solicitationNumber": "FAA-2023-369",
+      "postedDate": "2024-04-04",
+      "responseDeadLine": "2024-04-26",
+      "fullParentPathName": "Department of Defense",
+      "placeOfPerformance": {
+        "city": {
+          "name": "Wallingford"
+        },
+        "state": {
+          "code": "PA"
+        }
+      },
+      "naicsCode": "212321",
+      "description": "Awarded contract for concrete aggregates for construction and infrastructure projects.",
+      "estimatedValue": 1589536,
+      "active": "No",
+      "award": {
+        "date": "2024-03-25",
+        "awardee": {
+          "name": "Atlantic Supply Corp",
+          "location": {
+            "city": {
+              "name": "Shelton"
+            },
+            "state": {
+              "code": "CT"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

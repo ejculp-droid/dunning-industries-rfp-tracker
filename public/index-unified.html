@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dunning Industries - Business Hub</title>
+    <style>
+        :root {
+  /* Primitive Color Tokens */
+  --color-white: rgba(255, 255, 255, 1);
+  --color-cream-50: rgba(252, 252, 249, 1);
+  --color-cream-100: rgba(255, 255, 253, 1);
+  --color-gray-200: rgba(245, 245, 245, 1);
+  --color-gray-300: rgba(167, 169, 169, 1);
+  --color-gray-400: rgba(119, 124, 124, 1);
+  --color-slate-500: rgba(98, 108, 113, 1);
+  --color-brown-600: rgba(94, 82, 64, 1);
+  --color-charcoal-700: rgba(31, 33, 33, 1);
+  --color-charcoal-800: rgba(38, 40, 40, 1);
+  --color-slate-900: rgba(19, 52, 59, 1);
+  --color-teal-300: rgba(50, 184, 198, 1);
+  --color-teal-400: rgba(45, 166, 178, 1);
+  --color-teal-500: rgba(33, 128, 141, 1);
+  --color-teal-600: rgba(29, 116, 128, 1);
+  --color-teal-700: rgba(26, 104, 115, 1);
+  --color-teal-800: rgba(41, 150, 161, 1);
+  --color-red-400: rgba(255, 84, 89, 1);
+  --color-red-500: rgba(192, 21, 47, 1);
+  --color-orange-400: rgba(230, 129, 97, 1);
+  --color-orange-500: rgba(168, 75, 47, 1);
+
+  --color-brown-600-rgb: 94, 82, 64;
+  --color-teal-500-rgb: 33, 128, 141;
+  --color-slate-900-rgb: 19, 52, 59;
+  --color-slate-500-rgb: 98, 108, 113;
+  --color-red-500-rgb: 192, 21, 47;
+  --color-red-400-rgb: 255, 84, 89;
+  --color-orange-500-rgb: 168, 75, 47;
+  --color-orange-400-rgb: 230, 129, 97;
+
+  --color-bg-1: rgba(59, 130, 246, 0.08);
+  --color-bg-2: rgba(245, 158, 11, 0.08);
+  --color-bg-3: rgba(34, 197, 94, 0.08);
+  --color-bg-4: rgba(239, 68, 68, 0.08);
+  --color-bg-5: rgba(147, 51, 234, 0.08);
+
+  --color-background: var(--color-cream-50);
+  --color-surface: var(--color-cream-100);
+  --color-text: var(--color-slate-900);
+  --color-text-secondary: var(--color-slate-500);
+  --color-primary: var(--color-teal-500);
+  --color-primary-hover: var(--color-teal-600);
+  --color-primary-active: var(--color-teal-700);
+  --color-secondary: rgba(var(--color-brown-600-rgb), 0.12);
+  --color-secondary-hover: rgba(var(--color-brown-600-rgb), 0.2);
+  --color-secondary-active: rgba(var(--color-brown-600-rgb), 0.25);
+  --color-border: rgba(var(--color-brown-600-rgb), 0.2);
+  --color-btn-primary-text: var(--color-cream-50);
+  --color-card-border: rgba(var(--color-brown-600-rgb), 0.12);
+  --color-error: var(--color-red-500);
+  --color-success: var(--color-teal-500);
+  --color-warning: var(--color-orange-500);
+  --color-info: var(--color-slate-500);
+  --color-focus-ring: rgba(var(--color-teal-500-rgb), 0.4);
+
+  --focus-ring: 0 0 0 3px var(--color-focus-ring);
+  --color-success-rgb: 33, 128, 141;
+  --color-error-rgb: 192, 21, 47;
+  --color-warning-rgb: 168, 75, 47;
+  --color-info-rgb: 98, 108, 113;
+
+  --font-family-base: "FKGroteskNeue", "Geist", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-size-xs: 11px;
+  --font-size-sm: 12px;
+  --font-size-base: 14px;
+  --font-size-lg: 16px;
+  --font-size-xl: 18px;
+  --font-size-2xl: 20px;
+  --font-size-3xl: 24px;
+  --font-size-4xl: 30px;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 550;
+  --font-weight-bold: 600;
+  --line-height-normal: 1.5;
+
+  --space-4: 4px;
+  --space-6: 6px;
+  --space-8: 8px;
+  --space-10: 10px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-32: 32px;
+
+  --radius-sm: 6px;
+  --radius-base: 8px;
+  --radius-md: 10px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
+
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.02);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.04), 0 2px 4px -1px rgba(0, 0, 0, 0.02);
+
+  --duration-fast: 150ms;
+  --duration-normal: 250ms;
+  --ease-standard: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-gray-400-rgb: 119, 124, 124;
+    --color-teal-300-rgb: 50, 184, 198;
+    --color-gray-300-rgb: 167, 169, 169;
+    --color-gray-200-rgb: 245, 245, 245;
+
+    --color-bg-1: rgba(29, 78, 216, 0.15);
+    --color-bg-2: rgba(180, 83, 9, 0.15);
+    --color-bg-3: rgba(21, 128, 61, 0.15);
+    --color-bg-4: rgba(185, 28, 28, 0.15);
+    --color-bg-5: rgba(107, 33, 168, 0.15);
+
+    --color-background: var(--color-charcoal-700);
+    --color-surface: var(--color-charcoal-800);
+    --color-text: var(--color-gray-200);
+    --color-text-secondary: rgba(var(--color-gray-300-rgb), 0.7);
+    --color-primary: var(--color-teal-300);
+    --color-primary-hover: var(--color-teal-400);
+    --color-primary-active: var(--color-teal-800);
+    --color-secondary: rgba(var(--color-gray-400-rgb), 0.15);
+    --color-secondary-hover: rgba(var(--color-gray-400-rgb), 0.25);
+    --color-border: rgba(var(--color-gray-400-rgb), 0.3);
+    --color-error: var(--color-red-400);
+    --color-success: var(--color-teal-300);
+    --color-warning: var(--color-orange-400);
+    --color-info: var(--color-gray-300);
+    --color-focus-ring: rgba(var(--color-teal-300-rgb), 0.4);
+    --color-btn-primary-text: var(--color-slate-900);
+    --color-card-border: rgba(var(--color-gray-400-rgb), 0.2);
+
+    --color-success-rgb: var(--color-teal-300-rgb);
+    --color-error-rgb: var(--color-red-400-rgb);
+    --color-warning-rgb: var(--color-orange-400-rgb);
+    --color-info-rgb: var(--color-gray-300-rgb);
+  }
+}
+
+@font-face {
+  font-family: 'FKGroteskNeue';
+  src: url('https://r2cdn.perplexity.ai/fonts/FKGroteskNeue.woff2') format('woff2');
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: var(--font-family-base);
+  background-color: var(--color-background);
+  color: var(--color-text);
+  line-height: var(--line-height-normal);
+  font-size: var(--font-size-base);
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-16) var(--space-24);
+  box-shadow: var(--shadow-sm);
+}
+
+.header-content {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.header h1 {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-primary);
+}
+
+.header p {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  margin-top: var(--space-4);
+}
+
+.nav-tabs {
+  display: flex;
+  gap: var(--space-8);
+  background-color: var(--color-surface);
+  padding: var(--space-8) var(--space-24);
+  border-bottom: 1px solid var(--color-border);
+  overflow-x: auto;
+}
+
+.nav-tab {
+  padding: var(--space-8) var(--space-16);
+  border: none;
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: all var(--duration-fast) var(--ease-standard);
+  white-space: nowrap;
+}
+
+.nav-tab:hover {
+  color: var(--color-text);
+  background-color: var(--color-secondary);
+  border-radius: var(--radius-base);
+}
+
+.nav-tab.active {
+  color: var(--color-primary);
+  border-bottom-color: var(--color-primary);
+}
+
+.main-content {
+  flex: 1;
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  padding: var(--space-24);
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: var(--space-16);
+  margin-bottom: var(--space-32);
+}
+
+.stat-card {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-card-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-20);
+  box-shadow: var(--shadow-sm);
+}
+
+.stat-card h3 {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  font-weight: var(--font-weight-medium);
+  margin-bottom: var(--space-8);
+}
+
+.stat-card .value {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-primary);
+}
+
+.controls-section {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-card-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-20);
+  margin-bottom: var(--space-24);
+}
+
+.controls-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-12);
+  align-items: flex-end;
+}
+
+.control-group {
+  flex: 1;
+  min-width: 200px;
+}
+
+.control-group label {
+  display: block;
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text);
+  margin-bottom: var(--space-6);
+}
+
+.control-group input,
+.control-group select {
+  width: 100%;
+  padding: var(--space-8) var(--space-12);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-base);
+  background-color: var(--color-background);
+  color: var(--color-text);
+  font-size: var(--font-size-base);
+}
+
+.control-group input:focus,
+.control-group select:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: var(--focus-ring);
+}
+
+.btn {
+  padding: var(--space-8) var(--space-16);
+  border: none;
+  border-radius: var(--radius-base);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  transition: all var(--duration-fast) var(--ease-standard);
+}
+
+.btn-primary {
+  background-color: var(--color-primary);
+  color: var(--color-btn-primary-text);
+}
+
+.btn-primary:hover {
+  background-color: var(--color-primary-hover);
+}
+
+.btn-secondary {
+  background-color: var(--color-secondary);
+  color: var(--color-text);
+}
+
+.btn-secondary:hover {
+  background-color: var(--color-secondary-hover);
+}
+
+.rfp-card {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-card-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-20);
+  margin-bottom: var(--space-16);
+  box-shadow: var(--shadow-sm);
+  transition: all var(--duration-fast) var(--ease-standard);
+}
+
+.rfp-card:hover {
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-md);
+  transform: translateX(4px);
+}
+
+.rfp-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text);
+  margin-bottom: var(--space-12);
+}
+
+.rfp-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--space-12);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+}
+
+.meta-label {
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text);
+  margin-right: var(--space-4);
+}
+
+.badge {
+  display: inline-block;
+  padding: var(--space-4) var(--space-8);
+  border-radius: var(--radius-full);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-medium);
+  margin-right: var(--space-8);
+}
+
+.badge-tree {
+  background-color: rgba(var(--color-success-rgb), 0.15);
+  color: var(--color-success);
+  border: 1px solid rgba(var(--color-success-rgb), 0.25);
+}
+
+.badge-stone {
+  background-color: var(--color-bg-1);
+  color: var(--color-primary);
+  border: 1px solid rgba(var(--color-teal-500-rgb), 0.25);
+}
+
+.badge-gravel {
+  background-color: var(--color-bg-2);
+  color: var(--color-warning);
+  border: 1px solid rgba(var(--color-warning-rgb), 0.25);
+}
+
+.badge-multi {
+  background-color: var(--color-bg-5);
+  color: var(--color-info);
+  border: 1px solid rgba(var(--color-info-rgb), 0.25);
+}
+
+.value-badge {
+  display: inline-block;
+  padding: var(--space-4) var(--space-12);
+  background: var(--color-primary);
+  color: var(--color-btn-primary-text);
+  border-radius: var(--radius-sm);
+  font-weight: var(--font-weight-semibold);
+  font-size: var(--font-size-sm);
+}
+
+.loading {
+  text-align: center;
+  padding: var(--space-32);
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-lg);
+}
+
+.no-results {
+  text-align: center;
+  padding: var(--space-32);
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-base);
+}
+
+@media (max-width: 768px) {
+  .main-content {
+    padding: var(--space-16);
+  }
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+  .controls-row {
+    flex-direction: column;
+  }
+  .control-group {
+    width: 100%;
+  }
+}
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <header class="header">
+            <div class="header-content">
+                <h1>🏗️ Dunning Industries - Business Hub</h1>
+                <p>Multi-Division Operations & Government Contract Management</p>
+            </div>
+        </header>
+
+        <nav class="nav-tabs">
+            <button class="nav-tab active" data-tab="rfp-tracker">RFP Tracker</button>
+            <button class="nav-tab" data-tab="contractors">Contractor CRM</button>
+            <button class="nav-tab" data-tab="nursery-prospects">🌳 Maple Tree Nursery</button>
+            <button class="nav-tab" data-tab="stone-prospects">🪨 Stone & Supply</button>
+            <button class="nav-tab" data-tab="gravel-prospects">⛏️ Sand & Gravel</button>
+            <button class="nav-tab" data-tab="integration">Opportunities</button>
+        </nav>
+
+        <main class="main-content">
+            <!-- RFP Tracker Tab -->
+            <div id="rfp-tracker" class="tab-content active">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Opportunities</h3>
+                        <div class="value" id="totalRFPs">0</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Total Contract Value</h3>
+                        <div class="value" id="totalValue">$0</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>High-Value ($100K+)</h3>
+                        <div class="value" id="highValue">0</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Division</h3>
+                        <div class="value" style="font-size: var(--font-size-2xl);" id="currentDivision">All</div>
+                    </div>
+                </div>
+
+                <div class="controls-section">
+                    <div class="controls-row">
+                        <div class="control-group">
+                            <label for="division-select">Division</label>
+                            <select id="division-select">
+                                <option value="all">All Divisions</option>
+                                <option value="tree">🌳 Tree & Landscape</option>
+                                <option value="stone">🪨 Stone & Supply</option>
+                                <option value="gravel">⛏️ Sand & Gravel</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label for="rfp-keyword">Keywords</label>
+                            <input type="text" id="rfp-keyword" placeholder="Search keywords (optional)">
+                        </div>
+                        <div class="control-group">
+                            <label for="rfp-state">State</label>
+                            <select id="rfp-state">
+                                <option value="">All States</option>
+                                <option value="CT">Connecticut</option>
+                                <option value="NY">New York</option>
+                                <option value="MA">Massachusetts</option>
+                                <option value="RI">Rhode Island</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label for="rfp-minValue">Min Value ($)</label>
+                            <input type="number" id="rfp-minValue" placeholder="0" min="0">
+                        </div>
+                        <div class="control-group">
+                            <label for="rfp-type">Type</label>
+                            <select id="rfp-type">
+                                <option value="active">Active RFPs</option>
+                                <option value="awarded">Awarded (Past Winners)</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div style="margin-top: var(--space-16); display: flex; gap: var(--space-12);">
+                        <button class="btn btn-primary" onclick="searchRFPs()" id="searchBtn">🔍 Search Opportunities</button>
+                        <button class="btn btn-secondary" onclick="exportRFPsToCSV()">📊 Export CSV</button>
+                    </div>
+                </div>
+
+                <div id="rfp-results">
+                    <div class="no-results">Click "Search Opportunities" to find RFPs for your selected division</div>
+                </div>
+            </div>
+
+            <!-- Contractor CRM Tab -->
+            <div id="contractors" class="tab-content">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Contractors</h3>
+                        <div class="value">100</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Tier A Contractors</h3>
+                        <div class="value">22</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Active</h3>
+                        <div class="value">66</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Prospects</h3>
+                        <div class="value">10</div>
+                    </div>
+                </div>
+
+                <div class="controls-section">
+                    <p style="color: var(--color-text-secondary);">Full CRM features available. <a href="index-crm.html" style="color: var(--color-primary);">Open Full CRM</a></p>
+                </div>
+            </div>
+
+            <!-- Maple Tree Nursery Prospects Tab -->
+            <div id="nursery-prospects" class="tab-content">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Prospects</h3>
+                        <div class="value" id="totalProspectsNursery">100</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>New Prospects</h3>
+                        <div class="value" id="newProspectsNursery">94</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Warm Leads</h3>
+                        <div class="value" id="warmLeadsNursery">6</div>
+                    </div>
+                </div>
+
+                <div class="controls-section">
+                    <h2 style="font-size: var(--font-size-xl); margin-bottom: var(--space-16);">� Maple Tree Nursery - Prospect List</h2>
+                    
+                    <div class="controls-row">
+                        <div class="control-group">
+                            <label>Status</label>
+                            <select id="statusFilterNursery" onchange="filterProspects('nursery')">
+                                <option value="">All Statuses</option>
+                                <option value="NEW PROSPECT">New Prospect</option>
+                                <option value="WARM LEAD">Warm Lead</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label>Priority</label>
+                            <select id="priorityFilterNursery" onchange="filterProspects('nursery')">
+                                <option value="">All Priorities</option>
+                                <option value="HIGH">High Priority</option>
+                                <option value="Standard">Standard</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label>Service Type</label>
+                            <select id="serviceFilterNursery" onchange="filterProspects('nursery')">
+                                <option value="">All Services</option>
+                                <option value="Design-Build">Design-Build</option>
+                                <option value="Full Service">Full Service</option>
+                                <option value="Commercial">Commercial</option>
+                                <option value="Contractor">Contractor</option>
+                                <option value="Tree">Tree/Landscape</option>
+                                <option value="Hardscape">Hardscape</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label>Max Distance</label>
+                            <select id="distanceFilterNursery" onchange="filterProspects('nursery')">
+                                <option value="">All Distances</option>
+                                <option value="5">Within 5 mi</option>
+                                <option value="10">Within 10 mi</option>
+                                <option value="15">Within 15 mi</option>
+                                <option value="20">Within 20 mi</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="controls-row" style="margin-top: var(--space-12);">
+                        <input type="text" id="prospectSearchNursery" placeholder="Search by company name, town, or contact..." style="flex: 1; padding: var(--space-10); border: 1px solid var(--color-border); border-radius: var(--radius-base);" onkeyup="filterProspects('nursery')">
+                        <button class="btn btn-primary" onclick="refreshProspects('nursery')">🔄 Refresh Search</button>
+                        <button class="btn btn-secondary" onclick="exportProspectsToCSV('nursery')">📊 Export to CSV</button>
+                    </div>
+                </div>
+
+                <div id="prospects-results-nursery" class="results-container">
+                    <!-- Prospects will be loaded here -->
+                </div>
+            </div>
+
+            <!-- Stone & Supply Prospects Tab -->
+            <div id="stone-prospects" class="tab-content">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Prospects</h3>
+                        <div class="value" id="totalProspectsStone">0</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>New Prospects</h3>
+                        <div class="value" id="newProspectsStone">0</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Warm Leads</h3>
+                        <div class="value" id="warmLeadsStone">0</div>
+                    </div>
+                </div>
+
+                <div class="controls-section">
+                    <h2 style="font-size: var(--font-size-xl); margin-bottom: var(--space-16);">🪨 Stone & Supply - Prospect List</h2>
+                    
+                    <div class="controls-row">
+                        <div class="control-group">
+                            <label>Status</label>
+                            <select id="statusFilterStone" onchange="filterProspects('stone')">
+                                <option value="">All Statuses</option>
+                                <option value="NEW PROSPECT">New Prospect</option>
+                                <option value="WARM LEAD">Warm Lead</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label>Priority</label>
+                            <select id="priorityFilterStone" onchange="filterProspects('stone')">
+                                <option value="">All Priorities</option>
+                                <option value="HIGH">High Priority</option>
+                                <option value="Standard">Standard</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label>Industry Type</label>
+                            <select id="serviceFilterStone" onchange="filterProspects('stone')">
+                                <option value="">All Types</option>
+                                <option value="Stone Supplier">Stone Supplier</option>
+                                <option value="Aggregate">Aggregate</option>
+                                <option value="Quarry">Quarry</option>
+                                <option value="Mason Supply">Mason Supply</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label>Max Distance</label>
+                            <select id="distanceFilterStone" onchange="filterProspects('stone')">
+                                <option value="">All Distances</option>
+                                <option value="25">Within 25 mi</option>
+                                <option value="50">Within 50 mi</option>
+                                <option value="100">Within 100 mi</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="controls-row" style="margin-top: var(--space-12);">
+                        <input type="text" id="prospectSearchStone" placeholder="Search by company name, town, or contact..." style="flex: 1; padding: var(--space-10); border: 1px solid var(--color-border); border-radius: var(--radius-base);" onkeyup="filterProspects('stone')">
+                        <button class="btn btn-primary" onclick="refreshProspects('stone')">🔄 Refresh Search</button>
+                        <button class="btn btn-secondary" onclick="exportProspectsToCSV('stone')">📊 Export to CSV</button>
+                    </div>
+                </div>
+
+                <div id="prospects-results-stone" class="results-container">
+                    <div class="no-results">Click "Refresh Search" to load stone & supply prospects dynamically.</div>
+                </div>
+            </div>
+
+            <!-- Sand & Gravel Prospects Tab -->
+            <div id="gravel-prospects" class="tab-content">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Prospects</h3>
+                        <div class="value" id="totalProspectsGravel">0</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>New Prospects</h3>
+                        <div class="value" id="newProspectsGravel">0</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Warm Leads</h3>
+                        <div class="value" id="warmLeadsGravel">0</div>
+                    </div>
+                </div>
+
+                <div class="controls-section">
+                    <h2 style="font-size: var(--font-size-xl); margin-bottom: var(--space-16);">⛏️ Sand & Gravel - Prospect List</h2>
+                    
+                    <div class="controls-row">
+                        <div class="control-group">
+                            <label>Status</label>
+                            <select id="statusFilterGravel" onchange="filterProspects('gravel')">
+                                <option value="">All Statuses</option>
+                                <option value="NEW PROSPECT">New Prospect</option>
+                                <option value="WARM LEAD">Warm Lead</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label>Priority</label>
+                            <select id="priorityFilterGravel" onchange="filterProspects('gravel')">
+                                <option value="">All Priorities</option>
+                                <option value="HIGH">High Priority</option>
+                                <option value="Standard">Standard</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label>Industry Type</label>
+                            <select id="serviceFilterGravel" onchange="filterProspects('gravel')">
+                                <option value="">All Types</option>
+                                <option value="Sand & Gravel">Sand & Gravel</option>
+                                <option value="Aggregate">Aggregate</option>
+                                <option value="Mining">Mining</option>
+                                <option value="Ready Mix">Ready Mix</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label>Max Distance</label>
+                            <select id="distanceFilterGravel" onchange="filterProspects('gravel')">
+                                <option value="">All Distances</option>
+                                <option value="25">Within 25 mi</option>
+                                <option value="50">Within 50 mi</option>
+                                <option value="100">Within 100 mi</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="controls-row" style="margin-top: var(--space-12);">
+                        <input type="text" id="prospectSearchGravel" placeholder="Search by company name, town, or contact..." style="flex: 1; padding: var(--space-10); border: 1px solid var(--color-border); border-radius: var(--radius-base);" onkeyup="filterProspects('gravel')">
+                        <button class="btn btn-primary" onclick="refreshProspects('gravel')">🔄 Refresh Search</button>
+                        <button class="btn btn-secondary" onclick="exportProspectsToCSV('gravel')">📊 Export to CSV</button>
+                    </div>
+                </div>
+
+                <div id="prospects-results-gravel" class="results-container">
+                    <div class="no-results">Click "Refresh Search" to load sand & gravel prospects dynamically.</div>
+                </div>
+            </div>
+
+            <!-- Integration/Opportunities Tab -->
+            <div id="integration" class="tab-content">
+                <div class="controls-section">
+                    <h2 style="font-size: var(--font-size-xl); margin-bottom: var(--space-16);">Match RFPs to Contractors</h2>
+                    <p style="color: var(--color-text-secondary); margin-bottom: var(--space-16);">
+                        This feature will automatically match government contract opportunities with qualified contractors in your CRM based on location, tier, and specialty.
+                    </p>
+                    <button class="btn btn-primary">Coming Soon</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let currentDivision = 'all';
+        let allResults = [];
+
+        const divisions = {
+          tree: { name: 'Tree & Landscape', keywords: ['tree','landscape','nursery','landscaping','grounds','arborist','lawn','park'] },
+          stone: { name: 'Stone & Supply', keywords: ['stone','masonry','hardscape','paving','brick','concrete','building materials','retaining'] },
+          gravel: { name: 'Sand & Gravel', keywords: ['sand','gravel','aggregate','crushed stone','construction materials','excavation','fill'] }
+        };
+
+        // Tab switching
+        document.querySelectorAll('.nav-tab').forEach(tab => {
+            tab.addEventListener('click', (e) => {
+                document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+                e.target.classList.add('active');
+                document.getElementById(e.target.dataset.tab).classList.add('active');
+            });
+        });
+
+        // Division change
+        document.getElementById('division-select').addEventListener('change', (e) => {
+            currentDivision = e.target.value;
+            document.getElementById('currentDivision').textContent = 
+                e.target.options[e.target.selectedIndex].text.replace(/[🌳🪨⛏️]/g, '').trim();
+        });
+
+        async function searchRFPs() {
+            const btn = document.getElementById('searchBtn');
+            const results = document.getElementById('rfp-results');
+            btn.disabled = true;
+            results.innerHTML = '<div class="loading">⏳ Searching SAM.gov database...</div>';
+
+            try {
+                const useDemoData = localStorage.getItem('useDemoData') === 'true';
+                if (useDemoData) {
+                    await new Promise(resolve => setTimeout(resolve, 500));
+                    allResults = [
+                        { noticeId: 'DEMO-001', solicitationNumber: 'W912DQ-25-R-0001', title: 'Tree Trimming and Removal Services - Fort Devens', fullParentPathName: 'DEPT OF DEFENSE.DEPT OF THE ARMY', postedDate: new Date().toISOString(), responseDeadLine: new Date(Date.now() + 30*24*60*60*1000).toISOString(), division: 'tree', estimatedValue: 125000 },
+                        { noticeId: 'DEMO-002', solicitationNumber: 'CT-DOT-2025-045', title: 'Aggregate Stone and Gravel Supply for Highway Maintenance', fullParentPathName: 'STATE OF CONNECTICUT.DEPT OF TRANSPORTATION', postedDate: new Date().toISOString(), responseDeadLine: new Date(Date.now() + 45*24*60*60*1000).toISOString(), division: 'gravel', estimatedValue: 275000 },
+                        { noticeId: 'DEMO-003', solicitationNumber: 'NYC-PWD-2025-132', title: 'Masonry and Stone Supply for City Parks', fullParentPathName: 'CITY OF NEW YORK.PUBLIC WORKS DEPT', postedDate: new Date().toISOString(), responseDeadLine: new Date(Date.now() + 20*24*60*60*1000).toISOString(), division: 'stone', estimatedValue: 85000 },
+                        { noticeId: 'DEMO-AWARD-001', solicitationNumber: 'MA-DPW-2024-089', title: 'Tree Trimming Services - State Highway System', fullParentPathName: 'STATE OF MASSACHUSETTS.DEPT OF PUBLIC WORKS', postedDate: new Date(Date.now() - 180*24*60*60*1000).toISOString(), awardDate: new Date(Date.now() - 90*24*60*60*1000).toISOString(), division: 'tree', estimatedValue: 450000, awardAmount: 425000, awardee: 'Green Valley Tree Service Inc', type: 'Award Notice', baseType: 'Award Notice' },
+                        { noticeId: 'DEMO-AWARD-002', solicitationNumber: 'CT-DOT-2024-112', title: 'Crushed Stone Aggregate Supply Contract', fullParentPathName: 'STATE OF CONNECTICUT.DEPT OF TRANSPORTATION', postedDate: new Date(Date.now() - 240*24*60*60*1000).toISOString(), awardDate: new Date(Date.now() - 120*24*60*60*1000).toISOString(), division: 'gravel', estimatedValue: 650000, awardAmount: 589000, awardee: 'Northeast Aggregates LLC', type: 'Award Notice', baseType: 'Award Notice' }
+                    ];
+                    displayResults();
+                    updateStats();
+                    btn.disabled = false;
+                    return;
+                }
+
+                // Real API calls would go here
+                const response = await fetch('/proxy/search?limit=10');
+                if (!response.ok) {
+                    if (response.status === 429) {
+                        results.innerHTML = '<div class="no-results">⏱️ SAM.gov rate limit reached. <br><br>Wait 5-10 minutes or <button class="btn btn-primary" onclick="enableDemoMode()" style="margin-top:var(--space-12);">Try Demo Mode</button></div>';
+                        btn.disabled = false;
+                        return;
+                    }
+                }
+                // Process real data...
+                displayResults();
+                updateStats();
+            } catch (error) {
+                results.innerHTML = '<div class="no-results">❌ Error searching. Please try again.</div>';
+                console.error(error);
+            } finally {
+                btn.disabled = false;
+            }
+        }
+
+        function displayResults() {
+            const results = document.getElementById('rfp-results');
+            if (!allResults || allResults.length === 0) {
+                results.innerHTML = '<div class="no-results">No opportunities found. Try different search criteria.</div>';
+                return;
+            }
+
+            let html = '';
+            allResults.forEach(opp => {
+                const divKey = opp.division || 'multi';
+                const badgeClass = `badge-${divKey}`;
+                const divName = divKey === 'multi' ? 'Multiple Divisions' : (divisions[divKey]?.name || 'General');
+                const title = opp.title || opp.noticeTitle || 'Untitled Opportunity';
+                const posted = opp.postedDate ? new Date(opp.postedDate).toLocaleDateString() : 'N/A';
+                const deadline = opp.responseDeadLine ? new Date(opp.responseDeadLine).toLocaleDateString() : 'N/A';
+                const id = opp.solicitationNumber || opp.noticeId || 'N/A';
+                const agency = opp.fullParentPathName || opp.agency || 'N/A';
+                const valueHtml = opp.estimatedValue > 0 ? `<div><span class="meta-label">Est. Value:</span><span class="value-badge">${formatMoney(opp.estimatedValue)}</span></div>` : '';
+
+                const isAwarded = opp.type === 'Award Notice' || opp.baseType === 'Award Notice';
+                let winnerHtml = '';
+                if (isAwarded && opp.awardee) {
+                    winnerHtml = `
+                        <div style="grid-column: 1/-1; margin-top:var(--space-12); padding-top:var(--space-12); border-top:1px solid var(--color-border);">
+                            <div style="font-weight:var(--font-weight-semibold); color:var(--color-success); margin-bottom:var(--space-8);">🏆 AWARDED TO:</div>
+                            <div><span class="meta-label">Winner:</span>${escapeHtml(opp.awardee)}</div>
+                            ${opp.awardDate ? `<div style="margin-top:var(--space-4);"><span class="meta-label">Award Date:</span>${new Date(opp.awardDate).toLocaleDateString()}</div>` : ''}
+                            ${opp.awardAmount > 0 ? `<div style="margin-top:var(--space-4);"><span class="meta-label">Award Amount:</span><span class="value-badge">${formatMoney(opp.awardAmount)}</span></div>` : ''}
+                        </div>`;
+                }
+
+                html += `
+                    <div class="rfp-card">
+                        <div class="rfp-title">
+                            <span class="badge ${badgeClass}">${divName}</span>
+                            ${isAwarded ? '🏆 ' : ''}${escapeHtml(title)}
+                        </div>
+                        <div class="rfp-meta">
+                            <div><span class="meta-label">RFP #:</span>${escapeHtml(id)}</div>
+                            <div><span class="meta-label">Agency:</span>${escapeHtml(agency)}</div>
+                            <div><span class="meta-label">Posted:</span>${posted}</div>
+                            <div><span class="meta-label">Deadline:</span>${deadline}</div>
+                            ${valueHtml}
+                            ${winnerHtml}
+                        </div>
+                    </div>`;
+            });
+            results.innerHTML = html;
+        }
+
+        function updateStats() {
+            const total = allResults.length;
+            const totalValue = allResults.reduce((s, r) => s + (r.estimatedValue || 0), 0);
+            const highValue = allResults.filter(r => (r.estimatedValue || 0) >= 100000).length;
+            document.getElementById('totalRFPs').textContent = total;
+            document.getElementById('totalValue').textContent = formatMoney(totalValue);
+            document.getElementById('highValue').textContent = highValue;
+        }
+
+        function formatMoney(v) { return v ? ('$' + v.toLocaleString()) : '$0'; }
+        function escapeHtml(s) { return String(s || '').replace(/[&<>"'`=\/]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;','/':'&#x2F;','`':'&#x60;','=':'&#x3D;'})[ch]); }
+
+        function enableDemoMode() {
+            localStorage.setItem('useDemoData', 'true');
+            alert('Demo mode enabled! Click Search to see sample data.');
+            location.reload();
+        }
+
+        function exportRFPsToCSV() {
+            if (!allResults || allResults.length === 0) { alert('No data to export.'); return; }
+            const header = ['RFP #','Title','Division','Agency','Posted','Deadline','EstimatedValue','Winner','AwardAmount','URL'];
+            const rows = allResults.map(r => {
+                return [r.solicitationNumber || r.noticeId || '', r.title || '', r.division || '', r.fullParentPathName || '', r.postedDate || '', r.responseDeadLine || '', r.estimatedValue || 0, r.awardee || '', r.awardAmount || 0, r.noticeURL || ''].map(f => `"${String(f || '').replace(/"/g,'""')}"`).join(',');
+            });
+            const csv = [header.join(','), ...rows].join('\r\n');
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `dunning-rfps-${new Date().toISOString().slice(0,10)}.csv`;
+            document.body.appendChild(a);
+            a.click();
+            a.remove();
+            URL.revokeObjectURL(url);
+        }
+
+        if (localStorage.getItem('useDemoData') === 'true') {
+            const demoIndicator = document.createElement('div');
+            demoIndicator.style.cssText = 'position:fixed;top:10px;right:10px;background:var(--color-error);color:white;padding:var(--space-8) var(--space-16);border-radius:var(--radius-base);font-size:var(--font-size-sm);z-index:1000;box-shadow:var(--shadow-md);';
+            demoIndicator.innerHTML = 'DEMO MODE <button onclick="localStorage.removeItem(\'useDemoData\');location.reload();" style="margin-left:var(--space-8);background:white;color:var(--color-error);border:none;padding:var(--space-4) var(--space-8);border-radius:var(--radius-sm);cursor:pointer;font-weight:var(--font-weight-semibold);">Disable</button>';
+            document.body.appendChild(demoIndicator);
+        }
+
+        // ============ Prospects Management System ============
+        const prospectsDataNursery = [
+            {rank:1,priority:"Standard",status:"NEW PROSPECT",company:"Encore Landscaping, LLC",contact:"Diane Tapp, Owner",phone:"(860) 306-4709",email:"encorelandscaping@gmail.com",address:"16 Riverview St, Enfield, CT 06082",town:"Enfield",distance:15,type:"Design-Build"},
+            {rank:2,priority:"Standard",status:"NEW PROSPECT",company:"Birch Hill Landscape & Design",contact:"Frank N. Niro / Vanessa Niro",phone:"(860) 953-0339",email:"info@bhlct.com",address:"700 N Mountain Rd, Newington, CT 06111",town:"Newington",distance:5,type:"Design-Build"},
+            {rank:3,priority:"Standard",status:"NEW PROSPECT",company:"Lawrence Landscaping LLC",contact:"Austin Lawrence",phone:"(860) 518-4876",email:"lawrencelandscapingct@gmail.com",address:"65 Stocking Brook Rd, Berlin, CT 06037",town:"Berlin",distance:10,type:"Hardscape"},
+            {rank:4,priority:"HIGH",status:"WARM LEAD",company:"All State Landscape Services, LLC",ar_account:"ALL STATE LANDSCAPE SERV LLC",contact:"Management",phone:"(860) 505-8447",email:"allstate@allstateland.com",address:"1 Hartford Square #15, New Britain, CT 06070",town:"New Britain",distance:2,type:"Commercial"},
+            {rank:5,priority:"Standard",status:"NEW PROSPECT",company:"Designscapes of CT",contact:"Glenn Taylor, Owner",phone:"(860) 604-8840",email:"Via website",address:"237 Main St, S Glastonbury, CT 06073",town:"Glastonbury",distance:18,type:"Design-Build"},
+            {rank:6,priority:"Standard",status:"NEW PROSPECT",company:"Old Town Landscaping LLC",contact:"Owner",phone:"(860) 751-8727",email:"Contact via phone",address:"21 Old Town Rd, Avon, CT 06001",town:"Avon",distance:5,type:"Full Service"},
+            {rank:7,priority:"Standard",status:"NEW PROSPECT",company:"On Top Enterprises",contact:"Owner",phone:"(860) 874-7717",email:"Contact via phone",address:"PO Box 45, Avon, CT 06001",town:"Avon",distance:5,type:"Contractor"},
+            {rank:8,priority:"Standard",status:"NEW PROSPECT",company:"Sunset Ridge Landscaping Inc",contact:"Management",phone:"(860) 658-4296",email:"Contact via phone",address:"PO Box 1049, Avon, CT 06001",town:"Avon",distance:5,type:"Full Service"},
+            {rank:9,priority:"Standard",status:"NEW PROSPECT",company:"C3 Services, LLC",contact:"Management",phone:"(860) 836-0054",email:"Contact via phone",address:"3 Bronson Rd, Avon, CT 06001",town:"Avon",distance:5,type:"Maintenance"},
+            {rank:10,priority:"HIGH",status:"WARM LEAD",company:"B Budz Landscaping LLC",ar_account:"B BUDZ LANDSCAPING LLC",contact:"Owner",phone:"(860) 818-0184",email:"Contact via phone",address:"44 Saw Mill Ln, Avon, CT 06001",town:"Avon",distance:5,type:"Contractor"},
+            {rank:11,priority:"Standard",status:"NEW PROSPECT",company:"RF Landscaping & Construction",contact:"Management",phone:"(860) 836-8289",email:"Contact via phone",address:"302 W Main St #150, Avon, CT 06001",town:"Avon",distance:5,type:"Construction"},
+            {rank:12,priority:"Standard",status:"NEW PROSPECT",company:"Paramount Landscaping & Excavating",contact:"Management",phone:"(860) 673-6100",email:"Contact via phone",address:"3 Mountain Ledge Rd, Avon, CT 06001",town:"Avon",distance:5,type:"Excavating"},
+            {rank:13,priority:"Standard",status:"NEW PROSPECT",company:"Landscape Specialties of CT",contact:"Management",phone:"(860) 558-6957",email:"Contact via phone",address:"PO Box 761, Simsbury, CT 06070",town:"Simsbury",distance:10,type:"Design"},
+            {rank:14,priority:"Standard",status:"NEW PROSPECT",company:"Warner Nursery & Garden Center",contact:"Management",phone:"(860) 651-0204",email:"Contact via phone",address:"76 Riverside Rd, Simsbury, CT 06070",town:"Simsbury",distance:10,type:"Nursery/Contractor"},
+            {rank:15,priority:"HIGH",status:"WARM LEAD",company:"D.W. Burr Landscape & Design",ar_account:"BURR, D.W LANDSCAPING DESIGN",contact:"David Burr, President",phone:"(860) 408-9798",email:"Via website",address:"123 West St, Simsbury, CT 06070",town:"Simsbury",distance:10,type:"Commercial"},
+            {rank:16,priority:"Standard",status:"NEW PROSPECT",company:"CRS Landscape & Excavating",contact:"Management",phone:"(860) 573-3125",email:"Contact via phone",address:"PO Box 491, Simsbury, CT 06070",town:"Simsbury",distance:10,type:"Excavating"},
+            {rank:17,priority:"Standard",status:"NEW PROSPECT",company:"R.L. Hale Landscaping LLC",contact:"Management",phone:"(860) 966-8761",email:"Contact via phone",address:"PO Box 593, Simsbury, CT 06070",town:"Simsbury",distance:10,type:"Full Service"},
+            {rank:18,priority:"Standard",status:"NEW PROSPECT",company:"Blue Heron Landscape Design",contact:"Designer",phone:"(860) 735-6064",email:"Contact via phone",address:"PO Box 512, Simsbury, CT 06070",town:"Simsbury",distance:10,type:"Design-Build"},
+            {rank:19,priority:"HIGH",status:"WARM LEAD",company:"X-Treme Landscaping LLC",ar_account:"XTREME LANDSCAPING",contact:"Management",phone:"(860) 651-1265",email:"xtremelandscaping@outlook.com",address:"Simsbury, CT",town:"Simsbury",distance:10,type:"Full Service"},
+            {rank:20,priority:"Standard",status:"NEW PROSPECT",company:"Galecki Landscaping",contact:"Management",phone:"(860) 828-8886",email:"Via website",address:"Simsbury/Newington, CT",town:"Simsbury",distance:10,type:"Commercial"},
+            {rank:21,priority:"HIGH",status:"WARM LEAD",company:"Moffatt & Raymond Landscaping",ar_account:"MOFFATT RAYMOND LANDSCAPING",contact:"Management",phone:"(860) 693-2504",email:"Contact via phone",address:"5 Albany Tpke, Canton, CT 06019",town:"Canton",distance:8,type:"Full Service"},
+            {rank:22,priority:"Standard",status:"NEW PROSPECT",company:"Connecticut Landscape Solutions LLC",contact:"Management",phone:"(860) 836-9061",email:"Via website",address:"28 Spur Ln, Newington, CT 06111",town:"West Hartford",distance:8,type:"Design-Build"},
+            {rank:23,priority:"Standard",status:"NEW PROSPECT",company:"West Hartford Landscaping Inc",contact:"Management",phone:"(860) 231-8262",email:"info@westhartfordlandscaping.com",address:"702/705 Oakwood Ave, West Hartford, CT 06110",town:"West Hartford",distance:8,type:"Full Service"},
+            {rank:24,priority:"Standard",status:"NEW PROSPECT",company:"Jeff Hodges Landscape Contractor, LLC",contact:"Jeff Hodges",phone:"(860) 986-4282",email:"Via website",address:"479 School St, East Hartford, CT 06108",town:"West Hartford",distance:8,type:"Design-Build"},
+            {rank:25,priority:"HIGH",status:"WARM LEAD",company:"Donnellan & Sons Landscaping",ar_account:"DONNELLAN LANDSCAPING",contact:"Management",phone:"(860) 953-2824",email:"Via website",address:"West Hartford, CT 06110",town:"West Hartford",distance:8,type:"Full Service"},
+            {rank:26,priority:"Standard",status:"NEW PROSPECT",company:"RD Bassette Builders LLC",contact:"Management",phone:"(860) 232-4211",email:"Contact via phone",address:"80 Outlook Ave, West Hartford, CT 06119",town:"West Hartford",distance:8,type:"Contractor"},
+            {rank:27,priority:"Standard",status:"NEW PROSPECT",company:"Hall's Landscaping LLC",contact:"Management",phone:"(860) 707-3751",email:"Contact via phone",address:"35 Seymour Ave, West Hartford, CT 06119",town:"West Hartford",distance:8,type:"Full Service"},
+            {rank:28,priority:"HIGH",status:"WARM LEAD",company:"Trout Brook Landscaping LLC",ar_account:"TROUT BROOK LANDSCAPING",contact:"Management",phone:"Via website",email:"Via website",address:"77 N Quaker Ln, West Hartford, CT 06119",town:"West Hartford",distance:8,type:"Tree/Landscape"},
+            {rank:29,priority:"Standard",status:"NEW PROSPECT",company:"A-Z Services LLC",contact:"Management",phone:"(860) 785-8802",email:"Contact via phone",address:"61 Grassmere Ave, West Hartford, CT 06110",town:"West Hartford",distance:8,type:"Contractor"},
+            {rank:30,priority:"Standard",status:"NEW PROSPECT",company:"ALX Products & Services LLC",contact:"Management",phone:"(860) 836-3882",email:"Contact via phone",address:"69 Talcott Rd, West Hartford, CT 06110",town:"West Hartford",distance:8,type:"Contractor"},
+            {rank:31,priority:"Standard",status:"NEW PROSPECT",company:"Luna Tree Care LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"77 N Quaker Ln, West Hartford, CT",town:"West Hartford",distance:8,type:"Tree/Commercial"},
+            {rank:32,priority:"Standard",status:"NEW PROSPECT",company:"Ferguson Landscaping Contractor",contact:"Management",phone:"(860) 676-8030",email:"Via phone",address:"90 Elmfield St, West Hartford, CT 06110",town:"West Hartford",distance:8,type:"Contractor"},
+            {rank:33,priority:"Standard",status:"NEW PROSPECT",company:"American Landscaping, LLC",contact:"Management",phone:"(860) 313-0682",email:"Contact via phone",address:"485 New Park Ave Unit L, Hartford, CT 06110",town:"Hartford",distance:10,type:"Tree/Landscape"},
+            {rank:34,priority:"Standard",status:"NEW PROSPECT",company:"Donato & Sons Landscape Contractors",contact:"Management",phone:"(860) 953-5653",email:"Contact via phone",address:"203 Newfield Ave, Hartford, CT 06106",town:"Hartford",distance:10,type:"Contractor"},
+            {rank:35,priority:"Standard",status:"NEW PROSPECT",company:"Zysk Brothers Landscaping",contact:"Management",phone:"(860) 953-0057",email:"Contact via phone",address:"30 Brixton Rd, Hartford, CT 06110",town:"Hartford",distance:10,type:"Excavating"},
+            {rank:36,priority:"Standard",status:"NEW PROSPECT",company:"EDI Landscape LLC",contact:"Management",phone:"(860) 628-7471",email:"Via website",address:"32 Belmont St, Hartford, CT 06106",town:"Hartford",distance:10,type:"Commercial"},
+            {rank:37,priority:"Standard",status:"NEW PROSPECT",company:"Anderson Year-Round Landscaping, LLC",contact:"Management",phone:"(860) 674-8431",email:"Contact via phone",address:"50 Woodruff Rd, Farmington, CT 06032",town:"Farmington",distance:2,type:"Year-Round"},
+            {rank:38,priority:"Standard",status:"NEW PROSPECT",company:"Thorpe Landscaping & Design, LLC",contact:"Jeffrey Thorpe, Owner",phone:"(860) 463-6122",email:"Via website",address:"Farmington, CT 06032",town:"Farmington",distance:2,type:"Design/Maintenance"},
+            {rank:39,priority:"Standard",status:"NEW PROSPECT",company:"Eco Turf Landscaping LLC",contact:"Rebekah Elovich, Owner",phone:"(860) 810-4172",email:"Via website",address:"299 Colt Hwy Apt 537, Farmington, CT 06032",town:"Farmington",distance:2,type:"Full Service"},
+            {rank:40,priority:"Standard",status:"NEW PROSPECT",company:"Ahlgren Landscaping, LLC",contact:"Management",phone:"(860) 748-0780",email:"Via website",address:"230 S Washington St #14, Plainville, CT 06062",town:"Plainville",distance:5,type:"Design-Build"},
+            {rank:41,priority:"Standard",status:"NEW PROSPECT",company:"Lee's Landscaping LLC",contact:"Management",phone:"(860) 242-9888",email:"Contact via phone",address:"72 Tariffville Rd, Bloomfield, CT 06002",town:"Bloomfield",distance:10,type:"Full Service"},
+            {rank:42,priority:"Standard",status:"NEW PROSPECT",company:"Bluestone Landscapes",contact:"Management",phone:"(860) 242-8119",email:"Contact via phone",address:"4 Cedar Ln, Bloomfield, CT 06002",town:"Bloomfield",distance:10,type:"Contractor"},
+            {rank:43,priority:"Standard",status:"NEW PROSPECT",company:"Kiss My Grass Property Maintenance LLC",contact:"Management",phone:"(860) 877-8414",email:"Via website",address:"137 Judd St, Bristol, CT 06010",town:"Bristol",distance:8,type:"Maintenance"},
+            {rank:44,priority:"Standard",status:"NEW PROSPECT",company:"Custom Grounds",contact:"Management",phone:"Via BBB",email:"Via website",address:"111 Mine Rd, Bristol, CT 06010",town:"Bristol",distance:8,type:"Full Service"},
+            {rank:45,priority:"Standard",status:"NEW PROSPECT",company:"May Landscaping LLC",contact:"Management",phone:"(860) 416-4356",email:"maylandscapingllc@gmail.com",address:"Bristol, CT",town:"Bristol",distance:8,type:"Full Service"},
+            {rank:46,priority:"HIGH",status:"WARM LEAD",company:"Costello Landscaping",ar_account:"COSTELLO LANDSCAPING",contact:"Management",phone:"Via website",email:"Via website",address:"Bristol, CT",town:"Bristol",distance:8,type:"Full Service"},
+            {rank:47,priority:"Standard",status:"NEW PROSPECT",company:"White Oak Landscaping & Lawn Care, Inc",contact:"Management",phone:"Via Angi",email:"Via website",address:"Bristol, CT",town:"Bristol",distance:8,type:"Full Service"},
+            {rank:48,priority:"Standard",status:"NEW PROSPECT",company:"HQ Landscaping",contact:"Management",phone:"Via directory",email:"Via website",address:"Bristol, CT",town:"Bristol",distance:8,type:"Contractor"},
+            {rank:49,priority:"Standard",status:"NEW PROSPECT",company:"Brett's Landscaping",contact:"Management",phone:"Via BBB",email:"Via website",address:"21 Dunham Dr, Berlin, CT 06037",town:"Berlin",distance:10,type:"Full Service"},
+            {rank:50,priority:"Standard",status:"NEW PROSPECT",company:"Hillside Landscaping Co",contact:"Management",phone:"Via website",email:"Via website",address:"Berlin, CT",town:"Berlin",distance:10,type:"Organic/Full Service"},
+            {rank:51,priority:"Standard",status:"NEW PROSPECT",company:"Schmitt Tree Service and Landscaping",contact:"Management",phone:"Via BBB",email:"Via website",address:"48 Hickory Hill Ln, Newington, CT 06111",town:"Newington",distance:10,type:"Tree/Landscape"},
+            {rank:52,priority:"Standard",status:"NEW PROSPECT",company:"Keith's Advanced Landscaping LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"Newington, CT 06111",town:"Newington",distance:10,type:"Full Service"},
+            {rank:53,priority:"Standard",status:"NEW PROSPECT",company:"Simply Landscaping",contact:"Management",phone:"Via BBB",email:"Via website",address:"Newington, CT 06111",town:"Newington",distance:10,type:"Full Service"},
+            {rank:54,priority:"Standard",status:"NEW PROSPECT",company:"Plow and Property Projects LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"131 Summit St Unit C, Newington, CT 06111",town:"Newington",distance:10,type:"Property Mgmt"},
+            {rank:55,priority:"Standard",status:"NEW PROSPECT",company:"Ecogreen Landscaping LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"30 Mandel Dr, Southington, CT 06489",town:"Southington",distance:12,type:"Full Service"},
+            {rank:56,priority:"Standard",status:"NEW PROSPECT",company:"Battista Landscaping",contact:"Management",phone:"(860) 621-1674",email:"Via phone",address:"555 Main St, Southington, CT 06489",town:"Southington",distance:12,type:"Hardscaping"},
+            {rank:57,priority:"Standard",status:"NEW PROSPECT",company:"D. Landino Landscaping, LLC",contact:"Management",phone:"(860) 620-2133",email:"Via phone",address:"238 Flanders Rd, Southington, CT 06489",town:"Southington",distance:12,type:"Contractor"},
+            {rank:58,priority:"Standard",status:"NEW PROSPECT",company:"Landscapes Unlimited, LLC",contact:"Management",phone:"(860) 621-7820",email:"Via phone",address:"173 Gannet Dr, Southington, CT 06489",town:"Southington",distance:12,type:"Full Service"},
+            {rank:59,priority:"Standard",status:"NEW PROSPECT",company:"Total Maintenance, LLC",contact:"Management",phone:"(860) 628-5191",email:"Via phone",address:"26 Bristol St, Southington, CT 06489",town:"Southington",distance:12,type:"Maintenance"},
+            {rank:60,priority:"Standard",status:"NEW PROSPECT",company:"DeSorbo Landscaping, LLC",contact:"Management",phone:"(860) 276-2424",email:"Via phone",address:"533 Main St Apt 2N, Southington, CT 06489",town:"Southington",distance:12,type:"Contractor"},
+            {rank:61,priority:"Standard",status:"NEW PROSPECT",company:"DeRosa Landscaping & Construction LLC",contact:"Management",phone:"(860) 833-8798",email:"Via phone",address:"496 W Center Street Ext, Southington, CT 06489",town:"Southington",distance:12,type:"Construction"},
+            {rank:62,priority:"Standard",status:"NEW PROSPECT",company:"Pine Grove Landscaping, LLC",contact:"Management",phone:"(860) 276-0025",email:"Via phone",address:"32 Foxcroft Ct, Southington, CT 06489",town:"Southington",distance:12,type:"Contractor"},
+            {rank:63,priority:"Standard",status:"NEW PROSPECT",company:"Thomas Hill Lawn Care & Landscaping LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"230 S Washington St #9, Plainville, CT 06062",town:"Plainville",distance:5,type:"Maintenance"},
+            {rank:64,priority:"Standard",status:"NEW PROSPECT",company:"Marek Family Landscape & Excavation Inc",contact:"Management",phone:"Via website",email:"Via website",address:"Southington, CT",town:"Southington",distance:12,type:"Full Service"},
+            {rank:65,priority:"Standard",status:"NEW PROSPECT",company:"Adell Landscape",contact:"Management",phone:"(860) 877-9775",email:"Via phone",address:"Southington, CT 06489",town:"Southington",distance:12,type:"Contractor"},
+            {rank:66,priority:"Standard",status:"NEW PROSPECT",company:"Morin Paving, Inc.",contact:"Management",phone:"Via BBB",email:"Via website",address:"21 Neal Ct, Plainville, CT 06062",town:"Plainville",distance:5,type:"Paving/Landscape"},
+            {rank:67,priority:"Standard",status:"NEW PROSPECT",company:"M & G Landscaping, LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"33 Stockingmill Rd, Wethersfield, CT 06109",town:"Wethersfield",distance:12,type:"Full Service"},
+            {rank:68,priority:"Standard",status:"NEW PROSPECT",company:"Ironwood Landscaping, LLC",contact:"Management",phone:"(860) 721-1747",email:"Via phone",address:"41 Nott St, Wethersfield, CT 06109",town:"Wethersfield",distance:12,type:"Design/Snow"},
+            {rank:69,priority:"Standard",status:"NEW PROSPECT",company:"Rocco's Landscaping, LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"26 Stillwold Dr, Wethersfield, CT 06109",town:"Wethersfield",distance:12,type:"Full Service"},
+            {rank:70,priority:"Standard",status:"NEW PROSPECT",company:"Scenic Landscaping CT",contact:"Management",phone:"Via website",email:"Via website",address:"Rocky Hill, CT",town:"Rocky Hill",distance:12,type:"Design-Build"},
+            {rank:71,priority:"HIGH",status:"WARM LEAD",company:"Pinewood Landscaping LLC",ar_account:"PINEWOOD LANDSCAPING LLC",contact:"Management",phone:"Via website",email:"Via website",address:"Main Street, Cromwell, CT 06416",town:"Cromwell",distance:15,type:"Full Service"},
+            {rank:72,priority:"Standard",status:"NEW PROSPECT",company:"Fischer Landscape Restoration",contact:"Management",phone:"Via Houzz",email:"Via website",address:"Cromwell, CT 06416",town:"Cromwell",distance:15,type:"Design"},
+            {rank:73,priority:"Standard",status:"NEW PROSPECT",company:"Peter Marra Landscape",contact:"Management",phone:"(860) 646-1169",email:"Via phone",address:"806 Hillstown Rd, Manchester, CT 06040",town:"Manchester",distance:20,type:"Full Service"},
+            {rank:74,priority:"Standard",status:"NEW PROSPECT",company:"Kelman Landscape, LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"500 W Center St, Manchester, CT 06040",town:"Manchester",distance:20,type:"Full Service"},
+            {rank:75,priority:"Standard",status:"NEW PROSPECT",company:"General Landscaping, LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"100 Kreiger Ln, Glastonbury, CT 06033",town:"Glastonbury",distance:18,type:"Full Service"},
+            {rank:76,priority:"Standard",status:"NEW PROSPECT",company:"All Seasons Landscaping & Design, LLC",contact:"Management",phone:"(860) 659-4819",email:"Via phone",address:"82 Margaret Lane, Glastonbury, CT 06033",town:"Glastonbury",distance:18,type:"Design"},
+            {rank:77,priority:"Standard",status:"NEW PROSPECT",company:"Stonebridge Craftsmen Landscape Division",contact:"Management",phone:"Via website",email:"Via website",address:"Glastonbury, CT 06073",town:"Glastonbury",distance:18,type:"Design-Build"},
+            {rank:78,priority:"Standard",status:"NEW PROSPECT",company:"Liberty Landscapes, LLC",contact:"Management",phone:"(860) 289-8073",email:"Via phone",address:"498 Main St, South Windsor, CT 06074",town:"South Windsor",distance:20,type:"Commercial"},
+            {rank:79,priority:"Standard",status:"NEW PROSPECT",company:"Bahler Brothers, Inc.",contact:"Management",phone:"Via BBB",email:"Via website",address:"24 Jeffrey Rd, South Windsor, CT 06074",town:"South Windsor",distance:20,type:"Hardscape"},
+            {rank:80,priority:"Standard",status:"NEW PROSPECT",company:"N&G Landscaping and Tree Services LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"456 Tolland St, East Hartford, CT 06108",town:"East Hartford",distance:15,type:"Tree/Landscape"},
+            {rank:81,priority:"Standard",status:"NEW PROSPECT",company:"Ray's Lawnworks and Landscaping LLC",contact:"Management",phone:"(860) 206-3851",email:"Via phone",address:"44 Thomas St, East Hartford, CT 06108",town:"East Hartford",distance:15,type:"Full Service"},
+            {rank:82,priority:"HIGH",status:"WARM LEAD",company:"Torrison Stone & Garden LLC",ar_account:"TORRISON STONE GARDEN LLC",contact:"Torrison Family",phone:"Via directory",email:"Via website",address:"Willington, CT",town:"Willington",distance:30,type:"Stone/Garden"},
+            {rank:83,priority:"Standard",status:"NEW PROSPECT",company:"Hess Landscaping, Inc.",contact:"Management",phone:"Via BBB",email:"Via website",address:"PO Box 317, Weatogue, CT 06089",town:"Simsbury",distance:12,type:"Full Service"},
+            {rank:84,priority:"Standard",status:"NEW PROSPECT",company:"Livolsi Hardscaping, LLC",contact:"Livolsi Family",phone:"Via Houzz",email:"Via website",address:"Seymour, CT 06483",town:"Seymour",distance:28,type:"Hardscape"},
+            {rank:85,priority:"Standard",status:"NEW PROSPECT",company:"Lasko Landscaping LLC",contact:"Management",phone:"Via Houzz",email:"Via website",address:"65 Warfield St, Milford, CT 06461",town:"Milford",distance:42,type:"Full Service"},
+            {rank:86,priority:"Standard",status:"NEW PROSPECT",company:"Lindquist Power & Landscaping",contact:"Management",phone:"Via Houzz",email:"Via website",address:"11 Old State Road, New Milford, CT 06776",town:"New Milford",distance:35,type:"Full Service"},
+            {rank:87,priority:"Standard",status:"NEW PROSPECT",company:"Bruzzi Lawn & Landscape LLC",contact:"Management",phone:"Via Houzz",email:"Via website",address:"90 Danbury Road, New Milford, CT 06776",town:"New Milford",distance:35,type:"Full Service"},
+            {rank:88,priority:"Standard",status:"NEW PROSPECT",company:"Paradise Lawn & Landscape",contact:"Owner",phone:"Via website",email:"Via website",address:"New Milford, CT",town:"New Milford",distance:35,type:"Full Service"},
+            {rank:89,priority:"Standard",status:"NEW PROSPECT",company:"Designing Eden",contact:"Lead Designer",phone:"Via website",email:"Via website",address:"New Milford, CT",town:"New Milford",distance:35,type:"Design-Build"},
+            {rank:90,priority:"Standard",status:"NEW PROSPECT",company:"Sharp Landscaping and Tree Removal",contact:"Management",phone:"Via Houzz",email:"Via website",address:"Trumbull, CT 06611",town:"Trumbull",distance:45,type:"Construction"},
+            {rank:91,priority:"Standard",status:"NEW PROSPECT",company:"Avila Landscape",contact:"Management",phone:"Via Houzz",email:"Via website",address:"Stamford, CT",town:"Stamford",distance:48,type:"Full Service"},
+            {rank:92,priority:"Standard",status:"NEW PROSPECT",company:"Trent Landscaping Inc.",contact:"Management",phone:"Via BBB",email:"Via website",address:"52 Oak Ridge Ln, West Hartford, CT 06107",town:"West Hartford",distance:8,type:"Full Service"},
+            {rank:93,priority:"Standard",status:"NEW PROSPECT",company:"Martin Landscaping & Horticultural Services LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"Serves Avon/Farmington area",town:"Avon",distance:5,type:"Full Service"},
+            {rank:94,priority:"Standard",status:"NEW PROSPECT",company:"Ferrari Lawn & Landscape, LLC",contact:"Management",phone:"Via CT Post",email:"Via website",address:"Suffield area",town:"Suffield",distance:20,type:"Design/Maintenance"},
+            {rank:95,priority:"Standard",status:"NEW PROSPECT",company:"Carpe Diem Home Improvements LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"Manchester, CT 06040",town:"Manchester",distance:20,type:"Home/Landscape"},
+            {rank:96,priority:"Standard",status:"NEW PROSPECT",company:"Freddie's Landscaping Services LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"Manchester, CT 06040",town:"Manchester",distance:20,type:"Maintenance"},
+            {rank:97,priority:"Standard",status:"NEW PROSPECT",company:"Ferrer Tree and Services LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"East Hartford, CT 06118",town:"East Hartford",distance:15,type:"Tree/Concrete"},
+            {rank:98,priority:"Standard",status:"NEW PROSPECT",company:"Affordable Landscaping LLC",contact:"Management",phone:"(860) 570-9849",email:"Via phone",address:"PO Box 370434, West Hartford, CT 06137",town:"West Hartford",distance:8,type:"Full Service"},
+            {rank:99,priority:"Standard",status:"NEW PROSPECT",company:"Delcavos Landscaping LLC",contact:"Management",phone:"(203) 430-6657",email:"Via phone",address:"Plantsville, CT 06479",town:"Plantsville",distance:12,type:"Contractor"},
+            {rank:100,priority:"Standard",status:"NEW PROSPECT",company:"Green Man's Contracting & Landscaping LLC",contact:"Management",phone:"Via BBB",email:"Via website",address:"355 Prospect Ave Apt 3S, West Hartford, CT 06105",town:"West Hartford",distance:8,type:"Contractor"}
+        ];
+
+        // Stone & Supply and Sand & Gravel will be loaded dynamically
+        let prospectsDataStone = [];
+        let prospectsDataGravel = [];
+
+        let filteredProspectsNursery = [...prospectsDataNursery];
+        let filteredProspectsStone = [];
+        let filteredProspectsGravel = [];
+
+        function displayProspects(division = 'nursery') {
+            const container = document.getElementById(`prospects-results-${division}`);
+            const filteredData = division === 'nursery' ? filteredProspectsNursery : 
+                                 division === 'stone' ? filteredProspectsStone : 
+                                 filteredProspectsGravel;
+            
+            if (!filteredData || filteredData.length === 0) {
+                container.innerHTML = '<div class="no-results">No prospects match your filters.</div>';
+                return;
+            }
+
+            let html = '';
+            filteredData.forEach(p => {
+                const statusClass = p.status === 'WARM LEAD' ? 'success' : 'info';
+                const priorityBadge = p.priority === 'HIGH' ? '<span style="background:var(--color-warning);color:var(--color-bg);padding:var(--space-4) var(--space-8);border-radius:var(--radius-sm);font-size:var(--font-size-xs);font-weight:var(--font-weight-semibold);margin-left:var(--space-8);">HIGH PRIORITY</span>' : '';
+                
+                html += `
+                    <div class="rfp-card">
+                        <div class="rfp-header">
+                            <div>
+                                <h3>${escapeHtml(p.company)}${priorityBadge}</h3>
+                                <div class="rfp-meta">
+                                    <span class="badge badge-${statusClass}">${p.status}</span>
+                                    <span>${p.town} • ${p.distance} mi</span>
+                                    <span>${p.type}</span>
+                                </div>
+                            </div>
+                            <div class="rfp-value" style="text-align:right;font-size:var(--font-size-sm);">
+                                Rank #${p.rank}
+                            </div>
+                        </div>
+                        <div class="rfp-body">
+                            <p><strong>Contact:</strong> ${escapeHtml(p.contact)}</p>
+                            ${p.phone !== 'Via BBB' && p.phone !== 'Via Houzz' && p.phone !== 'Via directory' && p.phone !== 'Via website' && p.phone !== 'Via Angi' && p.phone !== 'Via CT Post' ? `<p><strong>Phone:</strong> ${escapeHtml(p.phone)}</p>` : ''}
+                            ${p.email !== 'Via website' && p.email !== 'Contact via phone' ? `<p><strong>Email:</strong> ${escapeHtml(p.email)}</p>` : ''}
+                            <p><strong>Address:</strong> ${escapeHtml(p.address)}</p>
+                            ${p.ar_account ? `<p><strong>AR Account:</strong> ${escapeHtml(p.ar_account)}</p>` : ''}
+                        </div>
+                        <div class="rfp-footer">
+                            <button class="btn btn-secondary btn-sm" onclick="markContacted('${division}', ${p.rank})">📞 Mark Contacted</button>
+                            <button class="btn btn-secondary btn-sm" onclick="addNote('${division}', ${p.rank})">📝 Add Note</button>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = html;
+        }
+
+        function filterProspects(division = 'nursery') {
+            const status = document.getElementById(`statusFilter${division.charAt(0).toUpperCase() + division.slice(1)}`).value;
+            const priority = document.getElementById(`priorityFilter${division.charAt(0).toUpperCase() + division.slice(1)}`).value;
+            const service = document.getElementById(`serviceFilter${division.charAt(0).toUpperCase() + division.slice(1)}`).value;
+            const distance = document.getElementById(`distanceFilter${division.charAt(0).toUpperCase() + division.slice(1)}`).value;
+            const search = document.getElementById(`prospectSearch${division.charAt(0).toUpperCase() + division.slice(1)}`).value.toLowerCase();
+
+            const sourceData = division === 'nursery' ? prospectsDataNursery : 
+                              division === 'stone' ? prospectsDataStone : 
+                              prospectsDataGravel;
+
+            const filtered = sourceData.filter(p => {
+                if (status && p.status !== status) return false;
+                if (priority && p.priority !== priority) return false;
+                if (service && !p.type.includes(service)) return false;
+                if (distance && p.distance > parseInt(distance)) return false;
+                if (search && !p.company.toLowerCase().includes(search) && 
+                    !p.town.toLowerCase().includes(search) && 
+                    !p.contact.toLowerCase().includes(search)) return false;
+                return true;
+            });
+
+            if (division === 'nursery') filteredProspectsNursery = filtered;
+            else if (division === 'stone') filteredProspectsStone = filtered;
+            else filteredProspectsGravel = filtered;
+
+            displayProspects(division);
+            updateProspectStats(division);
+        }
+
+        function updateProspectStats(division = 'nursery') {
+            const filtered = division === 'nursery' ? filteredProspectsNursery : 
+                            division === 'stone' ? filteredProspectsStone : 
+                            filteredProspectsGravel;
+            
+            const total = filtered.length;
+            const newProspects = filtered.filter(p => p.status === 'NEW PROSPECT').length;
+            const warmLeads = filtered.filter(p => p.status === 'WARM LEAD').length;
+            
+            const divCap = division.charAt(0).toUpperCase() + division.slice(1);
+            document.getElementById(`totalProspects${divCap}`).textContent = total;
+            document.getElementById(`newProspects${divCap}`).textContent = newProspects;
+            document.getElementById(`warmLeads${divCap}`).textContent = warmLeads;
+        }
+
+        function markContacted(division, rank) {
+            alert(`Marked ${division} prospect #${rank} as contacted. (Feature coming soon: track in CRM)`);
+        }
+
+        function addNote(division, rank) {
+            const note = prompt(`Add note for ${division} prospect #${rank}:`);
+            if (note) {
+                alert(`Note saved: "${note}" (Feature coming soon: save to CRM)`);
+            }
+        }
+
+        async function refreshProspects(division) {
+            const resultsContainer = document.getElementById(`prospects-results-${division}`);
+            resultsContainer.innerHTML = '<div class="no-results">🔄 Searching for prospects... This may take a moment.</div>';
+            
+            // TODO: Implement dynamic search based on your search queries
+            // For now, show a placeholder message
+            setTimeout(() => {
+                resultsContainer.innerHTML = `
+                    <div class="no-results">
+                        <h3>Dynamic Search Ready</h3>
+                        <p>Please provide your search queries/criteria for ${division === 'stone' ? 'Stone & Supply' : 'Sand & Gravel'} prospects.</p>
+                        <p>Once you share the search terms you used (e.g., Google search queries, industry keywords, geographic areas), I'll implement automatic prospect discovery.</p>
+                    </div>
+                `;
+            }, 1000);
+        }
+
+        function exportProspectsToCSV(division = 'nursery') {
+            const filtered = division === 'nursery' ? filteredProspectsNursery : 
+                            division === 'stone' ? filteredProspectsStone : 
+                            filteredProspectsGravel;
+            
+            if (filtered.length === 0) { alert('No prospects to export.'); return; }
+            
+            const headers = ['Rank','Priority','Status','Company','Contact','Phone','Email','Address','Town','Distance','Type','AR_Account'];
+            const rows = filtered.map(p => [
+                p.rank, p.priority, p.status, p.company, p.contact, p.phone, p.email, 
+                p.address, p.town, p.distance + ' mi', p.type, p.ar_account || ''
+            ]);
+            
+            const csv = [headers, ...rows].map(row => 
+                row.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(',')
+            ).join('\n');
+            
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `dunning-${division}-prospects-${new Date().toISOString().slice(0,10)}.csv`;
+            document.body.appendChild(a);
+            a.click();
+            a.remove();
+            URL.revokeObjectURL(url);
+        }
+
+        // Initialize nursery prospects on page load
+        if (document.getElementById('nursery-prospects')) {
+            displayProspects('nursery');
+        }
+    </script>
+</body>
+</html>

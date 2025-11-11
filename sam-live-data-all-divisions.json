@@ -1,0 +1,1067 @@
+﻿{
+    "fetchDate":  "2025-11-10 22:04:55",
+    "stone":  [
+                  {
+                      "noticeId":  "ffb82ca01458458cae11f4148a3a2e4a",
+                      "title":  "29--PIPE,EXHAUST",
+                      "solicitationNumber":  "SPE7L426U0088",
+                      "fullParentPathName":  "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA LAND.DLA LAND COLUMBUS.DLA LAND AND MARITIME",
+                      "fullParentPathCode":  "097.97AS.DLA LAND.DLA LAND COLUMBUS.SPE7L4",
+                      "postedDate":  "2025-11-10",
+                      "type":  "Award Notice",
+                      "baseType":  "Award Notice",
+                      "archiveType":  "auto15",
+                      "archiveDate":  "2025-11-25",
+                      "typeOfSetAsideDescription":  null,
+                      "typeOfSetAside":  null,
+                      "responseDeadLine":  null,
+                      "naicsCode":  "336390",
+                      "naicsCodes":  [
+                                         "336390"
+                                     ],
+                      "classificationCode":  "29",
+                      "active":  "Yes",
+                      "award":  {
+                                    "date":  "2025-11-10",
+                                    "number":  "SPE7L426D60KA",
+                                    "amount":  "350000.00",
+                                    "awardee":  {
+                                                    "name":  "GREAT LAKES SOUND \u0026 VIBRATION INC",
+                                                    "ueiSAM":  "KH1SMVPKSHY4",
+                                                    "cageCode":  "3B6V7"
+                                                }
+                                },
+                      "pointOfContact":  [
+                                             {
+                                                 "fax":  null,
+                                                 "type":  "primary",
+                                                 "email":  "Stephen.1.Weaver@dla.mil",
+                                                 "phone":  null,
+                                                 "title":  null,
+                                                 "fullName":  "Stephen Weaver6142923131"
+                                             }
+                                         ],
+                      "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ffb82ca01458458cae11f4148a3a2e4a",
+                      "organizationType":  "OFFICE",
+                      "officeAddress":  {
+                                            "zipcode":  "43218-3990",
+                                            "city":  "COLUMBUS",
+                                            "countryCode":  "USA",
+                                            "state":  "OH"
+                                        },
+                      "placeOfPerformance":  null,
+                      "additionalInfoLink":  null,
+                      "uiLink":  "https://sam.gov/workspace/contract/opp/ffb82ca01458458cae11f4148a3a2e4a/view",
+                      "links":  [
+                                    {
+                                        "rel":  "self",
+                                        "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ffb82ca01458458cae11f4148a3a2e4a\u0026limit=1"
+                                    }
+                                ],
+                      "resourceLinks":  null
+                  },
+                  {
+                      "noticeId":  "ff2e3611bfd14e3cb1099dfb66df0a58",
+                      "title":  "Base Operations Support (BOS) Services at U.S. Naval Air Station (NAS) Sigonella and its outlying support activities, Sicily, Italy",
+                      "solicitationNumber":  "N6247025R0020",
+                      "fullParentPathName":  "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC ATLANTIC CMD.NAVFACSYSCOM ATLANTIC",
+                      "fullParentPathCode":  "017.1700.NAVFAC.NAVFAC ATLANTIC CMD.N62470",
+                      "postedDate":  "2025-11-10",
+                      "type":  "Solicitation",
+                      "baseType":  "Solicitation",
+                      "archiveType":  "autocustom",
+                      "archiveDate":  "2026-04-04",
+                      "typeOfSetAsideDescription":  "No Set aside used",
+                      "typeOfSetAside":  "NONE",
+                      "responseDeadLine":  "2025-12-03T14:00:00-05:00",
+                      "naicsCode":  "561210",
+                      "naicsCodes":  [
+                                         "561210"
+                                     ],
+                      "classificationCode":  "S216",
+                      "active":  "Yes",
+                      "award":  null,
+                      "pointOfContact":  [
+                                             {
+                                                 "fax":  "",
+                                                 "type":  "primary",
+                                                 "email":  "star.m.hanchey.civ@us.navy.mil",
+                                                 "phone":  "",
+                                                 "title":  null,
+                                                 "fullName":  "Star Hanchey"
+                                             },
+                                             {
+                                                 "fax":  "",
+                                                 "type":  "secondary",
+                                                 "email":  "weston.c.polen.civ@us.navy.mil",
+                                                 "phone":  "",
+                                                 "title":  null,
+                                                 "fullName":  "Weston Polen"
+                                             }
+                                         ],
+                      "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ff2e3611bfd14e3cb1099dfb66df0a58",
+                      "organizationType":  "OFFICE",
+                      "officeAddress":  {
+                                            "zipcode":  "23508-1278",
+                                            "city":  "NORFOLK",
+                                            "countryCode":  "USA",
+                                            "state":  "VA"
+                                        },
+                      "placeOfPerformance":  {
+                                                 "city":  {
+                                                              "code":  "Sigonella",
+                                                              "name":  "Sigonella"
+                                                          },
+                                                 "country":  {
+                                                                 "code":  "ITA",
+                                                                 "name":  "ITALY"
+                                                             }
+                                             },
+                      "additionalInfoLink":  null,
+                      "uiLink":  "https://sam.gov/workspace/contract/opp/ff2e3611bfd14e3cb1099dfb66df0a58/view",
+                      "links":  [
+                                    {
+                                        "rel":  "self",
+                                        "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ff2e3611bfd14e3cb1099dfb66df0a58\u0026limit=1"
+                                    }
+                                ],
+                      "resourceLinks":  [
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/010b61019ec24d769639b864850e3993/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/052fe025cc8b4800a5a17a142375cf6e/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/064e0822a19a43e7981215e758d37e3c/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0686cba8174145fd9482d08298129d55/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/08204e33de4e4fecb845d66db279d41a/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0829698aa96345a38a41fe3239e3c461/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0a81ad0010c842019d6b5a1c85b18661/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0f4aacde3d64448795ae1d9affa68d18/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/14c2d23fb3dd42a78d52d7f8f0de370b/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/16eb3b948e274726a69eef19df7cbfc2/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/18d313ea844c4f80a6f836076be2d28a/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1946f95558914b9c9875193d3ed878eb/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b563c0253374f2d97bd5e7538153080/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b9d5a0a5fc74df08ab4511a584469c8/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1eeedfef2ef7439494d88e8dbc2a8aeb/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24df506c0d1b4593859f61aef08c4314/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/257f7d6ac86a4bad9018c3a84a7d0974/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d3fd0dd0c974f669b7a3be80be7f124/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/367293530559466e95ab85aad0a00fbb/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/388f46f925884fdd8ef6028e2deb8957/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3aca2912eb574c80b019d143d388c83b/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d0186821faf438bb44ba19030ca69c6/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e371ade85f544ae88995aca8a67a0ab/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ed9d5323a974039a64ecaca74d0e5db/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4158abfd2a494f8888a12cadbd4fdff4/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41c72bb2af4342ee8b05d91e8a2c02ca/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/42c5136b2f174219a7881742a1ab8fc6/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4329371d47574240bec32f5ed78138ee/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4430d71764354ab78a1f730fecab4dfc/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a43cb7e92d74d61a5fa21f85603bff8/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a8c69d6ed89462c818ac9de49870879/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4b5e7817731343b9bce55cf1b57368f5/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4cac29b11dc44dec8644b1a62ab0ddb3/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/50dc3d63be6e406ca5d07fda9914a116/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/53de4ce5032a4acf968f4860c9140cd5/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/551baea86447484a8fbcdb4c84bd4f52/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5d1730a1a2b64001ac01ec7922f7e172/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e110ced28744fd2bf48ca0e258cbfae/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5f4f85abb30143c1adbbc6cfe006e2a8/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/60d2a56012b44e9b8c6971f211a30458/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/674c4ed0a1084403b2da7f3f6c50d6df/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/69de43e77af846b19aeb97db6ed67061/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6bdb2072591c492cb1a78f93d87b683a/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6e3938b6f93e4c599028ed76e6f7b12b/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7217427341eb44a4b87e8def6c70fa0e/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7745f67f143940fbb209a3c1fa04d854/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7767bc410ce24bd88579e9513ccabde7/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79280660bcf24c508c6402f9f19ebf7b/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7b99650f419b4936a588f2e8462b5edc/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7cf57df7840147caba832a96e4c40dcf/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7e47aaccd0274be9bdaede284fea9955/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/85aac975fb154daf8b56db915abb04ca/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8a02de3699db4d8a89929da939b93a3c/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e7fb1b15c6d44a89d1f3c98cdf52bf4/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9126ed71b9d14b69bed89d436c60cfd2/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/912b606acbeb48679a5bee1d0ed1dc43/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/923068a3a40b4968a30d17083af3b54d/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/92809a24cfb8487ea44504d5f76cd11f/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93703cffe7b94862815df3a35625af01/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/944598acbc16446984a1633078b77c4b/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9603bf81f45d48d29eba865dc9ec8e82/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/97dd8c13b9d3449098f0193ebc16c274/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9841776ec127492886c7551613f576ee/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/98f6708d46d14d93a494616bd748855c/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/99e61ae561344bb4aae25a0b8a7ff58e/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9adcfb4d48cb471d93b7f6bbaa5e29e8/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9bdf62e909824c7bb2ec1d41ad571cf5/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2436b672914d48ba32b225f7971638/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a0a2e7756e5f4468aa52efd4ec0b298a/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a831fbe57bf9493db78e73445547d488/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aa05a360879c4068b202a621f844bc2a/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ae5f08f97d874a99999f539676becfd7/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/af7d5010d6e6404ea18ebf990b6ee68d/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b6a6df5d70574f9cb175ed18005c9ce5/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b82e425659704343957f7e251f837717/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ba72eaeb0c784688aae164a12202cb0e/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc0825daeeb64cc7a691a7a8ca5fab68/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c464cc0908c54bcc8fb2ea05a280bdd5/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c56cf2b0ec044b66b19bb5f8d377f435/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/caf8c4174c6c42fdb728abe1fbd2d07b/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbe8af51eb8f4eadaa133009ae4a310c/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cc719386dbce4711b1d83cb1e49499ff/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cdade83355834e44af16ad6d6314b36c/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d4b30e78758545058e0a4156e05edc3a/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d74ccabe344c4b79a22a685c31be2666/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/da964e7fac59404288afa76e72c298b3/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/db3ff7f4a1094099a5ca1d9335bb323d/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc7a864287374caa8617f729c5269e22/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e02a1cba25524e0b847146fed685f3be/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e0c9675a8df848478fe9a9d75d954c7c/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e38492ea721f4fca9e30d5f69c2bc2a6/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e57850ad2a4b4cbcbee3b60de351dcfb/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ee15bfc39fd84988b7e2c8d2493371d7/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f28c30de330349749bba8bd4bb68871c/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f29f332a56ba4dc283abf230357daa2f/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f5a71f59079c4f19bec9a24fb1e75768/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f5ba9053adbf4ffba02a590c52bc3227/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd8196c3b109459d93f88c559e10974c/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fee6330be46e4888a7790c3e810d771f/download",
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffff9f8925304917aae0642c16625e52/download"
+                                        ]
+                  },
+                  {
+                      "noticeId":  "ff24dbb6d7644f798a956179cfb579ce",
+                      "title":  "7A20--Intent to Sole Source - Radformation ClearCheck  Base plus Four (4) Option Years",
+                      "solicitationNumber":  "36C24826Q0067",
+                      "fullParentPathName":  "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248)",
+                      "fullParentPathCode":  "036.3600.36C248",
+                      "postedDate":  "2025-11-10",
+                      "type":  "Presolicitation",
+                      "baseType":  "Sources Sought",
+                      "archiveType":  "autocustom",
+                      "archiveDate":  "2025-12-14",
+                      "typeOfSetAsideDescription":  null,
+                      "typeOfSetAside":  "",
+                      "responseDeadLine":  "2025-11-14T13:00:00-05:00",
+                      "naicsCode":  "513210",
+                      "naicsCodes":  [
+                                         "513210"
+                                     ],
+                      "classificationCode":  "7A20",
+                      "active":  "Yes",
+                      "award":  {
+                                    "awardee":  {
+
+                                                }
+                                },
+                      "pointOfContact":  [
+                                             {
+                                                 "fax":  "",
+                                                 "type":  "primary",
+                                                 "email":  "moneque.rodriguez@va.gov",
+                                                 "phone":  "813-972-2000",
+                                                 "title":  "Contracting Officer",
+                                                 "fullName":  "Moneque Rodriguez"
+                                             }
+                                         ],
+                      "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ff24dbb6d7644f798a956179cfb579ce",
+                      "organizationType":  "OFFICE",
+                      "officeAddress":  {
+                                            "zipcode":  "33637",
+                                            "city":  "TAMPA",
+                                            "countryCode":  "USA",
+                                            "state":  "FL"
+                                        },
+                      "placeOfPerformance":  {
+                                                 "streetAddress":  "Department of Veterans Affairs C.W. Bill Young VA Medical Center",
+                                                 "streetAddress2":  " 10,000 Bay Pines Blvd",
+                                                 "city":  {
+                                                              "name":  ""
+                                                          },
+                                                 "state":  {
+                                                               "name":  "Bay Pines"
+                                                           },
+                                                 "zip":  "FL",
+                                                 "country":  {
+                                                                 "name":  "33744"
+                                                             }
+                                             },
+                      "additionalInfoLink":  null,
+                      "uiLink":  "https://sam.gov/workspace/contract/opp/ff24dbb6d7644f798a956179cfb579ce/view",
+                      "links":  [
+                                    {
+                                        "rel":  "self",
+                                        "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ff24dbb6d7644f798a956179cfb579ce\u0026limit=1"
+                                    }
+                                ],
+                      "resourceLinks":  [
+                                            "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f68175d61c564f63ad09a2ce2474455f/download"
+                                        ]
+                  }
+              ],
+    "landscape":  [
+                      {
+                          "noticeId":  "ffb82ca01458458cae11f4148a3a2e4a",
+                          "title":  "29--PIPE,EXHAUST",
+                          "solicitationNumber":  "SPE7L426U0088",
+                          "fullParentPathName":  "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA LAND.DLA LAND COLUMBUS.DLA LAND AND MARITIME",
+                          "fullParentPathCode":  "097.97AS.DLA LAND.DLA LAND COLUMBUS.SPE7L4",
+                          "postedDate":  "2025-11-10",
+                          "type":  "Award Notice",
+                          "baseType":  "Award Notice",
+                          "archiveType":  "auto15",
+                          "archiveDate":  "2025-11-25",
+                          "typeOfSetAsideDescription":  null,
+                          "typeOfSetAside":  null,
+                          "responseDeadLine":  null,
+                          "naicsCode":  "336390",
+                          "naicsCodes":  [
+                                             "336390"
+                                         ],
+                          "classificationCode":  "29",
+                          "active":  "Yes",
+                          "award":  {
+                                        "date":  "2025-11-10",
+                                        "number":  "SPE7L426D60KA",
+                                        "amount":  "350000.00",
+                                        "awardee":  {
+                                                        "name":  "GREAT LAKES SOUND \u0026 VIBRATION INC",
+                                                        "ueiSAM":  "KH1SMVPKSHY4",
+                                                        "cageCode":  "3B6V7"
+                                                    }
+                                    },
+                          "pointOfContact":  [
+                                                 {
+                                                     "fax":  null,
+                                                     "type":  "primary",
+                                                     "email":  "Stephen.1.Weaver@dla.mil",
+                                                     "phone":  null,
+                                                     "title":  null,
+                                                     "fullName":  "Stephen Weaver6142923131"
+                                                 }
+                                             ],
+                          "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ffb82ca01458458cae11f4148a3a2e4a",
+                          "organizationType":  "OFFICE",
+                          "officeAddress":  {
+                                                "zipcode":  "43218-3990",
+                                                "city":  "COLUMBUS",
+                                                "countryCode":  "USA",
+                                                "state":  "OH"
+                                            },
+                          "placeOfPerformance":  null,
+                          "additionalInfoLink":  null,
+                          "uiLink":  "https://sam.gov/workspace/contract/opp/ffb82ca01458458cae11f4148a3a2e4a/view",
+                          "links":  [
+                                        {
+                                            "rel":  "self",
+                                            "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ffb82ca01458458cae11f4148a3a2e4a\u0026limit=1"
+                                        }
+                                    ],
+                          "resourceLinks":  null
+                      },
+                      {
+                          "noticeId":  "ff2e3611bfd14e3cb1099dfb66df0a58",
+                          "title":  "Base Operations Support (BOS) Services at U.S. Naval Air Station (NAS) Sigonella and its outlying support activities, Sicily, Italy",
+                          "solicitationNumber":  "N6247025R0020",
+                          "fullParentPathName":  "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC ATLANTIC CMD.NAVFACSYSCOM ATLANTIC",
+                          "fullParentPathCode":  "017.1700.NAVFAC.NAVFAC ATLANTIC CMD.N62470",
+                          "postedDate":  "2025-11-10",
+                          "type":  "Solicitation",
+                          "baseType":  "Solicitation",
+                          "archiveType":  "autocustom",
+                          "archiveDate":  "2026-04-04",
+                          "typeOfSetAsideDescription":  "No Set aside used",
+                          "typeOfSetAside":  "NONE",
+                          "responseDeadLine":  "2025-12-03T14:00:00-05:00",
+                          "naicsCode":  "561210",
+                          "naicsCodes":  [
+                                             "561210"
+                                         ],
+                          "classificationCode":  "S216",
+                          "active":  "Yes",
+                          "award":  null,
+                          "pointOfContact":  [
+                                                 {
+                                                     "fax":  "",
+                                                     "type":  "primary",
+                                                     "email":  "star.m.hanchey.civ@us.navy.mil",
+                                                     "phone":  "",
+                                                     "title":  null,
+                                                     "fullName":  "Star Hanchey"
+                                                 },
+                                                 {
+                                                     "fax":  "",
+                                                     "type":  "secondary",
+                                                     "email":  "weston.c.polen.civ@us.navy.mil",
+                                                     "phone":  "",
+                                                     "title":  null,
+                                                     "fullName":  "Weston Polen"
+                                                 }
+                                             ],
+                          "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ff2e3611bfd14e3cb1099dfb66df0a58",
+                          "organizationType":  "OFFICE",
+                          "officeAddress":  {
+                                                "zipcode":  "23508-1278",
+                                                "city":  "NORFOLK",
+                                                "countryCode":  "USA",
+                                                "state":  "VA"
+                                            },
+                          "placeOfPerformance":  {
+                                                     "city":  {
+                                                                  "code":  "Sigonella",
+                                                                  "name":  "Sigonella"
+                                                              },
+                                                     "country":  {
+                                                                     "code":  "ITA",
+                                                                     "name":  "ITALY"
+                                                                 }
+                                                 },
+                          "additionalInfoLink":  null,
+                          "uiLink":  "https://sam.gov/workspace/contract/opp/ff2e3611bfd14e3cb1099dfb66df0a58/view",
+                          "links":  [
+                                        {
+                                            "rel":  "self",
+                                            "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ff2e3611bfd14e3cb1099dfb66df0a58\u0026limit=1"
+                                        }
+                                    ],
+                          "resourceLinks":  [
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/010b61019ec24d769639b864850e3993/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/052fe025cc8b4800a5a17a142375cf6e/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/064e0822a19a43e7981215e758d37e3c/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0686cba8174145fd9482d08298129d55/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/08204e33de4e4fecb845d66db279d41a/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0829698aa96345a38a41fe3239e3c461/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0a81ad0010c842019d6b5a1c85b18661/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0f4aacde3d64448795ae1d9affa68d18/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/14c2d23fb3dd42a78d52d7f8f0de370b/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/16eb3b948e274726a69eef19df7cbfc2/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/18d313ea844c4f80a6f836076be2d28a/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1946f95558914b9c9875193d3ed878eb/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b563c0253374f2d97bd5e7538153080/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b9d5a0a5fc74df08ab4511a584469c8/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1eeedfef2ef7439494d88e8dbc2a8aeb/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24df506c0d1b4593859f61aef08c4314/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/257f7d6ac86a4bad9018c3a84a7d0974/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d3fd0dd0c974f669b7a3be80be7f124/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/367293530559466e95ab85aad0a00fbb/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/388f46f925884fdd8ef6028e2deb8957/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3aca2912eb574c80b019d143d388c83b/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d0186821faf438bb44ba19030ca69c6/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e371ade85f544ae88995aca8a67a0ab/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ed9d5323a974039a64ecaca74d0e5db/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4158abfd2a494f8888a12cadbd4fdff4/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41c72bb2af4342ee8b05d91e8a2c02ca/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/42c5136b2f174219a7881742a1ab8fc6/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4329371d47574240bec32f5ed78138ee/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4430d71764354ab78a1f730fecab4dfc/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a43cb7e92d74d61a5fa21f85603bff8/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a8c69d6ed89462c818ac9de49870879/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4b5e7817731343b9bce55cf1b57368f5/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4cac29b11dc44dec8644b1a62ab0ddb3/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/50dc3d63be6e406ca5d07fda9914a116/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/53de4ce5032a4acf968f4860c9140cd5/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/551baea86447484a8fbcdb4c84bd4f52/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5d1730a1a2b64001ac01ec7922f7e172/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e110ced28744fd2bf48ca0e258cbfae/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5f4f85abb30143c1adbbc6cfe006e2a8/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/60d2a56012b44e9b8c6971f211a30458/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/674c4ed0a1084403b2da7f3f6c50d6df/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/69de43e77af846b19aeb97db6ed67061/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6bdb2072591c492cb1a78f93d87b683a/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6e3938b6f93e4c599028ed76e6f7b12b/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7217427341eb44a4b87e8def6c70fa0e/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7745f67f143940fbb209a3c1fa04d854/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7767bc410ce24bd88579e9513ccabde7/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79280660bcf24c508c6402f9f19ebf7b/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7b99650f419b4936a588f2e8462b5edc/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7cf57df7840147caba832a96e4c40dcf/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7e47aaccd0274be9bdaede284fea9955/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/85aac975fb154daf8b56db915abb04ca/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8a02de3699db4d8a89929da939b93a3c/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e7fb1b15c6d44a89d1f3c98cdf52bf4/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9126ed71b9d14b69bed89d436c60cfd2/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/912b606acbeb48679a5bee1d0ed1dc43/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/923068a3a40b4968a30d17083af3b54d/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/92809a24cfb8487ea44504d5f76cd11f/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93703cffe7b94862815df3a35625af01/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/944598acbc16446984a1633078b77c4b/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9603bf81f45d48d29eba865dc9ec8e82/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/97dd8c13b9d3449098f0193ebc16c274/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9841776ec127492886c7551613f576ee/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/98f6708d46d14d93a494616bd748855c/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/99e61ae561344bb4aae25a0b8a7ff58e/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9adcfb4d48cb471d93b7f6bbaa5e29e8/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9bdf62e909824c7bb2ec1d41ad571cf5/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2436b672914d48ba32b225f7971638/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a0a2e7756e5f4468aa52efd4ec0b298a/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a831fbe57bf9493db78e73445547d488/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aa05a360879c4068b202a621f844bc2a/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ae5f08f97d874a99999f539676becfd7/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/af7d5010d6e6404ea18ebf990b6ee68d/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b6a6df5d70574f9cb175ed18005c9ce5/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b82e425659704343957f7e251f837717/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ba72eaeb0c784688aae164a12202cb0e/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc0825daeeb64cc7a691a7a8ca5fab68/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c464cc0908c54bcc8fb2ea05a280bdd5/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c56cf2b0ec044b66b19bb5f8d377f435/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/caf8c4174c6c42fdb728abe1fbd2d07b/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbe8af51eb8f4eadaa133009ae4a310c/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cc719386dbce4711b1d83cb1e49499ff/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cdade83355834e44af16ad6d6314b36c/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d4b30e78758545058e0a4156e05edc3a/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d74ccabe344c4b79a22a685c31be2666/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/da964e7fac59404288afa76e72c298b3/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/db3ff7f4a1094099a5ca1d9335bb323d/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc7a864287374caa8617f729c5269e22/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e02a1cba25524e0b847146fed685f3be/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e0c9675a8df848478fe9a9d75d954c7c/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e38492ea721f4fca9e30d5f69c2bc2a6/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e57850ad2a4b4cbcbee3b60de351dcfb/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ee15bfc39fd84988b7e2c8d2493371d7/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f28c30de330349749bba8bd4bb68871c/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f29f332a56ba4dc283abf230357daa2f/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f5a71f59079c4f19bec9a24fb1e75768/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f5ba9053adbf4ffba02a590c52bc3227/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd8196c3b109459d93f88c559e10974c/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fee6330be46e4888a7790c3e810d771f/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffff9f8925304917aae0642c16625e52/download"
+                                            ]
+                      },
+                      {
+                          "noticeId":  "ff24dbb6d7644f798a956179cfb579ce",
+                          "title":  "7A20--Intent to Sole Source - Radformation ClearCheck  Base plus Four (4) Option Years",
+                          "solicitationNumber":  "36C24826Q0067",
+                          "fullParentPathName":  "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248)",
+                          "fullParentPathCode":  "036.3600.36C248",
+                          "postedDate":  "2025-11-10",
+                          "type":  "Presolicitation",
+                          "baseType":  "Sources Sought",
+                          "archiveType":  "autocustom",
+                          "archiveDate":  "2025-12-14",
+                          "typeOfSetAsideDescription":  null,
+                          "typeOfSetAside":  "",
+                          "responseDeadLine":  "2025-11-14T13:00:00-05:00",
+                          "naicsCode":  "513210",
+                          "naicsCodes":  [
+                                             "513210"
+                                         ],
+                          "classificationCode":  "7A20",
+                          "active":  "Yes",
+                          "award":  {
+                                        "awardee":  {
+
+                                                    }
+                                    },
+                          "pointOfContact":  [
+                                                 {
+                                                     "fax":  "",
+                                                     "type":  "primary",
+                                                     "email":  "moneque.rodriguez@va.gov",
+                                                     "phone":  "813-972-2000",
+                                                     "title":  "Contracting Officer",
+                                                     "fullName":  "Moneque Rodriguez"
+                                                 }
+                                             ],
+                          "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ff24dbb6d7644f798a956179cfb579ce",
+                          "organizationType":  "OFFICE",
+                          "officeAddress":  {
+                                                "zipcode":  "33637",
+                                                "city":  "TAMPA",
+                                                "countryCode":  "USA",
+                                                "state":  "FL"
+                                            },
+                          "placeOfPerformance":  {
+                                                     "streetAddress":  "Department of Veterans Affairs C.W. Bill Young VA Medical Center",
+                                                     "streetAddress2":  " 10,000 Bay Pines Blvd",
+                                                     "city":  {
+                                                                  "name":  ""
+                                                              },
+                                                     "state":  {
+                                                                   "name":  "Bay Pines"
+                                                               },
+                                                     "zip":  "FL",
+                                                     "country":  {
+                                                                     "name":  "33744"
+                                                                 }
+                                                 },
+                          "additionalInfoLink":  null,
+                          "uiLink":  "https://sam.gov/workspace/contract/opp/ff24dbb6d7644f798a956179cfb579ce/view",
+                          "links":  [
+                                        {
+                                            "rel":  "self",
+                                            "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ff24dbb6d7644f798a956179cfb579ce\u0026limit=1"
+                                        }
+                                    ],
+                          "resourceLinks":  [
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f68175d61c564f63ad09a2ce2474455f/download"
+                                            ]
+                      },
+                      {
+                          "noticeId":  "fe31a3c9852f4fe7906c7438bddf0424",
+                          "title":  "Tongue and Groove Plywood",
+                          "solicitationNumber":  "W911N226QA006",
+                          "fullParentPathName":  "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC RSA.W6QK LAD CONTR OFF",
+                          "fullParentPathCode":  "021.2100.AMC.ACC.ACC-CTRS.ACC RSA.W911N2",
+                          "postedDate":  "2025-11-10",
+                          "type":  "Solicitation",
+                          "baseType":  "Solicitation",
+                          "archiveType":  "auto15",
+                          "archiveDate":  "2025-11-29",
+                          "typeOfSetAsideDescription":  "Total Small Business Set-Aside (FAR 19.5)",
+                          "typeOfSetAside":  "SBA",
+                          "responseDeadLine":  "2025-11-14T12:00:00-05:00",
+                          "naicsCode":  "321211",
+                          "naicsCodes":  [
+                                             "321211"
+                                         ],
+                          "classificationCode":  "5530",
+                          "active":  "Yes",
+                          "award":  null,
+                          "pointOfContact":  [
+                                                 {
+                                                     "fax":  "",
+                                                     "type":  "primary",
+                                                     "email":  "thomas.c.hall111.civ@army.mil",
+                                                     "phone":  "7172675583",
+                                                     "title":  null,
+                                                     "fullName":  "Thomas C. Hall"
+                                                 },
+                                                 {
+                                                     "fax":  "",
+                                                     "type":  "secondary",
+                                                     "email":  "bobie.j.burkett.civ@army.mil",
+                                                     "phone":  "7172675283",
+                                                     "title":  null,
+                                                     "fullName":  "Bobie J. Burkett"
+                                                 }
+                                             ],
+                          "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fe31a3c9852f4fe7906c7438bddf0424",
+                          "organizationType":  "OFFICE",
+                          "officeAddress":  {
+                                                "zipcode":  "17201-4150",
+                                                "city":  "CHAMBERSBURG",
+                                                "countryCode":  "USA",
+                                                "state":  "PA"
+                                            },
+                          "placeOfPerformance":  {
+                                                     "city":  {
+                                                                  "code":  "12536",
+                                                                  "name":  "Chambersburg"
+                                                              },
+                                                     "state":  {
+                                                                   "code":  "PA",
+                                                                   "name":  "Pennsylvania"
+                                                               },
+                                                     "country":  {
+                                                                     "code":  "USA",
+                                                                     "name":  "UNITED STATES"
+                                                                 }
+                                                 },
+                          "additionalInfoLink":  null,
+                          "uiLink":  "https://sam.gov/workspace/contract/opp/fe31a3c9852f4fe7906c7438bddf0424/view",
+                          "links":  [
+                                        {
+                                            "rel":  "self",
+                                            "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=fe31a3c9852f4fe7906c7438bddf0424\u0026limit=1"
+                                        }
+                                    ],
+                          "resourceLinks":  [
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/341abc43fd86417ea4f4a0a44711cf4b/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3c38c6291e9648cd9dbe36331adddbbe/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/74b0c515e7f749eea648a17f9c73fbb5/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b4475f3010654de6aaf5954dfea9f9b5/download",
+                                                "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc6dd834db7d4d3e8fa7a6e56391993b/download"
+                                            ]
+                      },
+                      {
+                          "noticeId":  "fe2f193bdf9c47f88e0eff4788baca98",
+                          "title":  "Emergency Cardiovascular Technologists",
+                          "solicitationNumber":  "36C26226C0042",
+                          "fullParentPathName":  "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.262-NETWORK CONTRACT OFFICE 22 (36C262)",
+                          "fullParentPathCode":  "036.3600.36C262",
+                          "postedDate":  "2025-11-10",
+                          "type":  "Award Notice",
+                          "baseType":  "Award Notice",
+                          "archiveType":  "auto15",
+                          "archiveDate":  "2025-11-25",
+                          "typeOfSetAsideDescription":  "No Set aside used",
+                          "typeOfSetAside":  "NONE",
+                          "responseDeadLine":  null,
+                          "naicsCode":  "561320",
+                          "naicsCodes":  [
+                                             "561320"
+                                         ],
+                          "classificationCode":  "Q502",
+                          "active":  "Yes",
+                          "award":  {
+                                        "date":  "2025-11-10",
+                                        "number":  "36C26226C0042",
+                                        "amount":  "687431.90",
+                                        "awardee":  {
+                                                        "name":  "A-TEAM SOLUTIONS LLC",
+                                                        "location":  {
+                                                                         "city":  {
+                                                                                      "code":  "31025",
+                                                                                      "name":  "Fulton"
+                                                                                  },
+                                                                         "state":  {
+                                                                                       "code":  "MD",
+                                                                                       "name":  "Maryland"
+                                                                                   },
+                                                                         "zip":  "20759",
+                                                                         "country":  {
+                                                                                         "code":  "USA",
+                                                                                         "name":  "UNITED STATES"
+                                                                                     }
+                                                                     },
+                                                        "ueiSAM":  "GVBWHEPLMFJ9",
+                                                        "cageCode":  "3X4N3"
+                                                    }
+                                    },
+                          "pointOfContact":  [
+                                                 {
+                                                     "fax":  "",
+                                                     "type":  "primary",
+                                                     "email":  "william.cook2@va.gov",
+                                                     "phone":  "6027954289",
+                                                     "title":  null,
+                                                     "fullName":  "Bill Cook"
+                                                 }
+                                             ],
+                          "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fe2f193bdf9c47f88e0eff4788baca98",
+                          "organizationType":  "OFFICE",
+                          "officeAddress":  {
+                                                "zipcode":  "85297",
+                                                "city":  "Gilbert",
+                                                "countryCode":  "USA",
+                                                "state":  "AZ"
+                                            },
+                          "placeOfPerformance":  {
+                                                     "city":  {
+                                                                  "code":  "44000",
+                                                                  "name":  "Los Angeles"
+                                                              },
+                                                     "state":  {
+                                                                   "code":  "CA",
+                                                                   "name":  "California"
+                                                               },
+                                                     "zip":  "90073",
+                                                     "country":  {
+                                                                     "code":  "USA",
+                                                                     "name":  "UNITED STATES"
+                                                                 }
+                                                 },
+                          "additionalInfoLink":  null,
+                          "uiLink":  "https://sam.gov/workspace/contract/opp/fe2f193bdf9c47f88e0eff4788baca98/view",
+                          "links":  [
+                                        {
+                                            "rel":  "self",
+                                            "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=fe2f193bdf9c47f88e0eff4788baca98\u0026limit=1"
+                                        }
+                                    ],
+                          "resourceLinks":  null
+                      }
+                  ],
+    "totalRecordsAvailable":  {
+                                  "stone":  17552,
+                                  "landscape":  17552,
+                                  "gravel":  17552
+                              },
+    "gravel":  [
+                   {
+                       "noticeId":  "ffb82ca01458458cae11f4148a3a2e4a",
+                       "title":  "29--PIPE,EXHAUST",
+                       "solicitationNumber":  "SPE7L426U0088",
+                       "fullParentPathName":  "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA LAND.DLA LAND COLUMBUS.DLA LAND AND MARITIME",
+                       "fullParentPathCode":  "097.97AS.DLA LAND.DLA LAND COLUMBUS.SPE7L4",
+                       "postedDate":  "2025-11-10",
+                       "type":  "Award Notice",
+                       "baseType":  "Award Notice",
+                       "archiveType":  "auto15",
+                       "archiveDate":  "2025-11-25",
+                       "typeOfSetAsideDescription":  null,
+                       "typeOfSetAside":  null,
+                       "responseDeadLine":  null,
+                       "naicsCode":  "336390",
+                       "naicsCodes":  [
+                                          "336390"
+                                      ],
+                       "classificationCode":  "29",
+                       "active":  "Yes",
+                       "award":  {
+                                     "date":  "2025-11-10",
+                                     "number":  "SPE7L426D60KA",
+                                     "amount":  "350000.00",
+                                     "awardee":  {
+                                                     "name":  "GREAT LAKES SOUND \u0026 VIBRATION INC",
+                                                     "ueiSAM":  "KH1SMVPKSHY4",
+                                                     "cageCode":  "3B6V7"
+                                                 }
+                                 },
+                       "pointOfContact":  [
+                                              {
+                                                  "fax":  null,
+                                                  "type":  "primary",
+                                                  "email":  "Stephen.1.Weaver@dla.mil",
+                                                  "phone":  null,
+                                                  "title":  null,
+                                                  "fullName":  "Stephen Weaver6142923131"
+                                              }
+                                          ],
+                       "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ffb82ca01458458cae11f4148a3a2e4a",
+                       "organizationType":  "OFFICE",
+                       "officeAddress":  {
+                                             "zipcode":  "43218-3990",
+                                             "city":  "COLUMBUS",
+                                             "countryCode":  "USA",
+                                             "state":  "OH"
+                                         },
+                       "placeOfPerformance":  null,
+                       "additionalInfoLink":  null,
+                       "uiLink":  "https://sam.gov/workspace/contract/opp/ffb82ca01458458cae11f4148a3a2e4a/view",
+                       "links":  [
+                                     {
+                                         "rel":  "self",
+                                         "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ffb82ca01458458cae11f4148a3a2e4a\u0026limit=1"
+                                     }
+                                 ],
+                       "resourceLinks":  null
+                   },
+                   {
+                       "noticeId":  "ff2e3611bfd14e3cb1099dfb66df0a58",
+                       "title":  "Base Operations Support (BOS) Services at U.S. Naval Air Station (NAS) Sigonella and its outlying support activities, Sicily, Italy",
+                       "solicitationNumber":  "N6247025R0020",
+                       "fullParentPathName":  "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC ATLANTIC CMD.NAVFACSYSCOM ATLANTIC",
+                       "fullParentPathCode":  "017.1700.NAVFAC.NAVFAC ATLANTIC CMD.N62470",
+                       "postedDate":  "2025-11-10",
+                       "type":  "Solicitation",
+                       "baseType":  "Solicitation",
+                       "archiveType":  "autocustom",
+                       "archiveDate":  "2026-04-04",
+                       "typeOfSetAsideDescription":  "No Set aside used",
+                       "typeOfSetAside":  "NONE",
+                       "responseDeadLine":  "2025-12-03T14:00:00-05:00",
+                       "naicsCode":  "561210",
+                       "naicsCodes":  [
+                                          "561210"
+                                      ],
+                       "classificationCode":  "S216",
+                       "active":  "Yes",
+                       "award":  null,
+                       "pointOfContact":  [
+                                              {
+                                                  "fax":  "",
+                                                  "type":  "primary",
+                                                  "email":  "star.m.hanchey.civ@us.navy.mil",
+                                                  "phone":  "",
+                                                  "title":  null,
+                                                  "fullName":  "Star Hanchey"
+                                              },
+                                              {
+                                                  "fax":  "",
+                                                  "type":  "secondary",
+                                                  "email":  "weston.c.polen.civ@us.navy.mil",
+                                                  "phone":  "",
+                                                  "title":  null,
+                                                  "fullName":  "Weston Polen"
+                                              }
+                                          ],
+                       "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ff2e3611bfd14e3cb1099dfb66df0a58",
+                       "organizationType":  "OFFICE",
+                       "officeAddress":  {
+                                             "zipcode":  "23508-1278",
+                                             "city":  "NORFOLK",
+                                             "countryCode":  "USA",
+                                             "state":  "VA"
+                                         },
+                       "placeOfPerformance":  {
+                                                  "city":  {
+                                                               "code":  "Sigonella",
+                                                               "name":  "Sigonella"
+                                                           },
+                                                  "country":  {
+                                                                  "code":  "ITA",
+                                                                  "name":  "ITALY"
+                                                              }
+                                              },
+                       "additionalInfoLink":  null,
+                       "uiLink":  "https://sam.gov/workspace/contract/opp/ff2e3611bfd14e3cb1099dfb66df0a58/view",
+                       "links":  [
+                                     {
+                                         "rel":  "self",
+                                         "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ff2e3611bfd14e3cb1099dfb66df0a58\u0026limit=1"
+                                     }
+                                 ],
+                       "resourceLinks":  [
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/010b61019ec24d769639b864850e3993/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/052fe025cc8b4800a5a17a142375cf6e/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/064e0822a19a43e7981215e758d37e3c/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0686cba8174145fd9482d08298129d55/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/08204e33de4e4fecb845d66db279d41a/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0829698aa96345a38a41fe3239e3c461/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0a81ad0010c842019d6b5a1c85b18661/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0f4aacde3d64448795ae1d9affa68d18/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/14c2d23fb3dd42a78d52d7f8f0de370b/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/16eb3b948e274726a69eef19df7cbfc2/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/18d313ea844c4f80a6f836076be2d28a/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1946f95558914b9c9875193d3ed878eb/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b563c0253374f2d97bd5e7538153080/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b9d5a0a5fc74df08ab4511a584469c8/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1eeedfef2ef7439494d88e8dbc2a8aeb/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24df506c0d1b4593859f61aef08c4314/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/257f7d6ac86a4bad9018c3a84a7d0974/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d3fd0dd0c974f669b7a3be80be7f124/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/367293530559466e95ab85aad0a00fbb/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/388f46f925884fdd8ef6028e2deb8957/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3aca2912eb574c80b019d143d388c83b/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d0186821faf438bb44ba19030ca69c6/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e371ade85f544ae88995aca8a67a0ab/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ed9d5323a974039a64ecaca74d0e5db/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4158abfd2a494f8888a12cadbd4fdff4/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41c72bb2af4342ee8b05d91e8a2c02ca/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/42c5136b2f174219a7881742a1ab8fc6/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4329371d47574240bec32f5ed78138ee/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4430d71764354ab78a1f730fecab4dfc/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a43cb7e92d74d61a5fa21f85603bff8/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a8c69d6ed89462c818ac9de49870879/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4b5e7817731343b9bce55cf1b57368f5/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4cac29b11dc44dec8644b1a62ab0ddb3/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/50dc3d63be6e406ca5d07fda9914a116/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/53de4ce5032a4acf968f4860c9140cd5/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/551baea86447484a8fbcdb4c84bd4f52/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5d1730a1a2b64001ac01ec7922f7e172/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e110ced28744fd2bf48ca0e258cbfae/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5f4f85abb30143c1adbbc6cfe006e2a8/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/60d2a56012b44e9b8c6971f211a30458/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/674c4ed0a1084403b2da7f3f6c50d6df/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/69de43e77af846b19aeb97db6ed67061/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6bdb2072591c492cb1a78f93d87b683a/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6e3938b6f93e4c599028ed76e6f7b12b/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7217427341eb44a4b87e8def6c70fa0e/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7745f67f143940fbb209a3c1fa04d854/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7767bc410ce24bd88579e9513ccabde7/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79280660bcf24c508c6402f9f19ebf7b/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7b99650f419b4936a588f2e8462b5edc/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7cf57df7840147caba832a96e4c40dcf/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7e47aaccd0274be9bdaede284fea9955/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/85aac975fb154daf8b56db915abb04ca/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8a02de3699db4d8a89929da939b93a3c/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e7fb1b15c6d44a89d1f3c98cdf52bf4/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9126ed71b9d14b69bed89d436c60cfd2/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/912b606acbeb48679a5bee1d0ed1dc43/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/923068a3a40b4968a30d17083af3b54d/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/92809a24cfb8487ea44504d5f76cd11f/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93703cffe7b94862815df3a35625af01/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/944598acbc16446984a1633078b77c4b/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9603bf81f45d48d29eba865dc9ec8e82/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/97dd8c13b9d3449098f0193ebc16c274/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9841776ec127492886c7551613f576ee/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/98f6708d46d14d93a494616bd748855c/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/99e61ae561344bb4aae25a0b8a7ff58e/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9adcfb4d48cb471d93b7f6bbaa5e29e8/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9bdf62e909824c7bb2ec1d41ad571cf5/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2436b672914d48ba32b225f7971638/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a0a2e7756e5f4468aa52efd4ec0b298a/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a831fbe57bf9493db78e73445547d488/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aa05a360879c4068b202a621f844bc2a/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ae5f08f97d874a99999f539676becfd7/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/af7d5010d6e6404ea18ebf990b6ee68d/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b6a6df5d70574f9cb175ed18005c9ce5/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b82e425659704343957f7e251f837717/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ba72eaeb0c784688aae164a12202cb0e/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc0825daeeb64cc7a691a7a8ca5fab68/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c464cc0908c54bcc8fb2ea05a280bdd5/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c56cf2b0ec044b66b19bb5f8d377f435/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/caf8c4174c6c42fdb728abe1fbd2d07b/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbe8af51eb8f4eadaa133009ae4a310c/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cc719386dbce4711b1d83cb1e49499ff/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cdade83355834e44af16ad6d6314b36c/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d4b30e78758545058e0a4156e05edc3a/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d74ccabe344c4b79a22a685c31be2666/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/da964e7fac59404288afa76e72c298b3/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/db3ff7f4a1094099a5ca1d9335bb323d/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc7a864287374caa8617f729c5269e22/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e02a1cba25524e0b847146fed685f3be/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e0c9675a8df848478fe9a9d75d954c7c/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e38492ea721f4fca9e30d5f69c2bc2a6/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e57850ad2a4b4cbcbee3b60de351dcfb/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ee15bfc39fd84988b7e2c8d2493371d7/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f28c30de330349749bba8bd4bb68871c/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f29f332a56ba4dc283abf230357daa2f/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f5a71f59079c4f19bec9a24fb1e75768/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f5ba9053adbf4ffba02a590c52bc3227/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd8196c3b109459d93f88c559e10974c/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fee6330be46e4888a7790c3e810d771f/download",
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffff9f8925304917aae0642c16625e52/download"
+                                         ]
+                   },
+                   {
+                       "noticeId":  "ff24dbb6d7644f798a956179cfb579ce",
+                       "title":  "7A20--Intent to Sole Source - Radformation ClearCheck  Base plus Four (4) Option Years",
+                       "solicitationNumber":  "36C24826Q0067",
+                       "fullParentPathName":  "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248)",
+                       "fullParentPathCode":  "036.3600.36C248",
+                       "postedDate":  "2025-11-10",
+                       "type":  "Presolicitation",
+                       "baseType":  "Sources Sought",
+                       "archiveType":  "autocustom",
+                       "archiveDate":  "2025-12-14",
+                       "typeOfSetAsideDescription":  null,
+                       "typeOfSetAside":  "",
+                       "responseDeadLine":  "2025-11-14T13:00:00-05:00",
+                       "naicsCode":  "513210",
+                       "naicsCodes":  [
+                                          "513210"
+                                      ],
+                       "classificationCode":  "7A20",
+                       "active":  "Yes",
+                       "award":  {
+                                     "awardee":  {
+
+                                                 }
+                                 },
+                       "pointOfContact":  [
+                                              {
+                                                  "fax":  "",
+                                                  "type":  "primary",
+                                                  "email":  "moneque.rodriguez@va.gov",
+                                                  "phone":  "813-972-2000",
+                                                  "title":  "Contracting Officer",
+                                                  "fullName":  "Moneque Rodriguez"
+                                              }
+                                          ],
+                       "description":  "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ff24dbb6d7644f798a956179cfb579ce",
+                       "organizationType":  "OFFICE",
+                       "officeAddress":  {
+                                             "zipcode":  "33637",
+                                             "city":  "TAMPA",
+                                             "countryCode":  "USA",
+                                             "state":  "FL"
+                                         },
+                       "placeOfPerformance":  {
+                                                  "streetAddress":  "Department of Veterans Affairs C.W. Bill Young VA Medical Center",
+                                                  "streetAddress2":  " 10,000 Bay Pines Blvd",
+                                                  "city":  {
+                                                               "name":  ""
+                                                           },
+                                                  "state":  {
+                                                                "name":  "Bay Pines"
+                                                            },
+                                                  "zip":  "FL",
+                                                  "country":  {
+                                                                  "name":  "33744"
+                                                              }
+                                              },
+                       "additionalInfoLink":  null,
+                       "uiLink":  "https://sam.gov/workspace/contract/opp/ff24dbb6d7644f798a956179cfb579ce/view",
+                       "links":  [
+                                     {
+                                         "rel":  "self",
+                                         "href":  "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ff24dbb6d7644f798a956179cfb579ce\u0026limit=1"
+                                     }
+                                 ],
+                       "resourceLinks":  [
+                                             "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f68175d61c564f63ad09a2ce2474455f/download"
+                                         ]
+                   }
+               ]
+}

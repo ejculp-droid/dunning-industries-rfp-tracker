@@ -1,0 +1,18 @@
+{
+  "name": "dunning-industries-rfp-tracker",
+  "version": "1.0.0",
+  "description": "Multi-Division Government Contract Opportunities Tracker for Dunning Industries",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js"
+  },
+  "keywords": ["rfp", "sam.gov", "government", "contracts"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0",
+    "cors": "^2.8.5"
+  }
+}
